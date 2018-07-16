@@ -4,7 +4,7 @@
   "description": "the content display on https://tracking.exposed",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node_modules/.bin/pug *.pug -o served/; node_modules/.bin/stylus index.styl -o served/index.css"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,6 @@
   "homepage": "https://github.com/tracking-exposed/trex-website#readme",
   "dependencies": {
     "pug-cli": "^1.0.0-alpha6",
-    "purecss": "^1.0.0",
     "stylus": "^0.54.5"
   }
 }
