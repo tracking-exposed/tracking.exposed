@@ -1,0 +1,24 @@
+{
+  "name": "trex-website",
+  "version": "1.0.0",
+  "description": "the content display on https://tracking.exposed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracking-exposed/trex-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tracking-exposed/trex-website/issues"
+  },
+  "homepage": "https://github.com/tracking-exposed/trex-website#readme",
+  "dependencies": {
+    "pug-cli": "^1.0.0-alpha6",
+    "purecss": "^1.0.0",
+    "stylus": "^0.54.5"
+  }
+}
