@@ -1,4 +1,4 @@
 node_modules
 package-lock.json
 served/index.css
-served/index.html
+served/*.html
