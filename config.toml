@@ -1,0 +1,14 @@
+
+baseURL = "https://tracking.exposed/"
+languageCode = "en-us"
+title = "Tracking Exposed"
+theme = "trex"
+
+[params]
+    subtitle = ""
+    description = "Shining spotlights on the tracking, profiling of users and the influence of algorithms."
+    subsite = "false"
+
+[permalinks]
+    posts = "/news/:slug/"
+
