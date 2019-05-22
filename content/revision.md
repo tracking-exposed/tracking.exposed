@@ -1,6 +1,7 @@
 ---
 title: Revision History
 draft: false
+layout: page
 ---
 
 ### version 1.0.0, 16 July 2018
