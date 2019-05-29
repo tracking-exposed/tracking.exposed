@@ -3,12 +3,72 @@ baseURL = "https://tracking.exposed/"
 languageCode = "en-us"
 title = "Tracking Exposed"
 theme = "trex"
+enableRobotsTXT = true
+canonifyURLs = true
 
 [params]
     subtitle = ""
+    subsite = "default"
     description = "Shining spotlights on the tracking, profiling of users and the influence of algorithms."
-    subsite = "false"
+    tagline = "We fight for a web that is home for many, not property of the few!"
 
 [permalinks]
     posts = "/news/:slug/"
 
+[menu]
+ [[menu.main]]
+    page = "Facebook"
+    identifier = "facebook"
+    name= "Facebook"
+    url = "https://facebook.tracking.exposed"
+    weight = -180
+ [[menu.main]]
+    page = "YouTube"
+    identifier = "youtube"
+    name = "YouTube"
+    url = "https://youtube.tracking.exposed"
+    weight = -170
+ [[menu.main]]
+    page = "PornHub"
+    identifier = "pornhub"
+    name = "PornHub"
+    url = "https://pornhub.tracking.exposed"
+    weight = -160
+
+ [[menu.featured]]
+    page = "Facebook"
+    identifier = "facebook"
+    name= "Facebook"
+    url = "https://facebook.tracking.exposed"
+    weight = -180
+ [[menu.featured]]
+    page = "YouTube"
+    identifier = "youtube"
+    name = "YouTube"
+    url = "https://youtube.tracking.exposed"
+    weight = -170
+ [[menu.featured]]
+    page = "PornHub"
+    identifier = "pornhub"
+    name = "PornHub"
+    url = "https://pornhub.tracking.exposed"
+    weight = -160
+
+  [[menu.initiative]]
+    page = "Facebook algorithm analysis"
+    identifier = "facebook.tracking.exposed"
+    name = "Facebook Tracking Exposed"
+    url = "https://facebook.tracking.exposed"
+    weight = -120
+  [[menu.initiative]]
+    page = "YouTube algorithm exibithion (alpha)"
+    identifier = "youtube.tracking.exposed"
+    name = "YouTube"
+    url = "https://youtube.tracking.exposed"
+    weight = -110
+  [[menu.initiative]]
+    page = "A national-declined research (Italian election)"
+    identifier = "elezioni.tracking.exposed"
+    name = "Italien Election"
+    url = "https://elezioni.tracking.exposed"
+    weight = -100

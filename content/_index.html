@@ -1,0 +1,41 @@
+---
+title: Home
+drafts: false
+layout: home
+---
+
+<p>The site tracking.exposed hosts many different interrelated projects, each
+one under a dedicated and when possible self-explanatory sub-domain.</p>
+
+<div class="row">
+    <div class="col-6">
+        <h2>Our manifesto</h2>
+        <blockquote>Our main objective is to put a spotlight on users' tracking, profiling,
+        on the data market and on the influence of algorithms. As long as these
+        phenomena are shielded from view or understood only by experts, they cannot
+        be tackled with the political determination that problems of such magnitude
+        deserve. That is why we strive to explain the issue, test and promote new
+        solutions, developed to benefit the community.</blockquote>
+        <a href="/manifesto/" class="btn btn-primary">
+            Read Our Full Manifesto
+        </a>
+    </div>
+
+    <div class="col-6">
+        <h2>Our Initiatives</h2>
+
+        <ul>
+            {{ range .Site.Menus.initiative }}
+            <li>
+                {{ .Name }}
+            </li>
+            {{ end }}
+        </ul>
+
+        <h4>Source Code</h4>
+        <a href="https://github.com/tracking-exposed">
+            Our Github
+        </a>
+
+    </div>
+</div>
