@@ -54,19 +54,26 @@ canonifyURLs = true
     url = "https://pornhub.tracking.exposed"
     weight = -160
 
-  [[menu.initiative]]
+  [[menu.initiatives]]
     page = "Facebook algorithm analysis"
     identifier = "facebook.tracking.exposed"
     name = "Facebook Tracking Exposed"
     url = "https://facebook.tracking.exposed"
     weight = -120
-  [[menu.initiative]]
+  [[menu.initiatives]]
     page = "YouTube algorithm exibithion (alpha)"
     identifier = "youtube.tracking.exposed"
-    name = "YouTube"
+    name = "YouTube Tracking Exposed"
     url = "https://youtube.tracking.exposed"
     weight = -110
-  [[menu.initiative]]
+
+  [[menu.studies]]
+    page = "A national-declined research (Italian election)"
+    identifier = "eu19.tracking.exposed"
+    name = "EU Election 2019"
+    url = "https://eu19.tracking.exposed"
+    weight = -100
+  [[menu.studies]]
     page = "A national-declined research (Italian election)"
     identifier = "elezioni.tracking.exposed"
     name = "Italien Election"
