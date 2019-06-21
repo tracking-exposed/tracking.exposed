@@ -1,6 +1,10 @@
+# old style
 node_modules
 package-lock.json
-resources/_gen/
 served/index.css
 served/*.html
+
+# hugo style
+public/
+resources/_gen/
 themes/
