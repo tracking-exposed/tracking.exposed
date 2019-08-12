@@ -1,5 +1,4 @@
-
-baseURL = "https://tracking.exposed/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Tracking Exposed"
 theme = "trex"
@@ -9,6 +8,7 @@ canonifyURLs = true
 [params]
     subtitle = ""
     subsite = "default"
+    openGraphSiteName = "Tracking Exposed"
     description = "Shining spotlights on the tracking, profiling of users and the influence of algorithms."
     tagline = "We fight for a web that is home for many, not property of the few!"
 
@@ -36,23 +36,29 @@ canonifyURLs = true
     weight = -160
 
  [[menu.featured]]
-    page = "Facebook"
-    identifier = "facebook"
-    name= "Facebook"
-    url = "https://facebook.tracking.exposed"
+    page = "Manifesto"
+    identifier = "manifesto"
+    name= "manifesto"
+    url = "/manifesto"
     weight = -180
+    pre = "/images/manifesto.png"
+    post = "Read which vision we want to achieve, how, and why matter for us"
  [[menu.featured]]
-    page = "YouTube"
-    identifier = "youtube"
-    name = "YouTube"
-    url = "https://youtube.tracking.exposed"
+    page = "Join us"
+    identifier = "join-us"
+    name = "Join us"
+    url = "/join-us"
     weight = -170
+    pre = "/images/joinus.png"
+    post = "If you share the values in the Manifesto, you should check it out"
  [[menu.featured]]
-    page = "PornHub"
-    identifier = "pornhub"
-    name = "PornHub"
-    url = "https://pornhub.tracking.exposed"
+    page = "Last activities"
+    identifier = "last-activities"
+    name = "Last activities"
+    url = "/monthly-reports"
     weight = -160
+    pre = "/images/lastactivities.png"
+    post = "Our last activities in the various project under the tracking.exposed umbrella"
 
   [[menu.initiatives]]
     page = "Facebook algorithm analysis"
@@ -60,6 +66,7 @@ canonifyURLs = true
     name = "Facebook Tracking Exposed"
     url = "https://facebook.tracking.exposed"
     weight = -120
+
   [[menu.initiatives]]
     page = "YouTube algorithm exibithion (alpha)"
     identifier = "youtube.tracking.exposed"

@@ -1,32 +1,10 @@
 ---
-title: Manifesto
+title: Tracking Exposed Manifesto
 drafts: false
+date: 2018-07-16T15:01:21+01:00
 layout: page
+description: towards algorithmic diversity, interoperability and control, and enhance the base of the pyramid.
 ---
-
-The site tracking.exposed hosts many different interrelated projects, each one under a dedicated and when possible self-explanatory sub-domain.
-
-## Our Initiatives
-
-**Facebook algorithm analysis**
-
-- [facebook.tracking.exposed](https://facebook.tracking.exposed)
-
-**Youtube algorithm exibithion (alpha)**
-
-- [youtube.tracking.exposed](https://youtube.tracking.exposed)
-
-**A national-declined research (Italian election)**
-
-- [elezioni.tracking.exposed](https://elezioni.tracking.exposed) 
-- [Academic Publication](https://ieeexplore.ieee.org/document/8508659)
-
-**Source Code**
-
-- [Our Github](https://github.com/tracking-exposed)
-
-
-## Our manifesto
 
 *Version 1.0.0, 16 July 2018*
 
@@ -69,13 +47,9 @@ The creation of a new solution is often drowned in a technocratic labyrinth in w
 
 Tracking.exposed provides tools for those doing activities consistent with our manifesto. At the moment we are working on two macro-categories. 
 
-- **Algorithms analysis:** policies for the reuse of data collected by social networks, providing services that social networks have no interest in offering to people. 
-- **Analysis of web trackers:** allow local communities to develop their communication and education campaigns for a better digital ecosystem, managing data analysis and release.
+#### Algorithms analysis
+By Providing services that social networks have no interest in offering to people. Good examples are: [fbTREX](https://facebook.tracking.exposed), [ytTREX](https://youtube.tracking.exposed), and [poTREX](https://pornhub.tracking.exposed). [European Tracking Exposed](https://european.tracking.exposed) is an example on how the data collected by one of the initiative can be integrated on a focus campaign.
 
-## The community
+#### Analysis of web trackers
+We should provide constant, daily updates on how third party trackers are working in our websites. This data, hopefully, used in awareness campaign against this form of corporate surveillance.
 
-This community has a Collective Code Construction Contract (C4). If you have a project that falls within this mandate, you can present it to be included in the tracking.exposed subdomains.
-
-The C4 is halfway between a contract and technical specifications. It describes how you contribute to the project, and the agreement among the parties. The license we use to produce material is always GPL3, the product is collective and it is always clear that the data and the network around it constitute the valuable elements. Since we want to apply policies, the added values of our group are our analysis and our ability to quickly create a technology that validates it.
-
-- [This document revision history, and contacts](/revision) 
