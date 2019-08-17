@@ -36,9 +36,9 @@ canonifyURLs = true
     weight = -160
 
  [[menu.featured]]
-    page = "Manifesto"
+    page = "manifesto"
     identifier = "manifesto"
-    name= "manifesto"
+    name= "Manifesto"
     url = "/manifesto"
     weight = -180
     pre = "/images/manifesto.png"
@@ -52,21 +52,21 @@ canonifyURLs = true
     pre = "/images/joinus.png"
     post = "If you share the values in the Manifesto, you should check it out"
  [[menu.featured]]
-    page = "Last activities"
-    identifier = "last-activities"
-    name = "Last activities"
+    page = "Monthly reports"
+    identifier = "monthly-reports"
+    name = "Monthly reports"
     url = "/monthly-reports"
     weight = -160
     pre = "/images/lastactivities.png"
-    post = "Our last activities in the various project under the tracking.exposed umbrella"
+    post = "Our last activities, from the various project under the tracking.exposed umbrella"
 
+# What is and where 'initiatives' is used ?
   [[menu.initiatives]]
     page = "Facebook algorithm analysis"
     identifier = "facebook.tracking.exposed"
     name = "Facebook Tracking Exposed"
     url = "https://facebook.tracking.exposed"
     weight = -120
-
   [[menu.initiatives]]
     page = "YouTube algorithm exibithion (alpha)"
     identifier = "youtube.tracking.exposed"
@@ -74,6 +74,7 @@ canonifyURLs = true
     url = "https://youtube.tracking.exposed"
     weight = -110
 
+# What is and where 'studies' is used?
   [[menu.studies]]
     page = "A national-declined research (Italian election)"
     identifier = "eu19.tracking.exposed"
