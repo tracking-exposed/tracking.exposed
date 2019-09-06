@@ -28,12 +28,12 @@ canonifyURLs = true
     name = "YouTube"
     url = "https://youtube.tracking.exposed"
     weight = -170
- [[menu.main]]
-    page = "PornHub"
-    identifier = "pornhub"
-    name = "PornHub"
-    url = "https://pornhub.tracking.exposed"
-    weight = -160
+# [[menu.main]]
+#    page = "PornHub"
+#    identifier = "pornhub"
+#    name = "PornHub"
+#    url = "https://pornhub.tracking.exposed"
+#    weight = -160
 
  [[menu.footer]]
     page = "about"
