@@ -41,6 +41,21 @@ canonifyURLs = true
     name = "About"
     url ="/about"
     weight = 0
+[[menu.footer]]
+    page = "Monthly reports"
+    identifier = "monthly"
+    name = "Monthly reports"
+    url = "/monthly"
+[[menu.footer]]
+    page = "manifesto"
+    identifier = "manifesto"
+    name= "Manifesto"
+    url = "/manifesto"
+[[menu.footer]]
+    page = "Connect with us"
+    identifier = "connect"
+    name = "Connect with us"
+    url = "/connect"
 
  [[menu.featured]]
     page = "manifesto"
@@ -51,23 +66,25 @@ canonifyURLs = true
     pre = "/images/filler.svg"
     post = "Read which vision we want to achieve, how, and why matter for us"
  [[menu.featured]]
-    page = "Join us"
-    identifier = "join-us"
-    name = "Join us"
-    url = "/join-us"
+    page = "Connect with us"
+    identifier = "Connect with us"
+    name = "Connect with us"
+    url = "/connect"
     weight = -170
     pre = "/images/filler.svg"
     post = "If you share the values in the Manifesto, you should check it out"
  [[menu.featured]]
     page = "Monthly reports"
-    identifier = "monthly-reports"
+    identifier = "monthly"
     name = "Monthly reports"
-    url = "/monthly-reports"
+    url = "/monthly"
     weight = -160
     pre = "/images/filler.svg"
     post = "Our last activities, from the various project under the tracking.exposed umbrella"
 
-# What is and where 'initiatives' is used ?
+# -------------- BELOW DO NOT SEEMS THEY ARE USED -----------------
+# -------------- BELOW DO NOT SEEMS THEY ARE USED -----------------
+# -------------- BELOW DO NOT SEEMS THEY ARE USED -----------------
   [[menu.initiatives]]
     page = "Facebook algorithm analysis"
     identifier = "facebook.tracking.exposed"
