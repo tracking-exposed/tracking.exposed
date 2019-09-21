@@ -35,13 +35,20 @@ canonifyURLs = true
     url = "https://pornhub.tracking.exposed"
     weight = -160
 
+ [[menu.footer]]
+    page = "about"
+    identifier = "about"
+    name = "About"
+    url ="/about"
+    weight = 0
+
  [[menu.featured]]
     page = "manifesto"
     identifier = "manifesto"
     name= "Manifesto"
     url = "/manifesto"
     weight = -180
-    pre = "/images/manifesto.png"
+    pre = "/images/filler.svg"
     post = "Read which vision we want to achieve, how, and why matter for us"
  [[menu.featured]]
     page = "Join us"
@@ -49,7 +56,7 @@ canonifyURLs = true
     name = "Join us"
     url = "/join-us"
     weight = -170
-    pre = "/images/joinus.png"
+    pre = "/images/filler.svg"
     post = "If you share the values in the Manifesto, you should check it out"
  [[menu.featured]]
     page = "Monthly reports"
@@ -57,7 +64,7 @@ canonifyURLs = true
     name = "Monthly reports"
     url = "/monthly-reports"
     weight = -160
-    pre = "/images/lastactivities.png"
+    pre = "/images/filler.svg"
     post = "Our last activities, from the various project under the tracking.exposed umbrella"
 
 # What is and where 'initiatives' is used ?
