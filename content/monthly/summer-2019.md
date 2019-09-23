@@ -6,4 +6,7 @@ layout: page
 description: stabilize, re-engineer, grow, explore, and new a style
 ---
 
-cdc
+* Our new brand was ready, we are porting all the websites
+* Datathon with berlin dssg
+* youtube analysis in the summer school
+* 

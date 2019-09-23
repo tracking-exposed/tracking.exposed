@@ -48,8 +48,12 @@ The creation of a new solution is often drowned in a technocratic labyrinth in w
 Tracking.exposed provides tools for those doing activities consistent with our manifesto. At the moment we are working on two macro-categories. 
 
 #### Algorithms analysis
-By Providing services that social networks have no interest in offering to people. Good examples are: [fbTREX](https://facebook.tracking.exposed), [ytTREX](https://youtube.tracking.exposed), and [poTREX](https://pornhub.tracking.exposed). [European Tracking Exposed](https://european.tracking.exposed) is an example on how the data collected by one of the initiative can be integrated on a focus campaign.
+
+We do this by supporting [researchers]() and providing services that social networks have no interest in offering to people. Good examples are: [facebook TRex](https://facebook.tracking.exposed), [YouTube TRex](https://youtube.tracking.exposed), and [Pornhub TRex](https://pornhub.tracking.exposed).
+
+<!-- [European Tracking Exposed](https://european.tracking.exposed) is an example on how the data collected by one of the initiative can be integrated on a focus campaign. -->
 
 #### Analysis of web trackers
+
 We should provide constant, daily updates on how third party trackers are working in our websites. This data, hopefully, used in awareness campaign against this form of corporate surveillance.
 
