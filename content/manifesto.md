@@ -43,7 +43,7 @@ Considering the situation, apparently with no way out, in which institutions rea
 
 The creation of a new solution is often drowned in a technocratic labyrinth in which innovation should always fall within the logic of profit, and when it works, it is bought and destroyed. Indeed, a technology for the collective interest may exist, but too often data policies remain distant from the development process, delegated to marketing, to lawyers or to mere discussions on storage. We work in this gap.
 
-## Services
+## Offered Services and Experiments
 
 Tracking.exposed provides tools for those doing activities consistent with our manifesto. By following the ethical constraint that mainstream social networks have no interest in offering to people. This section is growing, and at the moment we focus only on:
 
@@ -59,7 +59,12 @@ Our first experiment on data reuse: [ZuckLess News](https://eu19.tracking.expose
 
 #### Focus campaigns
 
-Sometimes, we run focused campaign such as the [European Election 2019](https://eu19.tracking.exposed), [Italian election analysis](https://elezioni.tracking.exposed), or during the [Argentinian G20](https://webfoundation.org/research/the-invisible-curation-of-content-facebooks-news-feed-and-our-information-diets/). We published papers in [2018](https://tracking.exposed/publications#2018) about the last two. Our team would gladly provide support if anyone display interest and we have space for them.
+Sometimes, we run focused campaign such as the [European Election 2019](https://eu19.tracking.exposed), [Italian election analysis](https://elezioni.tracking.exposed), or during the [Argentinian G20](https://webfoundation.org/research/the-invisible-curation-of-content-facebooks-news-feed-and-our-information-diets/). We published papers in [2018](https://tracking.exposed/analysis-and-publications#2018) on the last two.
+
+*Collaborations*: Our team would gladly provide support if anyone display interest and we have space for them. To run such tests is necessary a domain expert. If you are one of them, or belong to a team which can run a focus campaign, get in touch at |support *at* tracking.exposed| because we might offer help.
+
+<!-- [poTREX](https://pornhub.tracking.exposed). [European Tracking Exposed](https://european.tracking.exposed) -->
+>>>>>>> small trim in manifesto
 
 #### Analysis of web trackers
 
