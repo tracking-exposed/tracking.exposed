@@ -63,9 +63,6 @@ Sometimes, we run focused campaign such as the [European Election 2019](https://
 
 *Collaborations*: Our team would gladly provide support if anyone display interest and we have space for them. To run such tests is necessary a domain expert. If you are one of them, or belong to a team which can run a focus campaign, get in touch at |support *at* tracking.exposed| because we might offer help.
 
-<!-- [poTREX](https://pornhub.tracking.exposed). [European Tracking Exposed](https://european.tracking.exposed) -->
->>>>>>> small trim in manifesto
-
 #### Analysis of web trackers
 
 We should provide constant, daily updates on how third party trackers are working in our websites. This data, hopefully, used in awareness campaign against this form of corporate surveillance. This has been delivered until last year, at the moment we didn't
