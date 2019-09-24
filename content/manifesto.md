@@ -49,8 +49,9 @@ Tracking.exposed provides tools for those doing activities consistent with our m
 
 #### Algorithms analysis
 
-We do this by supporting [researchers]() and providing services that social networks have no interest in offering to people. Good examples are: [facebook TRex](https://facebook.tracking.exposed), [YouTube TRex](https://youtube.tracking.exposed), and [Pornhub TRex](https://pornhub.tracking.exposed) (*the last one, is also the most work-in-progress!*). They share DNA portions: both works by capturing evidence, let peoples analyze their personalized experiences, and researchers can organize tests by controlling some profiles.
+We do this by supporting [researchers]() and providing services that social networks have no interest in offering to people. Good examples are: [facebook TRex](https://facebook.tracking.exposed), [YouTube TRex](https://youtube.tracking.exposed), They share DNA portions: both works by capturing evidence, let peoples analyze their personalized experiences, and researchers can organize tests by controlling some profiles.
 
+<!-- [Pornhub TRex](https://pornhub.tracking.exposed) (*the last one, is also the most work-in-progress!*).  -->
 <!-- [European Tracking Exposed](https://european.tracking.exposed) is an example on how the data collected by one of the initiative can be integrated on a focus campaign. -->
 
 #### Data Reuse

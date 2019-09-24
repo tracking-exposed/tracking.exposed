@@ -30,12 +30,14 @@ We don't have yet a defined code of conduct, rules of engagement. In this phase,
     suffix="youtube.svg"
 >}}
 
+<!--
 {{<trexproj
     href="https://pornhub.tracking.exposed"
     desc="The biggest porn website uses personalized algorithms too! [work in progress]"
     suffix="pornhub.svg"
     bgcolor="black"
 >}}
+-->
 
 {{<trexproj
     href="https://eu19.tracking.exposed"
