@@ -17,20 +17,68 @@ canonifyURLs = true
 
 [menu]
  [[menu.main]]
+    name = "Sections"
+    identifier = "sections"
+
+ [[menu.main]]
+    parent = "sections"
+    name = "About"
+    url ="/about"
+    weight = 10
+ [[menu.main]]
+    parent = "sections"
+    name = "Connect with us"
+    url = "/connect"
+    weight = 20
+ [[menu.main]]
+    parent = "sections"
+    name = "Manifesto"
+    url = "/manifesto"
+    weight = 30
+ [[menu.main]]
+    parent = "sections"
+    name = "Monthly reports"
+    url = "/monthly"
+    weight = 40
+
+
+ [[menu.main]]
+    page = "Analyzed platforms"
+    name = "Analyzed platforms"
+    identifier = "analyzed"
+    weight = 10
+ [[menu.main]]
     page = "Facebook"
     identifier = "facebook"
+    parent = "analyzed"
     name= "Facebook"
     url = "https://facebook.tracking.exposed"
     weight = -180
  [[menu.main]]
     page = "YouTube"
+    parent = "analyzed"
     identifier = "youtube"
     name = "YouTube"
     url = "https://youtube.tracking.exposed"
     weight = -170
+#  [[menu.main]]
+#    page = "A national-declined research (Italian election)"
+#    identifier = "eu19.tracking.exposed"
+#    name = "EU Election 2019"
+#    parent = "studies"
+#    url = "https://eu19.tracking.exposed"
+#    weight = -100
+#  [[menu.main]]
+#    page = "A national-declined research (Italian election)"
+#    identifier = "elezioni.tracking.exposed"
+#    parent = "studies"
+#    name = "Italien Election"
+#    url = "https://elezioni.tracking.exposed"
+#    weight = -100
 # [[menu.main]]
 #    page = "PornHub"
 #    identifier = "pornhub"
+#    parent = "analyzed"
 #    name = "PornHub"
 #    url = "https://pornhub.tracking.exposed"
 #    weight = -160
@@ -63,7 +111,7 @@ canonifyURLs = true
     name= "Manifesto"
     url = "/manifesto"
     weight = -180
-    pre = "/images/filler.svg"
+    pre = "/images/manifesto.svg"
     post = "Read which vision we want to achieve, how, and why matter for us"
  [[menu.featured]]
     page = "Connect with us"
@@ -71,7 +119,7 @@ canonifyURLs = true
     name = "Connect with us"
     url = "/connect"
     weight = -170
-    pre = "/images/filler.svg"
+    pre = "/images/connect with us.svg"
     post = "If you share the values in the Manifesto, you should check it out"
  [[menu.featured]]
     page = "Monthly reports"
@@ -79,35 +127,5 @@ canonifyURLs = true
     name = "Monthly reports"
     url = "/monthly"
     weight = -160
-    pre = "/images/filler.svg"
+    pre = "/images/reports.svg"
     post = "Our last activities, from the various project under the tracking.exposed umbrella"
-
-# -------------- BELOW DO NOT SEEMS THEY ARE USED -----------------
-# -------------- BELOW DO NOT SEEMS THEY ARE USED -----------------
-# -------------- BELOW DO NOT SEEMS THEY ARE USED -----------------
-  [[menu.initiatives]]
-    page = "Facebook algorithm analysis"
-    identifier = "facebook.tracking.exposed"
-    name = "Facebook Tracking Exposed"
-    url = "https://facebook.tracking.exposed"
-    weight = -120
-  [[menu.initiatives]]
-    page = "YouTube algorithm exibithion (alpha)"
-    identifier = "youtube.tracking.exposed"
-    name = "YouTube Tracking Exposed"
-    url = "https://youtube.tracking.exposed"
-    weight = -110
-
-# What is and where 'studies' is used?
-  [[menu.studies]]
-    page = "A national-declined research (Italian election)"
-    identifier = "eu19.tracking.exposed"
-    name = "EU Election 2019"
-    url = "https://eu19.tracking.exposed"
-    weight = -100
-  [[menu.studies]]
-    page = "A national-declined research (Italian election)"
-    identifier = "elezioni.tracking.exposed"
-    name = "Italien Election"
-    url = "https://elezioni.tracking.exposed"
-    weight = -100
