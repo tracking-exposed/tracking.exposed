@@ -9,56 +9,64 @@ layout: page
 
 ---
 
-**Manifesto**: version 1.0.0, 16 July 2018
+**Manifesto**: first version (1.0.0), from 16 July 2018 - current version (1.0.1), 11 August 2019
 
-**Authored** by Claudio, essential *revisions, feedback, and corrections* comes from: Ciaby, Nienke, Velenux, Dan, Saverio, Barbara, Riccardo.
+**Authored** by Claudio, essential *revisions and feedback* from: Ciaby, Nienke, Velenux, Dan, Saverio, Barbara, Riccardo.
 
 ---
 
 Few organizations helped us in the last years, we produced probably [much more](https://facebook.tracking.exposed/analysis-and-publication) than what we were cover to do, we hope you enjoy it!
 
-### From the most recent we have been sponsored by:
+## In 2019 we been sponsored by:
 
-{{< entry
-    text="European Research Council"
-    picture="/images/sponsors/ERC-bianco.jpg"
-    type="right" >}}
+<div class="card-group">
+  {{< sponsor
+      title="European Research Council"
+      text="ALEX is the name of the academic project sponsored, and is host in the University of Amsterdam"
+      subtitle="Our goal is to stabilize the analysis, offer a product for researchers and skilled users, the privacy preserving access logic to the database."
+      link="https://erc.europa.eu/news/erc-proof-concept-grant-examples-research-projects-2-round"
+      linked="The official announcement"
+      picture="/images/sponsors/ERC-bianco.jpg" >}}
+  {{< sponsor
+      title="DATACTIVE"
+      text="Our partner and trustee to apply for the Proof of Concept granted by the ERC"
+      link="https://data-activism.net/2018/09/datactive-proudly-presents-alex-an-interview-with-fbtrex-lead-developer-claudio-agosti/"
+      linked="Interview at the beginning of the project"
+      picture="/images/sponsors/datactive.jpg" >}}
+</div>
 
-{{< entry
-    text="DATACTIVE, our partner and trustee to apply for the Proof of Concept granted by the ERC"
-    picture="/images/sponsors/datactive.jpg"
-    type="right" >}}
+<div class="card-group">
+  {{< sponsor
+      title="NLnet"
+      text="With a small grant they contributed in help us integrating the semantic analysis, this is a fundamental step to start to add metadata on top of the evidences"
+      link="https://nlnet.nl/project/trackingexposed/"
+      linked="Their official project page"
+      picture="/images/sponsors/nlnet.svg" >}}
+  {{< sponsor
+      title="Vietsch Foundation"
+      text="Vietsch Foundation sponsors NLnet in regard of this grant"
+      picture="/images/sponsors/vietschfoundation.jpg" >}}
+</div>
 
-ERC mention us in their [blogpost](https://erc.europa.eu/news/erc-proof-concept-grant-examples-research-projects-2-round) and DATACTIVE an [interview](https://data-activism.net/2018/09/datactive-proudly-presents-alex-an-interview-with-fbtrex-lead-developer-claudio-agosti/).
+## 2016-2018
 
----
-{{< entry
-    text="NLnet, contributed with a small grant in regards of semantic analysis and visualization"
-    picture="/images/sponsors/nlnet.svg"
-    type="left" >}}
+<div class="card-group">
+  {{< sponsor
+      title="OSD"
+      text="Formerly know as former opensensordata. Luca Corsato and Andrea Raimondi been the first very sponsor of the project"
+      link="https://blog.osd.tools/lalgoritmo-dell-algoritmo-5c3a052cc626"
+      linked="They released an internet (in Italian)"
+      picture="/images/sponsors/osd-logo.svg" >}}
 
-{{< entry
-    text="vietsch Foundation sponsors NLnet"
-    picture="/images/sponsors/vietschfoundation.jpg"
-    type="left" >}}
+  {{< sponsor
+      title="Data Transparency Lab price"
+      text="DTL grant every year a price to everyone passing their selections"
+      link="https://datatransparencylab.org/cft2018_winners/"
+      linked="Announcement post" >}}
 
-See more at their [project page](https://nlnet.nl/project/trackingexposed/).
-
----
-
-Here in meanwhile, 2017 and 2018, we received a small grant from [LUSH+AccessNow  #KeepItOn](https://www.accessnow.org/keepiton/), and [Data Transparency Lab](https://datatransparencylab.org/cft2018_winners/).
-
----
-{{< entry
-    text="OSD (former opensensordata)"
-    picture="/images/sponsors/osd-logo.svg"
-    type="right" >}}
-
-OSD was our very first sponsor, not with funds, but their expertise has been highly important for an unexperienced project like fbtrex in 2016.
-They released [an interview](https://blog.osd.tools/lalgoritmo-dell-algoritmo-5c3a052cc626) (in Italian).
-
-
-<!--
-#### Manifesto version 1.0.1, 11 August 2019
-Few updates at the bottom of the page, check the diff (TODO github link to the commit. REMIND: commit the file alone)
--->
+  {{< sponsor
+      title="Lush & AccessNow #KeepItOn"
+      link="https://www.accessnow.org/keepiton/"
+      linked="read the campaign results and reasons"
+      text="Because algorithmic censorship is it something which should be investigated, we get a small sponsorship after Lush sold all the 404-bath-bomb to fundraise against Internet blackouts" >}}
+</div>
