@@ -6,11 +6,7 @@ layout: page
 description: getting ready to new
 ---
 
-<<<<<<< HEAD
-* Released the new website https://tracking.exposed :) 
-=======
 * Released the new website https://tracking.exposed :) still under review right now, but can be consider published.
->>>>>>> added September 2019 report
 * YouTube in the last revision phase, already public, most of the effort went in https://youtube.tracking.exposed/results.
 * Restructuring of the new 'group' concept, we'll start to implement it on YouTube.
 * Participation to [Beyond Future Design](https://www.beyond-festival.com/en/symposium/future-design/) festival. The presentation was new but without any original research.
