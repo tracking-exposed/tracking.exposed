@@ -27,7 +27,7 @@ canonifyURLs = true
     weight = 10
  [[menu.main]]
     parent = "sections"
-    name = "Connect with us"
+    name = "What we do & get in touch"
     url = "/connect"
     weight = 20
  [[menu.main]]
@@ -89,41 +89,35 @@ canonifyURLs = true
     name = "About"
     url ="/about"
     weight = 0
-[[menu.footer]]
+ [[menu.footer]]
     page = "Monthly reports"
     identifier = "monthly"
     name = "Monthly reports"
     url = "/monthly"
-[[menu.footer]]
+ [[menu.footer]]
     page = "manifesto"
     identifier = "manifesto"
     name= "Manifesto"
     url = "/manifesto"
-[[menu.footer]]
-    page = "Connect with us"
+ [[menu.footer]]
+    page = "What we do & get in touch"
+    name = "What we do & get in touch"
     identifier = "connect"
-    name = "Connect with us"
     url = "/connect"
 
  [[menu.featured]]
-    page = "manifesto"
-    identifier = "manifesto"
     name= "Manifesto"
     url = "/manifesto"
     weight = -180
-    pre = "/images/manifesto.svg"
+    pre = "/images/trex-logo.svg"
     post = "Read which vision we want to achieve, how, and why matter for us"
  [[menu.featured]]
-    page = "Connect with us"
-    identifier = "Connect with us"
-    name = "Connect with us"
+    name = "What we do & get in touch"
     url = "/connect"
     weight = -170
     pre = "/images/connect with us.svg"
     post = "If you share the values in the Manifesto, you should check it out"
  [[menu.featured]]
-    page = "Monthly reports"
-    identifier = "monthly"
     name = "Monthly reports"
     url = "/monthly"
     weight = -160
