@@ -2,8 +2,8 @@
 title: September 2019 report
 drafts: false
 date: 2019-09-30T15:01:21+01:00
-layout: page
-description: getting ready to new
+layout: monthly
+description: getting ready to new style, and quick deployment of new platforms
 ---
 
 * Released the new website https://tracking.exposed :) still under review right now, but can be consider published.

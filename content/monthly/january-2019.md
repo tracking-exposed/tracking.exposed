@@ -2,15 +2,15 @@
 title: January 2019 report
 drafts: false
 date: 2019-01-31T15:01:21+01:00
-layout: page
+layout: monthly
 description: Anticipation on our EU electoral analysis, and our first workshop on algorithm accountability and analysis
 ---
 
-After the last year's [CCC talk](https://media.ccc.de/v/35c3-9797-analyze_the_facebook_algorithm_and_reclaim_data_sovereignty) and the [2017-2018 project report](https://github.com/tracking-exposed/presentation/raw/master/fbTREX%20-%20project%20status%20and%20analysis%20-%20December%202018.pdf), we describe here the progress made during January.
+# After the last year's [CCC talk](https://media.ccc.de/v/35c3-9797-analyze_the_facebook_algorithm_and_reclaim_data_sovereignty) and the [2017-2018 project report](https://github.com/tracking-exposed/presentation/raw/master/fbTREX%20-%20project%20status%20and%20analysis%20-%20December%202018.pdf), we describe here the progress made during January.
 
 * Started splitting the project between [Algorithm Exposed](https://algorithms.exposed), Facebook Tracking Exposed(https://facebook.tracking.exposed) which will be more technical and the various campaigns such as EU19(https://eu19.tracking.exposed).
 * Prepared a document that defines Tracking Exposed as a brand. It helps communicating complex concepts when we open up as a community by clarifying what we do and how we do it.
-* Offered a 3-days workshop in the context of [Digital Methods Initiative Winter School](https://wiki.digitalmethods.net/Dmi/WinterSchool2019AlgorithmsExposed). 
+* Offered a 3-days workshop in the context of [Digital Methods Initiative Winter School](https://wiki.digitalmethods.net/Dmi/WinterSchool2019AlgorithmsExposed).
 * Started preparing the texts for the European Elections 2019 portal. The goal is to engage people in collaborative effort. We want to reach a target audience composed of social scientists, data scientists/analysts, journalists, political candidates or advertisers, as well as all the other Facebook users (especially curious ones).
 * Gave three public talks: in Berlin at Transmediale and in Brussels at CPDP2019 and Privacy Camp ([links here](https://facebook.tracking.exposed/analysis-and-publication). We followed [this script](https://github.com/tracking-exposed/eu19/pull/12) still should be converted in markdown and then transformed in page. During this experience, we found the 'algorithmic literacy narrative' to be the most engaging. -- [links here](https://github.com/tracking-exposed/eu19/pull/12#issuecomment-460991246).
 * At Transmediale, [offered a workshop with 3 collaborators](https://2019.transmediale.de/content/bring-your-metadata-a-practical-analysis-of-the-facebook-algorithm)
