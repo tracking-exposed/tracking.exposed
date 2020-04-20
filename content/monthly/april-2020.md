@@ -1,7 +1,7 @@
 ---
 title: April 2020 report, Quarantine edition n. II
 drafts: false
-date: 2020-04-30T10:01:21+01:00
+date: 2020-04-20T10:01:21+01:00
 layout: monthly
 description: slow and steady, wetest data release
 ---
