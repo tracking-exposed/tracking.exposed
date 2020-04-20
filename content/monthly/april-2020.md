@@ -6,6 +6,24 @@ layout: monthly
 description: slow and steady, wetest data release
 ---
 
+# Action (for reporting)
+
+On facebook.tracking.exposed we purge ciclically data. The data is backup and not accessible as historical reference. We wonder if might be interesting, in the future, see how Facebook HTML and timelines looks like.
+Still, from the online server, everything older than 2019 is wiped.
+
+On different platforms (youtube), we plan to organize differently the
+switched to db facebook
+PRIMARY> db.timelines2.count({ "startTime" :{  "$lt": new Date("2018-01-01") }} )
+0
+PRIMARY> db.timelines2.count({ "startTime" :{  "$lt": new Date("2019-01-01") }} )
+590177
+PRIMARY> db.timelines2.remove({ "startTime" :{  "$lt": new Date("2019-01-01") }} )
+WriteResult({ "nRemoved" : 590177 })
+PRIMARY> db.impressions2.remove({ "impressionTime": { "$lt": new Date("2019-01-01") }} )
+WriteResult({ "nRemoved" : 7619540 })
+PRIMARY> db.htmls2.remove({ "savingTime" : { "$lt" : new Date("2019-01-01") } })
+WriteResult({ "nRemoved" : 4586490 })
+PRIMARY>
 ## TODO project management work in progress (20 April)
 
 https://github.com/tracking-exposed/youtube.tracking.exposed/projects/1
@@ -20,3 +38,8 @@ C'è stata la puntata di LOST del 19 Aprile 2020, con interessanti spunti al min
 
 # TODO
 Trasformare i tre pezzi in tre documenti a se stanti, da pubblicare e diffondere sviluppando nuovi canali.
+
+I pad temporanei sono:
+https://hackmd.io/@popcorn/r1UY-RFdU?both questo del pezzo letto finale
+https://pad.riseup.net/p/trexvirusprivacy questo con Covid
+https://pad.riseup.net/p/trexvirusprivacy-version2 questo su privacy
