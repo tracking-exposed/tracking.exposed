@@ -44,16 +44,16 @@ IdentityFile /home/hugo/keys/hugo-trex-theme
 
 git clone git@amtrex:tracking-exposed/amazon.tracking.exposed
 git clone git@fbtrex:tracking-exposed/facebook.tracking.exposed
-git clone git@ttheme:tracking-exposed/hugo-trex-theme
+git clone git@ttheme:tracking-exposed/hugo-theme-trex
 git clone git@potrex:tracking-exposed/pornhub.tracking.exposed
 git clone git@trex:tracking-exposed/tracking.exposed
 git clone git@yttrex:tracking-exposed/youtube.tracking.exposed
 
-cd tracking.exposed          && mkdir themes && cd themes && ln -s ../../hugo-trex-theme ./trex && cd
-cd facebook.tracking.exposed && mkdir themes && cd themes && ln -s ../../hugo-trex-theme ./trex && cd
-cd amazon.tracking.exposed   && mkdir themes && cd themes && ln -s ../../hugo-trex-theme ./trex && cd
-cd pornhub.tracking.exposed  && mkdir themes && cd themes && ln -s ../../hugo-trex-theme ./trex && cd
-cd youtube.tracking.exposed  && mkdir themes && cd themes && ln -s ../../hugo-trex-theme ./trex && cd
+cd tracking.exposed          && mkdir themes && cd themes && ln -s ../../hugo-theme-trex ./trex && cd
+cd facebook.tracking.exposed && mkdir themes && cd themes && ln -s ../../hugo-theme-trex ./trex && cd
+cd amazon.tracking.exposed   && mkdir themes && cd themes && ln -s ../../hugo-theme-trex ./trex && cd
+cd pornhub.tracking.exposed  && mkdir themes && cd themes && ln -s ../../hugo-theme-trex ./trex && cd
+cd youtube.tracking.exposed  && mkdir themes && cd themes && ln -s ../../hugo-theme-trex ./trex && cd
 
 ### Tests
 
