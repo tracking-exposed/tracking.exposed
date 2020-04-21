@@ -1,10 +1,8 @@
-# old style
-node_modules
-package-lock.json
-served/index.css
-served/*.html
 
-# hugo style
+# For hugo
 public/
 resources/_gen/
 themes/
+
+# Internal deployment method
+.infrastructure/*
