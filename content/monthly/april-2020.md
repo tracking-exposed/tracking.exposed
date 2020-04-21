@@ -6,9 +6,9 @@ layout: monthly
 description: slow and steady, wetest data release
 ---
 
-# Action (for reporting)
+# Actions performed (they goes on April reporting)
 
-On facebook.tracking.exposed we purge ciclically data. The data is backup and not accessible as historical reference. We wonder if might be interesting, in the future, see how Facebook HTML and timelines looks like.
+On facebook.tracking.exposed we purge cyclically data. The data is backup and not accessible as historical reference. We wonder if might be interesting, in the future, see how Facebook HTML and timelines looks like.
 Still, from the online server, everything older than 2019 is wiped.
 
 On different platforms (youtube), we plan to organize differently the data retention policy:
@@ -21,13 +21,13 @@ On different platforms (youtube), we plan to organize differently the data reten
     PRIMARY> db.timelines2.remove({ "startTime" :{  "$lt": new Date("2019-01-01") }} )
     WriteResult({ "nRemoved" : 590177 })
 
-With the command above we we deleted the timelines, the objhect linking all the impressions to an user and to a unique sequence.
+With the command above we deleted the timelines, the object linking all the impressions to an user and to a unique sequence.
 
     PRIMARY> db.impressions2.remove({ "impressionTime": { "$lt": new Date("2019-01-01") }} )
     WriteResult({ "nRemoved" : 7619540 })
 
 With the above we deleted impressions, an object reporting if the impression is public or private, and if there is an HTML (public posts).
-Private post have an impression number, and this guarantee a sequence. impressionOrder come from 1 to the lenght of the timelines.
+Private post have an impression number, and this guarantee a sequence. impressionOrder come from 1 to the length of the timelines.
 
     PRIMARY> db.htmls2.remove({ "savingTime" : { "$lt" : new Date("2019-01-01") } })
     WriteResult({ "nRemoved" : 4586490 })
