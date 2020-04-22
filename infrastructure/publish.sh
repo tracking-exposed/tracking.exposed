@@ -10,6 +10,14 @@ fi
 
 cd $1
 
+x=`git pull origin master | wc -l`
+
+if ! [ $x -gt 1 ]; then
+  echo "No update on the repository"; exit
+fi
+
+../hugo/hugo
+
 if ! [ -e ".infrastructure/variables" ]; then
     echo "Missing 'variable' file in $1/.infrastructure"; exit
 fi
