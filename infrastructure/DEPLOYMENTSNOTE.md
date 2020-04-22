@@ -39,8 +39,7 @@ Host ttheme github.com
 Hostname github.com
 IdentityFile /home/hugo/keys/hugo-trex-theme
 
-
-### commands given
+### Commands given
 
 git clone git@amtrex:tracking-exposed/amazon.tracking.exposed
 git clone git@fbtrex:tracking-exposed/facebook.tracking.exposed
