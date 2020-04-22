@@ -23,3 +23,4 @@ fi
 cd ..
 echo "starting rsync"
 sh $1/.infrastructure/rsyncmd
+echo "Site update on `date` " >> /tmp/autoupdates-$1
