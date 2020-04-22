@@ -21,7 +21,8 @@ if ! [ -e ".infrastructure/rsyncmd" ]; then
 fi
 
 ../go/bin/hugo
-# This invokation goes after the check of 'variables' because 'hugo-theme-trex' doesn't compile on a site.
+# This invokation goes after the check of 'rsyncmd' because 'hugo-theme-trex' doesn't compile on a site.
 
+cd ..
 echo "starting rsync"
-sh .infrastructure/rsyncmd
+sh $1/.infrastructure/rsyncmd
