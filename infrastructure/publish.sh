@@ -16,8 +16,8 @@ if ! [ $x -gt 1 ]; then
   echo "No update on the repository, quitting."; exit
 fi
 
-if ! [ -e ".infrastructure/variables" ]; then
-    echo "Missing 'variable' file in $1/.infrastructure"; exit
+if ! [ -e ".infrastructure/rsyncmd" ]; then
+    echo "Missing 'rsyncmd' file in $1/.infrastructure"; exit
 fi
 
 ../go/bin/hugo
