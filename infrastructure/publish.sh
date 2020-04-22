@@ -13,14 +13,15 @@ cd $1
 x=`git pull origin master | wc -l`
 
 if ! [ $x -gt 1 ]; then
-  echo "No update on the repository"; exit
+  echo "No update on the repository, quitting."; exit
 fi
-
-../hugo/hugo
 
 if ! [ -e ".infrastructure/variables" ]; then
     echo "Missing 'variable' file in $1/.infrastructure"; exit
 fi
 
-source .infrastructure/variables
-$command ## todo is the hugo + rsync
+../go/bin/hugo
+# This invokation goes after the check of 'variables' because 'hugo-theme-trex' doesn't compile on a site.
+
+echo "starting rsync"
+sh .infrastructure/rsyncmd
