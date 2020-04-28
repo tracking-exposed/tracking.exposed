@@ -22,5 +22,5 @@ fi
 # This invokation goes after the check of 'rsyncmd' because 'hugo-theme-trex' doesn't compile on a site.
 cd ..
 echo "starting rsync"
-sh $1/.infrastructure/rsyncmd
+sh $1/.infrastructure/rsyncmd >> /tmp/autoupdates-$1
 echo "Site update on `date` " >> /tmp/autoupdates-$1
