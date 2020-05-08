@@ -3,10 +3,12 @@ title: April 2020 work in progress - Quarantine edition n. II
 drafts: false
 date: 2020-04-30T10:01:21+01:00
 layout: monthly
-description: slow and steady, wetest data release
+description: wetest and youtube progress
 ---
 
-# Actions performed (they goes on April reporting)
+# On data retention
+
+### Actions performed
 
 On facebook.tracking.exposed we purge cyclically data. The data is backup and not accessible as historical reference. This because might be interesting, in the future, see how Facebook HTML and timelines looked like back in time. The data collected from our infrastructure is divided in two group:
 
@@ -40,14 +42,16 @@ Private post have an impression number, and this guarantee a sequence. impressio
 
 Remove the HTML collection.
 
-
 It should be documented how these information are the one provided by people, subject to cyclic cleaning.
-The metadata, a separated column
+
+### Upcoming actions
+
+* We want to allow people using the extension to configure their own data retention policy.
+* Stats counter should display also cancellation beside addition.
 
 ---
 
-
-# TODOS project management (20 April)
+### Youtube Tracking Exposed progresses
 
 https://github.com/tracking-exposed/youtube.tracking.exposed/projects/1
 
@@ -55,14 +59,9 @@ Here important the privacy updates required to every extension from Mozilla and 
 
 In addition, there is a work in progress on parsing more information from youtube format, necessary for [wetest1](https://youtube.tracking.exposed/wetest/1).
 
+Improved (and renamed) the [Youtube Tracking Exposed Privacy Policy](https://youtube.tracking.exposed/privacy).
+---
+
 ## Italian below
 
 C'è stata la puntata di LOST del 19 Aprile 2020, con interessanti spunti al minuto 50. La puntata completa e più opzioni la si trova [qui](https://archive.org/details/20200419loco19) al minuto 59:15 inizia Giulia x Trex!, qui l'[mp3](https://archive.org/download/20200419loco19/2020-04-19-loco19.mp3)
-
-## Testi da rivedere e produrre.
-
-Abbiamo:
-1) un testo prodotto a luglio da formattare (e forse dividere in 2)
-2) il testo letto a LOST https://hackmd.io/@popcorn/r1UY-RFdU?both
-3) https://pad.riseup.net/p/trexvirusprivacy questo con Covid, aspettare i primi risultati di wetest
-4) https://pad.riseup.net/p/trexvirusprivacy-version2 questo su privacy, va integrato con tutto il wishfulthinking che abbiamo
