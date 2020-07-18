@@ -15,9 +15,13 @@ layout: page
 
 ---
 
-## 2020 status
+## 2020 sponsorship (spoiler: nothing)
 
 Completely unfunded and broken-voluntary driven. Few organizations helped us in the last years, we produced [much more](https://facebook.tracking.exposed/analysis-and-publication) than what we were cover to do, that's why we keep trying to partner up with like minded organizations.
+
+<div class="container">
+<br><br><br>
+</div>
 
 ## In 2019 we have been sponsored by:
 
