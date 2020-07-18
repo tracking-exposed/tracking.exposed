@@ -5,6 +5,11 @@ theme = "trex"
 enableRobotsTXT = true
 canonifyURLs = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
     subtitle = ""
     subsite = "default"
