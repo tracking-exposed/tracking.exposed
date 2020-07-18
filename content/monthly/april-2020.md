@@ -1,6 +1,6 @@
 ---
 title: April 2020 work in progress - Quarantine edition n. II
-drafts: false
+draft: false
 date: 2020-04-30T10:01:21+01:00
 layout: monthly
 description: wetest and youtube progress
@@ -44,22 +44,14 @@ Remove the HTML collection.
 
 It should be documented how these information are the one provided by people, subject to cyclic cleaning.
 
-### Upcoming actions
-
-* We want to allow people using the extension to configure their own data retention policy.
-* Stats counter should display also cancellation beside addition.
-
 ---
 
 ### Youtube Tracking Exposed progresses
 
-https://github.com/tracking-exposed/youtube.tracking.exposed/projects/1
+* [Here the privacy updates required to every extension from Mozilla and Google](https://github.com/tracking-exposed/youtube.tracking.exposed/projects/1). We'll begin with youtube.
+* In addition, there is a work in progress on parsing more information from youtube format, necessary for [wetest1](https://youtube.tracking.exposed/wetest/1).
+* Improved (and renamed) the [Youtube Tracking Exposed Privacy Policy](https://youtube.tracking.exposed/privacy).
 
-Here important the privacy updates required to every extension from Mozilla and Google. we'll begin by youtube.
-
-In addition, there is a work in progress on parsing more information from youtube format, necessary for [wetest1](https://youtube.tracking.exposed/wetest/1).
-
-Improved (and renamed) the [Youtube Tracking Exposed Privacy Policy](https://youtube.tracking.exposed/privacy).
 ---
 
 ## Italian below
