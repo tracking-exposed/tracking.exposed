@@ -1,7 +1,7 @@
 ---
-title: May-July 2020 report
+title: May to July 2020 report
 draft: false
-date: 2020-07-25T10:01:21+01:00
+date: 2020-07-18T10:01:21+01:00
 layout: monthly
 description: A+alliance, youtube progress and a roadmap development
 ---

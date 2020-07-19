@@ -1,5 +1,5 @@
 ---
-title: About Tracking Exposed
+title: About Us
 draft: false
 layout: page
 ---
