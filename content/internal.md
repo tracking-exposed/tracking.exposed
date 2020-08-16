@@ -7,7 +7,9 @@ layout: page
 description: Internal page to remind collaborators how to contribute and report it in the website.
 ---
 
-### Dear friend! If you did something for tracking.exposed: great! Sadly, the effort isn’t concluded until your action is adequately reported in the list of ‘analysis-and-publication’! is our piece of HTML documenting all the project’s success, and you should be there too. It doesn’t matter if only a 15 person attendee or if everyone was distracted. We should memorize each advocacy effort. Even an apparently meaningless event, after six months, take a different meaning. So please,  for future references, and to better focus our energies in the future, record your contribution!
+### Dear friend! If you did something for tracking.exposed: cool! Sadly, your effort is not over yet, until your action gets adequately reported in our production list.
+The file is of ‘analysis-and-publication’! our list of project’s success and yours should be there too.
+We should save each advocacy effort. Articles published that talk about us, and of course our productions.
 
 **You've to edit** (or propose a pull request) to [this file on github](https://raw.githubusercontent.com/tracking-exposed/facebook.tracking.exposed/master/content/analysis-and-publications.md), which [become like a list of events](https://facebook.tracking.exposed/analysis-and-publications/) in the end.
 
@@ -24,6 +26,10 @@ resource
   description="Netzpolitik interview to Claudio Agosti on the Tracking Exposed project and plan"
   href="https://netzpolitik.org/2019/facebooks-algorithm-shapes-our-lives-this-hacker-wants-to-find-out-how/#spendenleiste"
 ```
+
+and it gets automatically formatted to look like this:
+
+### Please ask yourself how the event/publication should looks like (it is not just OK copy paste the abstract ;) )
 
 You don't need to put every line. for example, author and authorLink shouldn't happen often, they are meant for person OUTSIDE of the project. The speaker/project member, should go in the description.
 
