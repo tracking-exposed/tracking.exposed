@@ -1,10 +1,9 @@
 ---
 title: August 2020 report
 drafts: false
-date: 2019-08-18T05:01:21+00:00
+date: 2020-08-18T05:01:21+00:00
 layout: monthly
 ---
-
 
 Completed and submitted a paper made from the experiment named [weTest1](https://youtube.tracking.exposed/wetest/announcement-1). We used a variety of analysis. For example network visualization enhanced clusters and highlight patterns:
 {{<simplepict href="/images/wetest-network-analysis.png">}}
