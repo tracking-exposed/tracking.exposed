@@ -1,7 +1,7 @@
 ---
 title: August 2020 report
 drafts: false
-date: 2020-08-18T05:01:21+00:00
+date: 2020-08-16T16:16:16+01:00
 layout: monthly
 ---
 
