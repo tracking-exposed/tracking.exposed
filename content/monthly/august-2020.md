@@ -13,7 +13,7 @@ A few months ago, we had insights thanks to such kind of analysis, after a colla
 Apply analysis on recurring videos, and separated what's in the API, what with _unlogged_ profiles vs _logged_ profiles:
 {{<simplepict href="/images/wetest-finding-1.png">}}
 
-The 16 pages paper it is under peer review, this is the preprint[[.pdf](https://github.com/tracking-exposed/experiments-data/blob/master/wetest1/wetest-paper-submitted-preprint.pdf)].
+The 14 pages paper it is under peer review, this is the preprint[[.pdf](https://github.com/tracking-exposed/experiments-data/blob/master/wetest1/wetest-paper-submitted-preprint.pdf)].
 The data [[files on git](https://github.com/tracking-exposed/experiments-data/tree/master/wetest1)] CSV and JSON.
 
 {{<simplepict href="/images/wetest-github-capture.png">}}
