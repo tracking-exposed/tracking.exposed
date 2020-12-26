@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About TRex
 draft: false
 layout: page
 ---
@@ -9,11 +9,10 @@ layout: page
 
 ---
 
-**Manifesto**: first version (1.0.0), from 16 July 2018 - current version (1.0.1), 11 August 2019
+## 2121 sponsorship (again, nothing so far)
 
-**Authored** by Claudio, essential *revisions and feedback* from: Ciaby, Nienke, Velenux, Dan, Saverio, Barbara, Riccardo.
+This is a serious problem, especially considering how quickly other organization replace our approach without considering collaboration of any kind.
 
----
 
 ## 2020 sponsorship (spoiler: nothing)
 

@@ -67,3 +67,8 @@ Sometimes, we run focused campaign such as the [European Election 2019](https://
 #### Analysis of web trackers
 
 We should provide constant, daily updates on how third party trackers are working in our websites. This data, hopefully, used in awareness campaign against this form of corporate surveillance. This has been delivered until last year, at the moment we didn't
+
+
+---
+_by Claudio, Ciaby, Nienke, Velenux, Dan, Saverio, Barbara, Riccardo._
+
