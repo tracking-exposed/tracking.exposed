@@ -5,7 +5,6 @@ date: 2020-11-24T16:16:16+01:00
 layout: monthly
 ---
 
-
 ## 1. facebook.tracking.exposed restored
 
 The not so visible change of Facebook new UX is the deployment of many anti-scraping countermeasure. This put our collection service offline for a few months. Now it restarted in collecing. 

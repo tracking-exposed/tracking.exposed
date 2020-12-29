@@ -46,6 +46,10 @@ canonifyURLs = true
     url = "/monthly"
     weight = 40
 
+ [[menu.main]]
+    name = "Analysis and Publications"
+    url = "/analysis-and-publications"
+
 
  [[menu.main]]
     page = "Analyzed platforms"
