@@ -1,16 +1,37 @@
 ---
 title: "Analysis & Publications"
-date: 2019-04-01T15:32:40+01:00
+date: 2021-01-01T15:32:40+01:00
 draft: false
+
+og_title: "TRex — Analysis & Publications"
+og_description: "Articles, Videos and Interview on algorithm analysis, since 2016"
 ---
+
 <h3
-  style="text-align:center;padding-top:1em;padding-bottom:1em;" class="">
-    2020
-    <a href="#2019">2019</a>
-    <a href="#2018">2018</a>
-    <a href="#2017">2017</a>
-    <a href="#2016">2016</a>
+  style="text-align:center;padding-top:1em;padding-bottom:1em;border-bottom:black 1px solid;">
+    2021 —
+    <a id="s20" href="#2020">2020</a> —
+    <a id="s19" href="#2019">2019</a> —
+    <a id="s18" href="#2018">2018</a> —
+    <a id="s17" href="#2017">2017</a> —
+    <a id="s16" href="#2016">2016</a>
 </h3>
+
+## 2021
+
+Nothing yet!
+
+## 2020
+
+Amazon algorithm analysis for product and search results:
+
+#### — [Tracking Gender Bias in Amazon Search Results](https://wiki.digitalmethods.net/Dmi/WinterSchool2020trackinggenderbiasamazon)
+#### — [Is Amazon.com the Same Everywhere?](https://wiki.digitalmethods.net/Dmi/WinterSchool2020amazonregional)
+#### — [Choose Your Price: Windows 10 vs. macOS](https://wiki.digitalmethods.net/Dmi/WinterSchool2020AmazonOS)
+#### — [Does Amazon know your Wealth?](https://wiki.digitalmethods.net/Dmi/WinterSchool2020DoesAmazonknowyourWealth)
+#### — [Amazon’s Choice: An inquiry into Amazon](https://wiki.digitalmethods.net/Dmi/WinterSchool2020amazonschoice)
+
+The project [amTREX](https://amazon.tracking.exposed) isn’t supported since, as we really struggle to maintain all these platforms without a single € of investment 🤷
 
 {{<resource
   kind="link"
@@ -514,3 +535,20 @@ draft: false
   href="https://www.youtube.com/watch?v=ayZeNKjX4i4"
   authors="Claudio Agosti"
   description="This is the project inception to the public! The original title was complete by saying 'not encryption anymore', but might sounds misleading. Encryption is a fundamental element for protection, simply, the impact of social media in our perception of reality is unmeasured, subtle, and potentially scaring. But is not for fear this call, is because, with centralization, we lose as individual the ability to control our own algorithm. P.S. Despite this is first appearance of the project in public, the very first birthday was here: https://moca.olografix.org/en/moca-en/ !" >}}
+
+<script type="text/javascript">
+
+  function registerScrolling(listofIDs) {
+    listofIDs.forEach(function(id) {
+      $(id).click(function(e) {
+        e.preventDefault();
+        const targel = $(this.getAttribute('href'));
+        const dest = targel.offset().top -200;
+        $('html').animate({scrollTop: dest}, 400);
+      });
+    });
+  }
+
+  $(document).ready(registerScrolling([
+    "#s20", "#s19", "#s18", "#s17", "#s16" ]));
+</script>
