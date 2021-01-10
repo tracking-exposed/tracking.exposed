@@ -7,11 +7,20 @@ layout: monthly
 
 ## This year we struggled not because of covid, but rather for the total lack of funding and partnerships. dah. let's fingercross for 2021!
 
+Maybe 2021 would be the year in which we'll *close all our github issues* :> let's list our repositories:
+
+* [yttrex](https://github.com/tracking-exposed/yttrex/issues), youtube analysis backend and extension.
+* [youtube.tracking.exposed](https://github.com/tracking-exposed/youtube.tracking.exposed/issues), website content and javascript of frontend
+* [facebook.tracking.exposed](https://github.com/tracking-exposed/facebook.tracking.exposed/issues), website content and javascript of frontend.
+* [pornhub.tracking.exposed](https://github.com/tracking-exposed/pornhub.tracking.exposed/issues), website content and javascript of frontend.
+* [fbtrex](https://github.com/tracking-exposed/facebook/issues), facebook analysis backend, and [web-extension](https://github.com/tracking-exposed/web-extension/issues) browser extension.
+* [potrex](https://github.com/tracking-exposed/potrex/issues), pornhub analysis backend and extension.
+
 ---
 
-Still, 2020 was one of the most productive [year](/analysis-and-publications) we ever had! The most successful moment is when:
+Despite the struggling, 2020 was one of the most productive [years](/analysis-and-publications) we ever had! The most successful moment is when:
 
-1. People external to our team using the tool to develop their research, and we don't even know about it!
+1. People external to our are team using the tool to develop their research, and we don't even know about it!
 2. When people that have been trained in doing algorithm analysis become trainers and host their workshop!
 
 ---
@@ -38,6 +47,3 @@ Even a master thesis:
   authorLink="https://duckduckgo.com/?q=dimitri+koehorst+uva+amazon+algorithm+analysis"
   description="In recent times, data has become increasingly central to a variety of different companies. While the use of data has become widespread, there are some companies whose entire business model revolves around the use of data. One such company is Amazon. Initially it was merely an online bookstore, but as the company grew it incorporated multiple new branches, such as Amazon Web Services, which allow the company to collect data from a variety of different sources. Companies such as Amazon use this data to optimize their services, which allows them to gain certain advantages over their competitors. However, this usage of data is bound by international regulations, one of which is the GDPR, the new data protection legislation of the European Union. By using data collected from the Amazon.com webstore as a case study, this thesis investigates the shift of companies towards a data-oriented business model, and investigates certain problems that this shift brings. This is done through the research question: How can we conceptualize the data collection practices of Amazon in relation to the General Data Protection Regulation?"
   href="https://github.com/tracking-exposed/presentation/blob/master/Dimitri%20Koehorst%20Master%20Thesis%20Final%20Version.pdf">}}
-
-
-Last but not least: no fancy report, no special presentation, not even twitter thread on what's going on. Communication is our most neglected skill.
