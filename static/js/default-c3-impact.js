@@ -162,6 +162,50 @@ const clist = [
     },
     point: { show: false },
  },
+ {
+     API: "https://paadc.tracking.exposed/api/v2/statistics/impressions/hours/" + HOURSAGO,
+     bindto: '#pa-impressions-graph',
+     data : {
+         mimeType: 'json',
+         xFormat: '%Y-%m-%dT%H:%M:%S.000Z',
+         keys: {
+             value : [ 'private', 'public', 'total' ],
+             x: 'hour'
+         },
+         type: 'line',
+     },
+     axis: {
+         x: {
+             type: 'timeseries',
+             tick: {
+                 format: '%Y-%m-%d %H:00',
+             }
+         },
+     },
+     point: { show: false },
+  },
+  {
+      API: "https://paadc.tracking.exposed/api/v2/statistics/metadata/hours/" + HOURSAGO,
+      bindto: '#pa-timelines-graph',
+      data : {
+          mimeType: 'json',
+          xFormat: '%Y-%m-%dT%H:%M:%S.000Z',
+          keys: {
+              value : [ 'total' ],
+              x: 'hour'
+          },
+          type: 'line',
+      },
+      axis: {
+          x: {
+              type: 'timeseries',
+              tick: {
+                  format: '%Y-%m-%d %H:00',
+              }
+          },
+      },
+      point: { show: false },
+   },
 /* ————————————-——————————— */
 {
     API: "https://pornhub.tracking.exposed/api/v2/statistics/supporters/hours/" + HOURSAGO,

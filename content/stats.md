@@ -26,6 +26,10 @@ og_type: "website"
 
 <div id="pa-metadata-graph" class="c3graph"></div>
 
+<div id="pa-impressions-graph" class="c3graph"></div>
+
+<div id="pa-timelines-graph" class="c3graph"></div>
+
 # — [pornhub.tracking.exposed](https://pornhub.tracking.exposed/impact)
 
 <div id="po-supporters-graph" class="c3graph"></div>
