@@ -19,7 +19,16 @@ og_description: "Articles, Videos and Interview on algorithm analysis, since 201
 
 ## 2021
 
-Nothing yet!
+{{<resource
+  kind="event"
+  when="January 2021" 
+  author="Salvatore Romano"
+  title="FIlterTube: Investigating echo chambers, filter bubbles and polarization on YouTube — DMI UvA Winter School project pitch"
+  description=" Abstract:  This paper studies the construction of filter bubbles and political polarization under YouTube 's algorithmic personalization, in a time where the political division runs deep in the US and the 2020 election reaffirms the polarization. Using artificially generated personalized user accounts, we find that search results differ according to users' political affiliations, both in terms of the media type and political ideology of the channels suggested, showing some empirical evidence of filter bubbles' existence on YouTube, which possibly exacerbates an echo chamber behavior and enhancing political polarization in the US political debate. Project coordinated by Salvatore Romano and Davide Beraldo, Giovanni Rossetti, Leonardo Sanna  "
+  resource1="Final project report"
+  resource1href="https://wiki.digitalmethods.net/Dmi/WinterSchool2021FIterTube"
+  resource3="Final presentation slides"
+  resource3href="https://docs.google.com/presentation/d/1o__Fw_YyhcsD1-lk14jp8phwGxAaA0SgUnFpjiUba1E/edit#slide=id.p">}}
 
 ## 2020
 
@@ -113,8 +122,9 @@ The project [amTREX](https://amazon.tracking.exposed) isn’t supported since, a
 {{<resource
   kind="event"
   when="January"
-  title="Youtube Tracking Exposed — DMI UvA Winter School project pitch"
-  description="Collective group work on polarization of the Brexit discussion seen through Youtube's personalization algorithm, coordinated by Salvatore Romano and Davide Beraldo"
+  author="Salvatore Romano"
+  title=" YouTube Tracking Exposed: Investigating polarization via YouTube ’s Recommender Systems  — DMI UvA Winter School project pitch"
+  description="Collective group work on polarization of the Brexit discussion seen through Youtube's personalization algorithm, we found out that: (1) There is evidence of progressive polarization of the recommendations around Brexit on YouTube, especially for Leave-inclined users.(2) The Leave/Remain content bubbles, constituted respectively by The Sun/The Telegraph and The Guardian/The Mirror YouTube channels rarely converge. (3) Mainstream media is recommended with greater regularity compared to natively digital channels. Project coordinated by Salvatore Romano and Davide Beraldo"
   href="https://docs.google.com/document/d/1EkeEa6vnIQI1QH8xEIZkAbI23vn3ChsjoJs3U6tkeqo/edit"
   resource1="Final project report"
   resource1href="https://wiki.digitalmethods.net/Dmi/WinterSchool2020youtube"
@@ -126,6 +136,7 @@ The project [amTREX](https://amazon.tracking.exposed) isn’t supported since, a
 {{<resource
   kind="article"
   when="January"
+  author="Salvatore Romano"
   title="Youtube Tracking Exposed — DMI UvA Winter School Tutorial"
   authors="Salvatore Romano"
   description="Tutorial to explain the possible uses of the ytTREX tool, try it at https://youtube.tracking.exposed"
@@ -136,6 +147,7 @@ The project [amTREX](https://amazon.tracking.exposed) isn’t supported since, a
 
 {{<resource
   kind="event"
+  author="Salvatore Romano"
   title="Assembly with the Amazon's workers of ADL Cobas grassroots trade union"
   when="December"  
   description="An informal discussion with some Amazon's workers inscribed to the grassroots trade union ADL Cobas Padova-Bassa Padovana and American activists from the Amazon Employees for Climate Justice group. After a brief introduction about amTREX tool, we discussed how Amazon's app tracks employees, trying to identify strategies to reduce the amount of data extracted and reflecting on potential GDPR compliance used as a tool for trade union negotiations. Partecipated by Salvatore Romano for trex." >}}
