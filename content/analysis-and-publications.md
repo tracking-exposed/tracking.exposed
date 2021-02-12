@@ -21,14 +21,13 @@ og_description: "Articles, Videos and Interview on algorithm analysis, since 201
 
 {{<resource
   kind="event"
-  when="January 2021" 
+  when="January" 
   author="Salvatore Romano"
   title="FIlterTube: Investigating echo chambers, filter bubbles and polarization on YouTube — DMI UvA Winter School project pitch"
   description=" Abstract:  This paper studies the construction of filter bubbles and political polarization under YouTube 's algorithmic personalization, in a time where the political division runs deep in the US and the 2020 election reaffirms the polarization. Using artificially generated personalized user accounts, we find that search results differ according to users' political affiliations, both in terms of the media type and political ideology of the channels suggested, showing some empirical evidence of filter bubbles' existence on YouTube, which possibly exacerbates an echo chamber behavior and enhancing political polarization in the US political debate. Project coordinated by Salvatore Romano and Davide Beraldo, Giovanni Rossetti, Leonardo Sanna  "
-  resource1="Final project report"
-  resource1href="https://wiki.digitalmethods.net/Dmi/WinterSchool2021FIterTube"
-  resource3="Final presentation slides"
-  resource3href="https://docs.google.com/presentation/d/1o__Fw_YyhcsD1-lk14jp8phwGxAaA0SgUnFpjiUba1E/edit#slide=id.p">}}
+  href="https://wiki.digitalmethods.net/Dmi/WinterSchool2021FIterTube"
+  resource1="Final presentation slides"
+  resource1href="https://github.com/tracking-exposed/presentation/blob/master/FilterTube-DMIWS21.pdf">}}
 
 ## 2020
 
