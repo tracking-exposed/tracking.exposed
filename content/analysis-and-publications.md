@@ -20,6 +20,24 @@ og_description: "Articles, Videos and Interview on algorithm analysis, since 201
 ## 2021
 
 {{<resource
+  kind="link"
+  title="Political advertising exposed: tracking Facebook ads in the 2021 Dutch elections"
+  description="A unique experiment that merges academics, challenges about passive platform scraping, and a newspaper. They analyze political messages in advertising, during the Dutch national campaign prior to elections."
+  when="March"  
+  nature="external"
+  author="Davide Beraldo & Stefania Milan"
+  href="https://policyreview.info/articles/news/political-advertising-exposed-tracking-facebook-ads-2021-dutch-elections/1543">}}
+
+{{<resource
+  kind="link"
+  title="Twitter thread summarizing the Youtube search query analysis"
+  description="Regarding the January analysis on YouTube, a differently accessible explaination that you can RT ;P"
+  when="February"  
+  nature="external"
+  author="Tracking Exposed"
+  href="https://twitter.com/trackingexposed/status/1365294706050142209">}}
+
+{{<resource
   kind="event"
   when="January" 
   author="Salvatore Romano"
