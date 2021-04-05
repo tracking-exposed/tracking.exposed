@@ -9,7 +9,7 @@ fi
 
 cd $1
 
-x=`git pull origin master | wc -l`
+x=`git pull | wc -l`
 
 if ! [ $x -gt 1 ]; then
     echo "No update on the repository, quitting."; exit
