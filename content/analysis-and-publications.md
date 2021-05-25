@@ -20,6 +20,22 @@ og_description: "Articles, Videos and Interview on algorithm analysis, since 201
 ## 2021
 
 {{<resource
+  kind="event"
+  authors="Salvatore Romano"
+  title="E-privacy 2021, Italian conference on privacy and digital rights"
+  when="May"
+  href="https://www.youtube.com/watch?v=jgqVN_HaNVM&t=11340s"
+  description="Due esempi di bias algoritmici: la polarizzazione su Youtube e l'eteronomartività su Pornhub. Gli algoritmi sono una soluzione tecnologica al sovraccarico di informazioni: sono tanto potenti quanto necessari per gestire l'overflow di dati che ci raggiunge. Purtroppo, possono anche nascondere l'uso di valutazioni e giudizi basati su bias che hanno un impatto sulla diffusione delle idee e della cultura. Tracking Exposed si occupa da diversi anni di rendere queste black box analizzabili in modo indipendente, sia per le ricercatrici che per utenti comuni. In questo intervento discuteremo due degli studi più recenti che abbiamo condotto sugli algoritmi di raccomandazione di Youtube e Pornhub." >}}
+
+
+{{<resource
+  kind="paper"
+  authors="Leonardo Sanna, Salvatore Romano, Giulia Corona, Claudio Agosti"
+  title="YTTREX: Crowdsourced Analysis of YouTube’s Recommender System During COVID-19 Pandemic"
+  when="May"  
+  description="The youtube collaborative analysis we did in 2020, just right at the beginning of Covid pandemic, got published by Springer. Check down this page for the free to download .pdf" >}}
+
+{{<resource
   kind="link"
   title="Political advertising exposed: tracking Facebook ads in the 2021 Dutch elections"
   description="A unique experiment that merges academics, challenges about passive platform scraping, and a newspaper. They analyze political messages in advertising, during the Dutch national campaign prior to elections."
@@ -34,13 +50,13 @@ og_description: "Articles, Videos and Interview on algorithm analysis, since 201
   description="Regarding the January analysis on YouTube, a differently accessible explaination that you can RT ;P"
   when="February"  
   nature="external"
-  author="Tracking Exposed"
+  authors="Tracking Exposed"
   href="https://twitter.com/trackingexposed/status/1365294706050142209">}}
 
 {{<resource
   kind="event"
   when="January" 
-  author="Salvatore Romano"
+  authors="Salvatore Romano"
   title="FIlterTube: Investigating echo chambers, filter bubbles and polarization on YouTube — DMI UvA Winter School project pitch"
   description=" Abstract:  This paper studies the construction of filter bubbles and political polarization under YouTube 's algorithmic personalization, in a time where the political division runs deep in the US and the 2020 election reaffirms the polarization. Using artificially generated personalized user accounts, we find that search results differ according to users' political affiliations, both in terms of the media type and political ideology of the channels suggested, showing some empirical evidence of filter bubbles' existence on YouTube, which possibly exacerbates an echo chamber behavior and enhancing political polarization in the US political debate. Project coordinated by Salvatore Romano and Davide Beraldo, Giovanni Rossetti, Leonardo Sanna  "
   href="https://wiki.digitalmethods.net/Dmi/WinterSchool2021FIterTube"
