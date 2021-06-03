@@ -27,13 +27,15 @@ og_description: "Articles, Videos and Interview on algorithm analysis, since 201
   href="https://www.youtube.com/watch?v=jgqVN_HaNVM&t=11340s"
   description="Due esempi di bias algoritmici: la polarizzazione su Youtube e l'eteronomartività su Pornhub. Gli algoritmi sono una soluzione tecnologica al sovraccarico di informazioni: sono tanto potenti quanto necessari per gestire l'overflow di dati che ci raggiunge. Purtroppo, possono anche nascondere l'uso di valutazioni e giudizi basati su bias che hanno un impatto sulla diffusione delle idee e della cultura. Tracking Exposed si occupa da diversi anni di rendere queste black box analizzabili in modo indipendente, sia per le ricercatrici che per utenti comuni. In questo intervento discuteremo due degli studi più recenti che abbiamo condotto sugli algoritmi di raccomandazione di Youtube e Pornhub." >}}
 
-
 {{<resource
   kind="paper"
   authors="Leonardo Sanna, Salvatore Romano, Giulia Corona, Claudio Agosti"
   title="YTTREX: Crowdsourced Analysis of YouTube’s Recommender System During COVID-19 Pandemic"
+  href="https://link.springer.com/chapter/10.1007%2F978-3-030-76228-5_8"
   when="May"  
-  description="The youtube collaborative analysis we did in 2020, just right at the beginning of Covid pandemic, got published by Springer. Check down this page for the free to download .pdf" >}}
+  description="The youtube collaborative analysis we did in March 2020, just right at the beginning of Covid pandemic, got published by Springer. Check down this page for the free to download .pdf"
+  resource1="Project announcement and update logs"
+  resource1href="https://youtube.tracking.exposed/wetest/announcement-1/">}}
 
 {{<resource
   kind="link"
