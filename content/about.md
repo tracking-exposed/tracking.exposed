@@ -1,26 +1,40 @@
 ---
-title: About TRex
+title: About Us We operate to expose how tracking and profiling from user data had a negative impact on society so that proper political and civil actions can be taken.
 draft: false
 layout: page
 ---
 
 
-# We operate to expose how tracking and profiling from user data had a negative impact on society so that proper political and civil actions can be taken.
-
----
-
-## 2121 sponsorship (again, nothing so far)
-
-This is a serious problem, especially considering how quickly other organization replace our approach without considering collaboration of any kind.
+## 2021 sponsorship 
 
 
-## 2020 sponsorship (spoiler: nothing)
+<div class="card-deck">
+  {{< sponsor
+      title="Reset"
+      text="Their goal is to stop Big Tech companies from profiting off public harm by resetting the rules for online media."
+      subtitle="Our goal is to develop and deploy methodologies for technical research to infer, identify, and document misuse of personal data through algorithm analysis. We will than create and publish summaries of evidence documenting misuse of personal data for policy-makers and litigators"
+      href="https://www.reset.tech/"
+      linked="Their official project page"
+      picture="/images/reset.png" >}}
 
-Completely unfunded and broken-voluntary driven. Few organizations helped us in the last years, we produced [much more](https://facebook.tracking.exposed/analysis-and-publication) than what we were cover to do, that's why we keep trying to partner up with like minded organizations.
+  {{< sponsor
+      title="NGI Ledger"
+      text="LEDGER, a EU funded project, empowers people to solve problems using decentralised technologies such as blockchain, peer to peer or distributed ledger technologies."
+      href="https://www.ngi.eu/ngi-projects/ledger/"
+      linked="Their official project page"
+      picture="/images/LEDGER.png" >}}
+  {{< sponsor
+      title="DATACTIVE"
+      text="Our partner in the Nedelrlands elections monitoring."
+      href="https://data-activism.net/"
+      linked="The official project page"
+      picture="/images/sponsors/datactive.jpg" >}}
+</div>
 
 <div class="container">
 <br><br><br>
 </div>
+
 
 ## In 2019 we have been sponsored by:
 
