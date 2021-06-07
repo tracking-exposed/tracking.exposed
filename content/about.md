@@ -15,8 +15,7 @@ layout: page
       subtitle="Our goal is to develop and deploy methodologies for technical research to infer, identify, and document misuse of personal data through algorithm analysis. We will than create and publish summaries of evidence documenting misuse of personal data for policy-makers and litigators"
       href="https://www.reset.tech/"
       linked="Their official project page"
-      picture="/images/reset.png" >}}
-
+      picture="/images/reset.jpg" >}}
   {{< sponsor
       title="NGI Ledger"
       text="LEDGER, a EU funded project, empowers people to solve problems using decentralised technologies such as blockchain, peer to peer or distributed ledger technologies."
