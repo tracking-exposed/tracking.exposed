@@ -1,11 +1,14 @@
 ---
-title: About Us We operate to expose how tracking and profiling from user data had a negative impact on society so that proper political and civil actions can be taken.
+title: About Us 
 draft: false
 layout: page
 ---
 
+# We operate to expose how tracking and profiling from user data had a negative impact on society so that proper political and civil actions can be taken.
 
-## 2021 sponsorship 
+---
+
+## 2021 sponsorships
 
 
 <div class="card-deck">
@@ -35,7 +38,7 @@ layout: page
 </div>
 
 
-## In 2019 we have been sponsored by:
+## 2019 sponsorships:
 
 <div class="card-deck">
   {{< sponsor
@@ -66,7 +69,7 @@ layout: page
 <br><br><br>
 </div>
 
-## Past years, since the start of 2016 until 2018
+## 2016 - 2018 sponsorships
 
 <div class="card-group">
   {{< sponsor
