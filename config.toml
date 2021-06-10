@@ -21,42 +21,18 @@ canonifyURLs = true
     posts = "/news/:slug/"
 
 [menu]
- [[menu.main]]
-    name = "Connections"
-    identifier = "connections"
-
- [[menu.main]]
-    parent = "connections"
-    name = "Contacts"
-    url = "/connections/#Reach us:"
-    weight = 30
- [[menu.main]]
-    parent = "connections"
-    name = "Team"
-    url ="/connections/#Actual members:"
-    weight = 10
- [[menu.main]]
-    parent = "connections"
-    name = "Partners"
-    url = "/connections/#2021"
-    weight = 20
-
-
- [[menu.main]]
-    name = "Work"
-    url = "/work"
-
 
  [[menu.main]]
     name = "Manifesto"
     url = "/manifesto"
+    weight = 10
 
 
  [[menu.main]]
     page = "Tools"
     name = "Tools"
     identifier = "tools"
-    weight = 10
+    weight = 20
  [[menu.main]]
     page = "Facebook"
     identifier = "facebook"
@@ -78,6 +54,40 @@ canonifyURLs = true
     name = "PornHub"
     url = "https://pornhub.tracking.exposed"
     weight = -160
+ 
+ 
+ [[menu.main]]
+    name = "Connections"
+    identifier = "connections"
+    weight = 30
+
+ [[menu.main]]
+    parent = "connections"
+    name = "Contacts"
+    url = "/connections/"
+    weight = 10
+ [[menu.main]]
+    parent = "connections"
+    name = "Team"
+    url ="/connections/#Reach us:"
+    weight = 20
+ [[menu.main]]
+    parent = "connections"
+    name = "Partners"
+    url = "/connections/#Actual members:"
+    weight = 30
+
+
+ [[menu.main]]
+    name = "Work"
+    url = "/work"
+    weight = 40
+
+
+
+
+
+
     
 #  [[menu.main]]
 #    page = "A national-declined research (Italian election)"
@@ -107,22 +117,25 @@ canonifyURLs = true
     identifier = "manifesto"
     name= "Manifesto"
     url = "/manifesto"
- [[menu.footer]]
-    page = "connections"
-    identifier = "connections"
-    name = "Connections"
-    url ="/connections"
-    weight = 0
+    weight =10
  [[menu.footer]]
     page = "tools"
     identifier = "tools"
     name = "Tools"
     url = "/connect"
+    weight = 20
+ [[menu.footer]]
+    page = "connections"
+    identifier = "connections"
+    name = "Connections"
+    url ="/connections"
+    weight = 30
  [[menu.footer]]
     page = "Work"
     name = "Work"
     identifier = "work"
     url = "/work"
+    weight = 40
 
  [[menu.featured]]
     name= "Manifesto"
