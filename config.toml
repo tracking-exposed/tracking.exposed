@@ -15,7 +15,8 @@ canonifyURLs = true
     subsite = "default"
     openGraphSiteName = "Tracking Exposed"
     description = "We develop free software to enable research and expert users in figuring out how algorithms shape their online perception."
-    tagline = "We fight for a web that is home for many, not property of the few!"
+    tagline = "We develop tools to uncover how tracking and profiling have an impact on society."
+     
 
 [permalinks]
     posts = "/news/:slug/"
