@@ -1,14 +1,55 @@
 ---
-title: About Us 
+title: Connections
 draft: false
 layout: page
 ---
 
+<!---
 # We operate to expose how tracking and profiling from user data had a negative impact on society so that proper political and civil actions can be taken.
+--->
 
----
+{{<colorblock color="primary" text="Contacts" >}}
 
-## 2021 sponsorships
+# Reach us: 
+## team@tracking.exposed 
+</br>
+</br>
+
+{{<colorblock color="primary" text="Team" >}}
+
+# Actual members:
+<div class="card-deck">
+  {{< sponsor
+      title="Claudio"
+      text="Programmer: he founded from scratch Tracking Exposed"
+      href="claudio@tracking.exposed"
+      linked="claudio@tracking.exposed"
+      picture="/images/team/avatar.png" >}}
+  {{< sponsor
+      title="Salvatore"
+      text="Social psychologist: he is working mainly on Youtube and Pornhub algorithm analysis"
+      href="salvatore@tracking.exposed"
+      linked="salvatore@tracking.exposed"
+      picture="/images/team/salvo.jpg" >}}
+  {{< sponsor
+      title="loreipsum"
+      text="Working on Pornhub algorithm analysis"
+      href="loreipsum@tracking.exposed"
+      linked="loreipsum@tracking.exposed"
+      picture="/images/team/avatar.png" >}}
+  {{< sponsor
+      title="Alessandro"
+      text="Lawyer: in charge of legal matters"
+      href="alessandro@tracking.exposed"
+      linked="alessandro@tracking.exposed"
+      picture="/images/team/avatar.png" >}}
+
+</div>
+
+# Former members:
+
+{{<colorblock color="primary" text="Partners" >}}
+# 2021 
 
 
 <div class="card-deck">
@@ -18,13 +59,13 @@ layout: page
       subtitle="Our goal is to develop and deploy methodologies for technical research to infer, identify, and document misuse of personal data through algorithm analysis. We will than create and publish summaries of evidence documenting misuse of personal data for policy-makers and litigators"
       href="https://www.reset.tech/"
       linked="Their official project page"
-      picture="/images/reset.jpg" >}}
+      picture="/images/partner/reset.jpg" >}}
   {{< sponsor
       title="NGI Ledger"
       text="LEDGER, a EU funded project, empowers people to solve problems using decentralised technologies such as blockchain, peer to peer or distributed ledger technologies."
       href="https://www.ngi.eu/ngi-projects/ledger/"
       linked="Their official project page"
-      picture="/images/LEDGER.png" >}}
+      picture="/images/partner/LEDGER.png" >}}
   {{< sponsor
       title="DATACTIVE"
       text="Our partner in the Nedelrlands elections monitoring."
@@ -38,7 +79,7 @@ layout: page
 </div>
 
 
-## 2019 sponsorships:
+# 2019
 
 <div class="card-deck">
   {{< sponsor
@@ -69,9 +110,9 @@ layout: page
 <br><br><br>
 </div>
 
-## 2016 - 2018 sponsorships
+# 2016 - 2018 
 
-<div class="card-group">
+<div class="card-deck">
   {{< sponsor
       title="OSD"
       text="Formerly know as former opensensordata. Luca Corsato and Andrea Raimondi been the first very sponsor of the project"
@@ -82,10 +123,17 @@ layout: page
       title="Data Transparency Lab price"
       text="DTL grant every year a price to everyone passing their selections. With these money, less 25,75%, and then less 10% (overhead magic, aha!) we bought our brand design, a few development experiments, and paid expensed that other grantor can't cover. Of course I've to pay VAT over these payment. hey. 25,75% it is already a VAT! yes. of course, twice VAT altought we're intermediated. Long story short? Managing money is the most hunted of the happy problems."
       href="https://datatransparencylab.org/cft2018_winners/"
-      linked="Announcement post" >}}
+      linked="Announcement post"
+      picture="/images/partner/luca.jpg"  >}}
   {{< sponsor
       title="Lush & AccessNow #KeepItOn"
       href="https://www.accessnow.org/keepiton/"
       linked="read the campaign results and reasons"
-      text="Because algorithmic censorship is it something which should be investigated, we get a small sponsorship after Lush sold all the 404-bath-bomb to fundraise against Internet blackouts" >}}
+      text="Because algorithmic censorship is it something which should be investigated, we get a small sponsorship after Lush sold all the 404-bath-bomb to fundraise against Internet blackouts" 
+      picture="/images/partner/keepiton.jpg" >}}
 </div>
+
+
+
+
+
