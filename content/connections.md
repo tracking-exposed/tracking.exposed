@@ -24,7 +24,7 @@ layout: page
       text="Programmer: he founded from scratch Tracking Exposed"
       href="claudio@tracking.exposed"
       linked="claudio@tracking.exposed"
-      picture="/images/team/claudio.jpg" >}}
+      picture="/images/team/avatar.png" >}}
   {{< sponsor
       title="Salvatore"
       text="Social psychologist: he is working mainly on Youtube and Pornhub algorithm analysis"
@@ -36,13 +36,13 @@ layout: page
       text="Working on Pornhub algorithm analysis"
       href="loreipsum@tracking.exposed"
       linked="loreipsum@tracking.exposed"
-      picture="/images/team/loreipsum.svg" >}}
+      picture="/images/team/avatar.png" >}}
   {{< sponsor
       title="Alessandro"
       text="Lawyer: in charge of legal matters"
       href="alessandro@tracking.exposed"
       linked="alessandro@tracking.exposed"
-      picture="/images/team/ale.svg" >}}
+      picture="/images/team/avatar.png" >}}
 
 </div>
 

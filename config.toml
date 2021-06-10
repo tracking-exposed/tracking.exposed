@@ -27,19 +27,20 @@ canonifyURLs = true
 
  [[menu.main]]
     parent = "connections"
+    name = "Contacts"
+    url = "/connections/#Reach us:"
+    weight = 30
+ [[menu.main]]
+    parent = "connections"
     name = "Team"
-    url ="/connections/#team"
+    url ="/connections/#Actual members:"
     weight = 10
  [[menu.main]]
     parent = "connections"
     name = "Partners"
-    url = "/connections/#partners"
+    url = "/connections/#2021"
     weight = 20
- [[menu.main]]
-    parent = "connections"
-    name = "Contacts"
-    url = "/connections/#contacts"
-    weight = 30
+
 
  [[menu.main]]
     name = "Work"
