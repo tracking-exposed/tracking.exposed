@@ -22,57 +22,57 @@ canonifyURLs = true
 
 [menu]
  [[menu.main]]
-    name = "Sections"
-    identifier = "sections"
+    name = "Connections"
+    identifier = "connections"
 
  [[menu.main]]
-    parent = "sections"
-    name = "About"
-    url ="/about"
+    parent = "connections"
+    name = "Team"
+    url ="/connections/#team"
     weight = 10
  [[menu.main]]
-    parent = "sections"
-    name = "What we do & get in touch"
-    url = "/connect"
+    parent = "connections"
+    name = "Partners"
+    url = "/connections/#partners"
     weight = 20
  [[menu.main]]
-    parent = "sections"
+    parent = "connections"
+    name = "Contacts"
+    url = "/connections/#contacts"
+    weight = 30
+
+ [[menu.main]]
+    name = "Work"
+    url = "/work"
+
+
+ [[menu.main]]
     name = "Manifesto"
     url = "/manifesto"
-    weight = 30
- [[menu.main]]
-    parent = "sections"
-    name = "Monthly reports"
-    url = "/monthly"
-    weight = 40
-
- [[menu.main]]
-    name = "Analysis and Publications"
-    url = "/analysis-and-publications"
 
 
  [[menu.main]]
-    page = "Analyzed platforms"
-    name = "Analyzed platforms"
-    identifier = "analyzed"
+    page = "Tools"
+    name = "Tools"
+    identifier = "tools"
     weight = 10
  [[menu.main]]
     page = "Facebook"
     identifier = "facebook"
-    parent = "analyzed"
+    parent = "tools"
     name= "Facebook"
     url = "https://facebook.tracking.exposed"
     weight = -180
  [[menu.main]]
     page = "YouTube"
-    parent = "analyzed"
+    parent = "tools"
     identifier = "youtube"
     name = "YouTube"
     url = "https://youtube.tracking.exposed"
     weight = -170
  [[menu.main]]
     page = "PornHub"
-    parent = "analyzed"
+    parent = "tools"
     identifier = "pornhub"
     name = "PornHub"
     url = "https://pornhub.tracking.exposed"
@@ -100,27 +100,28 @@ canonifyURLs = true
 #    url = "https://pornhub.tracking.exposed"
 #    weight = -160
 
- [[menu.footer]]
-    page = "about"
-    identifier = "about"
-    name = "About"
-    url ="/about"
-    weight = 0
- [[menu.footer]]
-    page = "Monthly reports"
-    identifier = "monthly"
-    name = "Monthly reports"
-    url = "/monthly"
+
  [[menu.footer]]
     page = "manifesto"
     identifier = "manifesto"
     name= "Manifesto"
     url = "/manifesto"
  [[menu.footer]]
-    page = "What we do & get in touch"
-    name = "What we do & get in touch"
-    identifier = "connect"
+    page = "connections"
+    identifier = "connections"
+    name = "Connections"
+    url ="/connections"
+    weight = 0
+ [[menu.footer]]
+    page = "tools"
+    identifier = "tools"
+    name = "Tools"
     url = "/connect"
+ [[menu.footer]]
+    page = "Work"
+    name = "Work"
+    identifier = "work"
+    url = "/work"
 
  [[menu.featured]]
     name= "Manifesto"
@@ -129,14 +130,14 @@ canonifyURLs = true
     pre = "/images/trex-logo.svg"
     post = "Read which vision we want to achieve, how, and why matter for us"
  [[menu.featured]]
-    name = "What we do & get in touch"
-    url = "/connect"
+    name = "Connections"    
+    url = "/connections"
     weight = -170
     pre = "/images/connect with us.svg"
     post = "If you share the values in the Manifesto, you should check it out"
  [[menu.featured]]
-    name = "Monthly reports"
-    url = "/monthly"
+    name = "Work"
+    url = "/work"
     weight = -160
     pre = "/images/reports.svg"
     post = "Our last activities, from the various project under the tracking.exposed umbrella"
