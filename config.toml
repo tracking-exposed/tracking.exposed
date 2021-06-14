@@ -143,16 +143,16 @@ canonifyURLs = true
     url = "/manifesto"
     weight = -180
     pre = "/images/trex-logo.svg"
-    post = "Read which vision we want to achieve, how, and why matter for us"
+    post = "Since 2016 we fight for a web that is home for many, not property of the few. 💡 Our beliefs are guiding us towards our purpose: empowering people."
  [[menu.featured]]
-    name = "Connections"    
+    name = "Connections  "    
     url = "/connections"
     weight = -170
     pre = "/images/connect with us.svg"
-    post = "If you share the values in the Manifesto, you should check it out"
+    post = "Who we are and who is supporting us.🎈 If you wish to get involved, feel free to reach us out, any collaboration is more than welcome."
  [[menu.featured]]
     name = "Work"
     url = "/work"
     weight = -160
     pre = "/images/reports.svg"
-    post = "Our last activities, from the various project under the tracking.exposed umbrella"
+    post = "Our last activities, publications and appearances, 🔭 from all the various project under the tracking.exposed umbrella."
