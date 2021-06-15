@@ -70,12 +70,12 @@ canonifyURLs = true
  [[menu.main]]
     parent = "connections"
     name = "Team"
-    url ="/connections/#Reach us:"
+    url ="/connections/#team"
     weight = 20
  [[menu.main]]
     parent = "connections"
     name = "Partners"
-    url = "/connections/#Actual members:"
+    url = "/connections/#partners"
     weight = 30
 
 
