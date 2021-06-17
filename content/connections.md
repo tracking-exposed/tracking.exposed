@@ -1,5 +1,5 @@
 ---
-title: "Join the rebel side"
+title: ""
 draft: false
 layout: page
 ---
@@ -44,7 +44,7 @@ layout: page
       <img src="/images/team/salvo.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Salvatore</h5>
-        <p class="card-text">Social psychologist and Data Analyst. Expert in network and text analysis.</p>
+        <p class="card-text">Social psychologist and Data Analyst.</p>
       </div>
     </div>
   </div>
@@ -67,9 +67,28 @@ layout: page
     </div>
   </div>
 </div>
+<!-- here starts the past collaborators --> 
 </section>
-
-
+<div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h2 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+ 	Community
+        </button>
+      </h2>
+    </div>
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+    	<p>
+    	<ul>
+	<li> <b> Giovanni Rossetti,</b> Sociologist. </li>
+	<li> </li>
+	<li> </li>
+	</ul>
+    	</p>
+    </div>
+  </div>
+</div>
 
 <section id="partners">
 </br>
