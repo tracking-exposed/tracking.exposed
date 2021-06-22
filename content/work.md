@@ -19,13 +19,14 @@ og_description: "Articles, Videos and Interview on algorithm analysis, since 201
 
 ## 2021
 
-{{<resource
+{{<resource 
   kind="event"
   authors="Salvatore Romano"
   title="E-privacy 2021, Italian conference on privacy and digital rights"
   when="May"
   href="https://www.youtube.com/watch?v=jgqVN_HaNVM&t=11340s"
   description="Due esempi di bias algoritmici: la polarizzazione su Youtube e l'eteronomartività su Pornhub. Gli algoritmi sono una soluzione tecnologica al sovraccarico di informazioni: sono tanto potenti quanto necessari per gestire l'overflow di dati che ci raggiunge. Purtroppo, possono anche nascondere l'uso di valutazioni e giudizi basati su bias che hanno un impatto sulla diffusione delle idee e della cultura. Tracking Exposed si occupa da diversi anni di rendere queste black box analizzabili in modo indipendente, sia per le ricercatrici che per utenti comuni. In questo intervento discuteremo due degli studi più recenti che abbiamo condotto sugli algoritmi di raccomandazione di Youtube e Pornhub." >}}
+
 
 {{<resource
   kind="paper"
@@ -75,7 +76,9 @@ Amazon algorithm analysis for product and search results:
 #### — [Does Amazon know your Wealth?](https://wiki.digitalmethods.net/Dmi/WinterSchool2020DoesAmazonknowyourWealth)
 #### — [Amazon’s Choice: An inquiry into Amazon](https://wiki.digitalmethods.net/Dmi/WinterSchool2020amazonschoice)
 
+<!--
 The project [amTREX](https://amazon.tracking.exposed) isn’t supported since, as we really struggle to maintain all these platforms without a single € of investment 🤷
+-->
 
 {{<resource
   kind="link"

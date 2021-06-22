@@ -65,9 +65,23 @@ layout: page
         <p class="card-text">Legal expert.</p>
       </div>
     </div>
+</div>
+
+
+  <div class="col mb-4">
+    <div class="card h-100">
+      <img src="/images/team/marc.jpeg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Marc</h5>
+        <p class="card-text">Algorithm Designer.</p>
+      </div>
+    </div>
   </div>
 </div>
+
 <!-- here starts the past collaborators --> 
+
+
 </section>
 <div class="accordion" id="accordionExample">
   <div class="card">
@@ -90,6 +104,9 @@ layout: page
   </div>
 </div>
 
+
+
+
 <section id="partners">
 </br>
 </br>
@@ -97,7 +114,6 @@ layout: page
 </br>
 </br>
 </br>
-
 <h1 style="color:#53C1B6; text-align:center"> PARTNERS </h1>
 </br>
 </br>
