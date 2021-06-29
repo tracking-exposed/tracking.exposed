@@ -4,7 +4,7 @@ date: 2021-06-01T15:32:40+01:00
 draft: false
 
 og_title: "TRex — Videos"
-og_description: "Video collections: talks, interviews, tutorials lysis, since 2016"
+og_description: "Video collections: talks, interviews, tutorials and reports, since 2016"
 ---
 
 {{<video-resource
