@@ -7,253 +7,135 @@ og_title: "TRex — Analysis & Publications"
 og_description: "Articles, Videos and Interview on algorithm analysis, since 2016"
 ---
 
-
+<!--
 
 <h3
   style="text-align:center;padding-top:1em;padding-bottom:1em;border-bottom:black 1px solid;">
     —
     <a id="Pub" href="#Publications">Publications</a> —
     <a id="Eve" href="#Events">Events</a> —
-    <a id="Pre" href="#">Press</a> —
-    <a id="Mont" href="#Montly Reports">Montly Reports</a> —
+    <a id="Pre" href="#Press">Press</a> —
+    <a id="Mont" href="https://tracking.exposed/monthly/">Monthly Reports</a> —
 </h3>
 
-
-
+-->
 
 </br>
 </br>
-</br>
-</br>
-<section id="Publications">
-<h1 style="color:#53C1B6; text-align:center"> Publications </h1>
 
+<button onclick="return toggleMe('Publications')" > <h1 style="color:#53C1B6; text-align:center"> Publications </h1> </button>
 
-{{<resource
-  kind="paper"
-  authors="Leonardo Sanna, Salvatore Romano, Giulia Corona, Claudio Agosti"
-  title="YTTREX: Crowdsourced Analysis of YouTube’s Recommender System During COVID-19 Pandemic"
-  href="https://link.springer.com/chapter/10.1007%2F978-3-030-76228-5_8"
-  when="2021-May"  
-  description="The youtube collaborative analysis we did in March 2020, just right at the beginning of Covid pandemic, got published by Springer. Check down this page for the free to download .pdf"
-  resource1="Project announcement and update logs"
-  resource1href="https://youtube.tracking.exposed/wetest/announcement-1/">}}
+<section id="Publications" style="display:none" >
+<h5> Peer-reviewed articles </h5>
 
-{{<resource
-  kind="link"
-  when="2021-March"  
-  title="Political advertising exposed: tracking Facebook ads in the 2021 Dutch elections"
-  description="A unique experiment that merges academics, challenges about passive platform scraping, and a newspaper. They analyze political messages in advertising, during the Dutch national campaign prior to elections."
-  nature="external"
-  authors="Davide Beraldo & Stefania Milan"
-  href="https://policyreview.info/articles/news/political-advertising-exposed-tracking-facebook-ads-2021-dutch-elections/1543">}}
+* [YTTREX: Crowdsourced Analysis of YouTube’s Recommender System During COVID-19 Pandemic](https://link.springer.com/chapter/10.1007%2F978-3-030-76228-5_8).
+[Pdf](https://www.researchgate.net/profile/Leonardo-Sanna-2/publication/351285419_YTTREX_crowdsourced_analysis_of_YouTube's_recommender_system_during_COVID-19_pandemic/links/60900733a6fdccaebd057c0b/YTTREX-crowdsourced-analysis-of-YouTubes-recommender-system-during-COVID-19-pandemic.pdf),
+[Project announcement](https://youtube.tracking.exposed/wetest/announcement-1/),
+[Call to action](https://youtube.tracking.exposed/wetest/1/).
+_by_ Leonardo Sanna, Salvatore Romano, Giulia Corona, Claudio Agosti
+(Communications in Computer and Information Science, 05/2021).
 
-Amazon algorithm analysis for product and search results:
+* [Political advertising exposed: tracking Facebook ads in the 2021 Dutch elections](https://policyreview.info/articles/news/political-advertising-exposed-tracking-facebook-ads-2021-dutch-elections/1543) 
+_by_ Davide Beraldo, Stefania Milan, Jeroen de Vos, Claudio Agosti, Bruno Nadalic Sotic, Rens Vliegenthart, Sanne Kruikemeier, Lukas P Otto, Susan A. M. Vermeer, Xiaotong Chu, Fabio Votta.
+(Policyreview, 03/2021)
 
-#### — [Tracking Gender Bias in Amazon Search Results](https://wiki.digitalmethods.net/Dmi/WinterSchool2020trackinggenderbiasamazon)
-#### — [Is Amazon.com the Same Everywhere?](https://wiki.digitalmethods.net/Dmi/WinterSchool2020amazonregional)
-#### — [Choose Your Price: Windows 10 vs. macOS](https://wiki.digitalmethods.net/Dmi/WinterSchool2020AmazonOS)
-#### — [Does Amazon know your Wealth?](https://wiki.digitalmethods.net/Dmi/WinterSchool2020DoesAmazonknowyourWealth)
-#### — [Amazon’s Choice: An inquiry into Amazon](https://wiki.digitalmethods.net/Dmi/WinterSchool2020amazonschoice)
+* [Implementing Eco’s Model Reader with Word Embeddings. An Experiment on Facebook Ideological Bots](https://iris.unimore.it/retrieve/handle/11380/1220856/300738/Paper_JADT_final-3.pdf) 
+_by_ Leonardo Sanna
+(06/2020)
 
-{{<resource
-  kind="paper"
-  title="Warehouse of information: Amazon's data collection practices and their relation to GDPR"
-  when="2020-September"  
-  nature="external"
-  author="Dimitri Koehorst (UvA master thesis)"
-  authorLink="https://duckduckgo.com/?q=dimitri+koehorst+uva+amazon+algorithm+analysis"
-  description="In recent times, data has become increasingly central to a variety of different companies. While the use of data has become widespread, there are some companies whose entire business model revolves around the use of data. One such company is Amazon. Initially it was merely an online bookstore, but as the company grew it incorporated multiple new branches, such as Amazon Web Services, which allow the company to collect data from a variety of different sources. Companies such as Amazon use this data to optimize their services, which allows them to gain certain advantages over their competitors. However, this usage of data is bound by international regulations, one of which is the GDPR, the new data protection legislation of the European Union. By using data collected from the Amazon.com webstore as a case study, this thesis investigates the shift of companies towards a data-oriented business model, and investigates certain problems that this shift brings. This is done through the research question: How can we conceptualize the data collection practices of Amazon in relation to the General Data Protection Regulation?"
-  href="https://github.com/tracking-exposed/presentation/blob/master/Dimitri%20Koehorst%20Master%20Thesis%20Final%20Version.pdf">}}
+* [Thinking Outside the Black-Box: The Case for “Algorithmic Sovereignty” in Social Media](https://journals.sagepub.com/doi/full/10.1177/2056305120915613)
+_by_ Urbano Reviglio, Claudio Agosti
+(Social Media + Society, 04/2020)
 
-{{<resource
-  kind="paper"
-  when="2020-June"
-  title="Implementing Eco’s Model Reader with Word Embeddings. An Experiment on Facebook Ideological Bots"
-  description="First outline of a methodology for computational pragmatics using FBTREX dataset. In the paper, we found that the algorithm creates different model readers for each relevant theme in the dataset and that the right-wing ideology was dominant cross-profiles"
-  href="https://iris.unimore.it/retrieve/handle/11380/1220856/300738/Paper_JADT_final-3.pdf"
-  author="Leonardo Sanna">}}
+* [Personalization algorithms and elections: breaking free of the filter bubble](https://policyreview.info/articles/news/personalisation-algorithms-and-elections-breaking-free-filter-bubble/1385)
+_by_  Stefania Milan, Claudio Agosti
+(Policyreview, 02/2019)
 
-{{<resource
-  kind="link"
-  when="2020-June"
-  title="Youtube collaborative observation"
-  description="We apply the collaborative observation to YouTube, regardless the management and personalization of COVID-19 informative videos; we released open data, improved technology, and wrote a paper with preliminary findings."
-  href="https://youtube.tracking.exposed/wetest/1/"
-  resource2="analysis updates"
-  resource2href="https://youtube.tracking.exposed/wetest/announcement-1/"
-  resource1="preprint paper (14 pages)"
-  resource1href="https://github.com/tracking-exposed/experiments-data/blob/master/wetest1/wetest-paper-submitted-preprint.pdf">}}
+* [Fairness in online social network timelines: Measurements, models and mechanism design](https://arxiv.org/pdf/1809.05530.pdf)
+_by_ Eduardo Hargreaves, Claudio Agosti, Daniel Menasche, Giovanni Neglia, Alexandre Reiffers-Masson, and Eitan Altman
+(Performance Evaluation, 11/2018)
 
+* [Biases in the Facebook News Feed: a Case Study on the Italian Elections](https://doi.org/10.1109/ASONAM.2018.8508659)
+_by_ Eduardo Hargreaves, Claudio Agosti, Daniel Menasche, Giovanni Neglia, Alexandre Reiffers-Masson, and Eitan Altman
+(2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 10/2018)
 
-{{<resource
-  kind="paper"
-  when="2020-April"
-  title="Thinking Outside the Black-Box: The Case for “Algorithmic Sovereignty” in Social Media"
-  author="Urbano Reviglio, Claudio Agosti"
-  description="This article is an interdisciplinary critical analysis of personalization systems and the gatekeeping role of current mainstream social media. The first section presents a literature review of data-driven personalization and its challenges in social media. The second section sheds light on increasing concerns regarding algorithms’ ability to overtly persuade—and covertly manipulate—users for the sake of engagement, introducing the emergence of the exclusive ownership of behavioral modification through hyper-nudging techniques. The third section empirically analyzes users’ expectations and behaviors regarding such data-driven personalization to frame a conceptualization of users’ agency. The fourth section introduces the concept of “algorithmic sovereignty.” Current projects that aim to grant this algorithmic sovereignty highlight some potential applications. Together this novel theoretical framework and empirical applications suggest that, to preserve trust, social media should open their personalization algorithms to a social negotiation as the first step toward a more sustainable social media landscape. To decentralize the immense power of mainstream social media, guarantee a democratic oversight, and mitigate the unintended undesirable consequences of their algorithmic curation, public institutions and civil society could help in developing and researching public algorithms, fostering a collective awareness so as to eventually ensure a fair and accountable “algorithmic sovereignty.”"
-  href="https://journals.sagepub.com/doi/full/10.1177/2056305120915613">}}
+* [Visibilidade no Facebook: Modelos, Medições e Implicações](http://portaldeconteudo.sbc.org.br/index.php/brasnam/article/view/3591).
+[Pdf](https://eduardohargreaves.files.wordpress.com/2018/07/visibilidade-facebook-modelos-7.pdf)
+_by_ Brasnam, Eduardo Hargreaves, Daniel Sadoc Menasché, Giovanni Neglia, and Claudio Agosti
+(Anais do VII Brazilian Workshop on Social Network Analysis and Mining, 07/2018)
 
-{{<resource
-  kind="link"
-  when="2020-March"
-  title="Pornhub collaborative observation"
-  description="Our team worked on a new concept for algorithm analysis: collaborative observation. A bunch of people performs the same operation for 24 hours, and we began this experiment why watching Pornhub personalizaton and recommendation algorithm."
-  href="https://pornhub.tracking.exposed/potest/final-1"
-  resource1="web slides"
-  resource1href="https://pornhub.tracking.exposed/slides/potest1/">}}
-
-{{<resource
-  kind="article"
-  when="2020-March"
-  title="Exploring Facebook’s role in Ethiopia’s rising ethnic tensions"
-  author="Syver Petersen"
-  description="Africa’s second-most populous country is undergoing a political revolution forcing old and new ethnic grievances to the surface. A blog post on how Facebook is involved in Ethiopia’s political transition, and how fbtrex tool support the exploration of information diets differences, between the country’s largest ethnic groups"
-  resource1="blogpost"
-  resource1href="https://data-activism.net/2020/03/bigdata-sur-exploring-facebooks-role-in-ethiopias-rising-ethnic-tensions/">}}
-
-{{<resource
-  kind="article"
-  when="2020-January"
-  author="Salvatore Romano"
-  title="Youtube Tracking Exposed — DMI UvA Winter School Tutorial"
-  authors="Salvatore Romano"
-  description="Tutorial to explain the possible uses of the ytTREX tool, try it at https://youtube.tracking.exposed"
-  resource1="Tutorial slides"
-  resource1href="https://prezi.com/view/KqmfljOsE8HYvyT7TqGE">}}
-
-{{<resource
-  kind="event"
-  title="RAI national television with amazon.tracking.exposed (Italian Documentary on Amazon)"
-  when="2019-December"  
-  href="https://vimeo.com/378307005"
-  description="A long documentary on Amazon empire, and our original research on how Algorithm accountability tools might handy to infer personal data usage in personalization algorithms. Our research display and explain with the video on surveillance capitalism and tools for personal investigation. The report is quite basic and lack of the robustness of a large scale tool. -- Featuring Claudio Agosti, Riccardo Coluccini, Giulia Corona, Salvatore Romano. To see the video you have to write 'trex'"
-  resource1="Our new supported platform"
-  resource1href="https://amazon.tracking.exposed" >}}
-
-{{<resource
-  when="2019-June"
-  title="algorithm exposed: Youtube — DMI UvA Summer School"
-  kind="link"
-  description="a dozen of scholars try to measure how YouTube algorithm personalize the 'related' video list"
-  href="https://data-activism.net/2019/07/youtube-algorithm-exposed-dmi-summer-school-project-week-1/"
-  resource1="Final report"
-  resource1href="https://docs.google.com/document/d/1zZC7_GG6IFGnHtfk6cjqIDjDlYphZlds71ZeKMD2S9Y" >}}
-
-{{<resource
-  kind="link"
-  title="when corporation pretend to help: Why we need data activism"
-  when="2019-May"
-  nature="external"
-  author="DATACTIVE"
-  authorLink="https://data-activism.net/"
-  description="The statement on the EU19 tracking exposed project website portrays why academic research should not be delimited by corporate conditions for research only;  we should engage in independent critical research to platforms that important for our online public democratic spaces."
-  authors="Claudio Agosti"
-  resource1="ALEX blogpost"
-  resource1href="https://data-activism.net/2019/05/fbtrex-reaction-to-facebook-collaboration/"
-  href="https://eu19.tracking.exposed/page/data-activism/" >}}
-
-{{<resource
-  kind="article"
-  title="Personalization algorithms and elections: breaking free of the filter bubble"
-  when="February"  
-  description="Personalisation algorithms allow platforms to carefully target web content to the tastes and interests of their users. They are at the core of social media platforms, dating apps, shopping and news sites. In this Op-ed on Internet Policy Review we share the project vision."
-  authors="Stefania Milan and Claudio Agosti"
-  href="https://policyreview.info/articles/news/personalisation-algorithms-and-elections-breaking-free-filter-bubble/1385" >}}
-
-{{<resource
-  kind="paper"
-  when="2018-November"
-  title="Fairness in online social network timelines: Measurements, models and mechanism design"
-  description="(PEVA) Performance Evaluation 2018. DOI:10.1016/j.peva.2018.09.009"
-  href="https://arxiv.org/pdf/1809.05530.pdf"
-  authors="Eduardo Hargreaves, Claudio Agosti, Daniel Menasche, Giovanni Neglia, Alexandre Reiffers-Masson, and Eitan Altman" >}}
-
-{{<resource
-  kind="paper"
-  when="2018-October"
-  title="Biases in the Facebook News Feed: a Case Study on the Italian Elections"
-  description="Fosint-SI 2018, in conjunction with ASONAM 2018, Proceedings of the 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining"
-  href="https://arxiv.org/pdf/1807.08346.pdf"
-  resource1="DOI"
-  resource1href="https://doi.org/10.1109/ASONAM.2018.8508659"
-  authors="Eduardo Hargreaves, Claudio Agosti, Daniel Menasche, Giovanni Neglia, Alexandre Reiffers-Masson, and Eitan Altman" >}}
-
-{{<resource
-  kind="paper"
-  when="2018-July"
-  language="Brazilian"
-  title="Visibilidade no Facebook: Modelos, Medições e Implicações"
-  description="Proceedings of the Brazilian Workshop on Social Network Analysis and Mining"
-  authors="Brasnam, Eduardo Hargreaves, Daniel Sadoc Menasché, Giovanni Neglia, and Claudio Agosti"
-  resource1="Paper"
-  resource1href="https://eduardohargreaves.files.wordpress.com/2018/07/visibilidade-facebook-modelos-7.pdf"
-  href="http://portaldeconteudo.sbc.org.br/index.php/brasnam/article/view/3591)">}}
   
-<!-- FORSE PRESS-->
-{{<resource
-  kind="paper"
-  when="2018-July"
-  title="Italian political election and digital propaganda"
-  description="TacticalTech publish a report written by Claudio Agosti and Fabio Chiusi"
-  href="https://ourdataourselves.tacticaltech.org/posts/overview-italy/"
-  resource1="Open data"
-  resource1hreflink="https://github.com/tracking-exposed/experiments-data/tree/master/e18" >}}  
-   
-<!-- FORSE PRESS-->
-{{<resource
-  kind="paper"
-  nature="external"
-  language="English, Spanish"
-  when="2018-April"
-  author="WebFoundation"
-  authors="Renata Ávila, Juan Ortiz Freuler and Craig Fagan. Claudio Agosti and the Facebook Tracking Exposed team"
-  title="The invisible curation of content | Facebook’s News Feed and our information diets"
-  description="WebFoundation released a report produced by a joint collaboration; We performed a test in Argentina, release open data and analysis of six profiles run by us. The experiment was meant to measure the algorithm influence on the perception of public debate."
-  resource1="Open data"
-  resource1href="https://github.com/tracking-exposed/experiments-data/tree/master/wto"
-  href="https://webfoundation.org/research/the-invisible-curation-of-content-facebooks-news-feed-and-our-information-diets/" >}}     
-  
-{{<resource
-  kind="article"
-  when="2017-October"
-  href="https://www.opendemocracy.net/digitaliberties/claudio-agosti/could-populism-be-side-effect-of-personalized-algorithm"
-  title="Could populism be a side effect of the Personalized Algorithm?"
-  description="A rampant speculation in the title, and a more rational analysis on how to display impact of algorithms to social media users." >}}
-  
-{{<resource
-  kind="article"
-  href="https://medium.com/@trackingexposed/facebook-algorithm-and-impact-on-media-french-election-experiment-1-d760ed5a242f"
-  title="Facebook algorithm and impact on media: French election experiment #1"
-  when="2017-May"
-  description="for the first time we used bots, or, dummy—profiles—under—our—control to test the algorithm discrimination."
-  authors="Claudio Agosti, Raffaele Angus" >}}
+
+</br>
+<h5> Reports </h5>
+
+* [Pornhub collaborative observation](https://pornhub.tracking.exposed/potest/final-1)
+[Web Slides](https://pornhub.tracking.exposed/slides/potest1/)
+_by_ Giulia Corona, Salvatore Romano, Claudio Agosti.
+(Trackign Exposed, 03/2020)
 
 
-<!-- forse press -->
-{{<resource
-  kind="article"
-  href="https://www.oneworld.nl/achtergrond/deze-tool-checkt-facebook-echt-de-verkiezingen-beinvloedt/"
-  language="Dutch"
-  when="2017-March"
-  nature="external"
-  author="Sanne Terlingen"
-  authorLink="https://www.oneworld.nl/personen/sanne-terlingen/"
-  description="Netherland elections were our first public experiment. Has been partially a failure because we understood how different are profiles around the social network. This, and the language barrier, made any analysis not insightful enough to be reported."
-  title="Deze tool checkt of Facebook écht de verkiezingen beïnvloedt" >}}
+* [Exploring Facebook’s role in Ethiopia’s rising ethnic tensions](https://data-activism.net/2020/03/bigdata-sur-exploring-facebooks-role-in-ethiopias-rising-ethnic-tensions/)
+_by_ Syver Petersen
+(DatActivism, 03/2020)
+
+<!-- manca youtube della winter 2020 -->
+* [Tracking Gender Bias in Amazon Search Results](https://wiki.digitalmethods.net/Dmi/WinterSchool2020trackinggenderbiasamazon) 
+(Digital Methods Winter School, 01/2020)
+
+* [Is Amazon.com the Same Everywhere?](https://wiki.digitalmethods.net/Dmi/WinterSchool2020amazonregional)
+(Digital Methods Winter School, 01/2020)
+
+* [Choose Your Price on Amazon: Windows 10 vs. macOS](https://wiki.digitalmethods.net/Dmi/WinterSchool2020AmazonOS)
+(Digital Methods Winter School, 01/2020)
+
+* [Does Amazon know your Wealth?](https://wiki.digitalmethods.net/Dmi/WinterSchool2020DoesAmazonknowyourWealth)
+(Digital Methods Winter School, 01/2020)
+
+* [Amazon’s Choice: An inquiry into Amazon](https://wiki.digitalmethods.net/Dmi/WinterSchool2020amazonschoice)
+(Digital Methods Winter School, 01/2020)
+
+<!-- remove password -->
+* [Analysis of Amazon’s algorithm](https://vimeo.com/378307005)
+(National TV channel "Rai2", TV Program: “Petrolio”, Episod: “Il mondo (segreto) di Amazon”, 12/2019.)
+
+* [algorithm exposed: investigating Youtube's personalization ](https://wiki.digitalmethods.net/Dmi/SummerSchool2019AlgorithmsExposed), [Slides](https://data-activism.net/2019/07/youtube-algorithm-exposed-dmi-summer-school-project-week-1/)
+(Digital Methods Summer School, 06/2019)
+
+* [when corporation pretend to help: Why we need data activism](https://data-activism.net/2019/05/fbtrex-reaction-to-facebook-collaboration/)
+_by_ Claudio Agosti
+(DatActivism blog, 05/2020)
+
+* [The invisible curation of content | Facebook’s News Feed and our information diets](http://webfoundation.org/docs/2018/04/WF_InvisibleCurationContent_Screen_AW.pdf).
+[Spanish version](http://webfoundation.org/docs/2018/04/WF_ICC_Spanish_Screen_AW.pdf),
+[Abstract](https://webfoundation.org/research/the-invisible-curation-of-content-facebooks-news-feed-and-our-information-diets/),
+[Data](https://github.com/tracking-exposed/experiments-data/tree/master/wto).
+_by_ Renata Ávila, Juan Ortiz Freuler and Craig Fagan. Claudio Agosti.
+(WebFoundation, 04/2018)
+
+* [Could populism be a side effect of the Personalized Algorithm?](https://www.opendemocracy.net/digitaliberties/claudio-agosti/could-populism-be-side-effect-of-personalized-algorithm)
+_by_ Claudio Agosti
+(OpenDemocracy, 10/2017)
+
+* [Facebook algorithm and impact on media: French election experiment #1](https://medium.com/@trackingexposed/facebook-algorithm-and-impact-on-media-french-election-experiment-1-d760ed5a242f)
+_by_ Claudio Agosti, Raffaele Angus.
+(Medium, 05/2017)
+
+</br>
+<h5> Thesis </h5>
+
+
+* [Warehouse of information: Amazon's data collection practices and their relation to GDPR](https://github.com/tracking-exposed/presentation/blob/master/Dimitri%20Koehorst%20Master%20Thesis%20Final%20Version.pdf)
+_by_ Dimitri Koehorst (University of Amsterdam master thesis, 09/2020)
+
 
 </section>
 
 
 
+<button onclick="return toggleMe('Events')" > <h1 style="color:#53C1B6; text-align:center"> Events </h1> </button>
 
-</br>
-</br>
-</br>
-</br>
-<section id="Events">
-<h1 style="color:#53C1B6; text-align:center"> Events </h1>
-
+<section id="Events" style="display:none" >
 
 {{<resource 
   kind="event"
@@ -300,6 +182,16 @@ Amazon algorithm analysis for product and search results:
   resource2href="https://prezi.com/view/AvoT0B1lnclMIq3k4LOU"
   resource3="Final presentation slides"
   resource3href="https://drive.google.com/open?id=1bOSi6853za6CRDYF1xdc8Os0EUQOWgma">}}
+
+{{<resource
+  kind="article"
+  when="2020-January"
+  author="Salvatore Romano"
+  title="Youtube Tracking Exposed — DMI UvA Winter School Tutorial"
+  authors="Salvatore Romano"
+  description="Tutorial to explain the possible uses of the ytTREX tool, try it at https://youtube.tracking.exposed"
+  resource1="Tutorial slides"
+  resource1href="https://prezi.com/view/KqmfljOsE8HYvyT7TqGE">}}
 
 {{<resource
   kind="event"
@@ -478,17 +370,10 @@ Amazon algorithm analysis for product and search results:
 
 
 
+<button onclick="return toggleMe('Press')" > <h1 style="color:#53C1B6; text-align:center"> Press </h1> </button>
 
 
-
-
-</br>
-</br>
-</br>
-</br>
-<section id="Press">
-<h1 style="color:#53C1B6; text-align:center"> Press </h1>
-
+<section id="Press" style="display:none" >
 
 {{<resource
   kind="link"
@@ -564,10 +449,6 @@ Amazon algorithm analysis for product and search results:
   description="Don't delete your facbook profile - give it to science. An essay explaining facebook.tracking.exposed vision, results and goals"
   href="https://progressivepost.eu/the-mag/facebook-tracking-exposed-popping-the-bubble" >}}
 
-<h1 style="color:#53C1B6; text-align:center"> Monthly reports</h1>
-
-<p style="color:black; text-align:center"> Find all the reports <a href="https://tracking.exposed/monthly/">here.</a><p>
-
 {{<resource
    language="French"
    author="Par Martin Untersinger et Pauline Croquet"
@@ -577,19 +458,73 @@ Amazon algorithm analysis for product and search results:
    description="A generalist/technological article from/for Lemond, written by two journalists at the CCC (see below)"
    href="https://www.lemonde.fr/pixels/article/2018/12/30/reseaux-sociaux-donnees-personnelles-algorithmes-comment-inventer-un-futur-numerique-plus-radieux_5403732_4408996.html"
    title="Réseaux sociaux, données personnelles, algorithmes… comment inventer un futur numérique plus radieux ?" >}}
-   
+
+{{<resource
+  kind="paper"
+  when="2018-July"
+  title="Italian political election and digital propaganda"
+  description="TacticalTech publish a report written by Claudio Agosti and Fabio Chiusi"
+  href="https://ourdataourselves.tacticaltech.org/posts/overview-italy/"
+  resource1="Open data"
+  resource1hreflink="https://github.com/tracking-exposed/experiments-data/tree/master/e18" >}}  
+  
 {{<resource
   kind="article"
-  when="October"
+  when="2017-October"
   href="https://blog.osd.tools/lalgoritmo-dell-algoritmo-5c3a052cc626"
   title="OSD comments, interview and analysis on fbtrex (Italian)"
   author="Luca Corsato"
 >}}
+
+{{<resource
+  kind="article"
+  href="https://www.oneworld.nl/achtergrond/deze-tool-checkt-facebook-echt-de-verkiezingen-beinvloedt/"
+  language="Dutch"
+  when="2017-March"
+  nature="external"
+  author="Sanne Terlingen"
+  authorLink="https://www.oneworld.nl/personen/sanne-terlingen/"
+  description="Netherland elections were our first public experiment. We understood how different are profiles around the social network."
+  title="Deze tool checkt of Facebook écht de verkiezingen beïnvloedt" >}}
    
 </section>   
    
+   
+   
+   
 
 
+
+<button onclick="return toggleMe('Monthly Reports')" > <h1 style="color:#53C1B6; text-align:center">Monthly Reports</h1> </button>
+
+<section id="Monthly Reports" style="display:none">  
+
+<p style="color:black; text-align:center"> Find all the reports <a href="https://tracking.exposed/monthly/">here.</a><p>
+
+</section>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------
 
 ALTRO
 
@@ -626,7 +561,7 @@ ALTRO
 
 
 
-
+<!--
 ROTTO
 
 {{<resource
@@ -646,12 +581,12 @@ ROTTO
   description="An animated gif explaining our project, alpha stage (RARE! don't watch it too much)"
   href="https://media.giphy.com/media/hshH7kgCzN84NGme5M/giphy.gif" >}}
 
+-->
 
 
 
 
-
-
+-------------------------------------------------------------------------------
 
 
 <script type="text/javascript">
@@ -687,25 +622,4 @@ ROTTO
    }
 </script>
 
-
-<input type="button" onclick="return toggleMe('para2')" value="prova"><br>
-<div id="para2">
-<p>
-mi piacerebbe che  i vari tasti funzionassero
-{{<resource
-  kind="link"
-  title="Twitter thread summarizing the Youtube search query analysis"
-  description="Regarding the January analysis on YouTube, a differently accessible explaination that you can RT ;P"
-  when="2021-February"  
-  nature="external"
-  authors="Tracking Exposed"
-  href="https://twitter.com/trackingexposed/status/1365294706050142209">}}
-<p>
-</div>
-
-
-<style type="text/css">
-.rv_button.closed:after {content:"\33";}
-.rv_button.opened:after{content:"\32";}
-</style>
 

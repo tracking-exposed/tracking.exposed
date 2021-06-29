@@ -66,8 +66,6 @@ layout: page
       </div>
     </div>
 </div>
-
-
   <div class="col mb-4">
     <div class="card h-100">
       <img src="/images/team/marc.jpeg" class="card-img-top" alt="...">
@@ -95,8 +93,9 @@ layout: page
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
     	<p>
     	<ul>
+	<li> <b> Davide Beraldo,</b> Sociologist. </li>
 	<li> <b> Giovanni Rossetti,</b> Sociologist. </li>
-	<li> </li>
+	<li> <b> Leonardo Sanna,</b> linguist,Data Analyst </li>
 	<li> </li>
 	</ul>
     	</p>
