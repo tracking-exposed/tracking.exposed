@@ -60,6 +60,7 @@ canonifyURLs = true
  [[menu.main]]
     name = "Connections"
     identifier = "connections"
+    url = "/connections/"
     weight = 30
 
  [[menu.main]]
@@ -79,13 +80,38 @@ canonifyURLs = true
     weight = 30
 
 
+
  [[menu.main]]
-    name = "Work"
-    url = "/work"
+    name = "Impact"
+    identifier = "impact"
+    url = "/impact/"
     weight = 40
 
-
-
+ [[menu.main]]
+    parent = "impact"
+    name = "Publications"
+    url = "/publications/"
+    weight = 10
+ [[menu.main]]
+    parent = "impact"
+    name = "Press"
+    url ="/press/"
+    weight = 20
+ [[menu.main]]
+    parent = "impact"
+    name = "Videos"
+    url = "/videos/"
+    weight = 30
+ [[menu.main]]
+    parent = "impact"
+    name = "Events"
+    url = "/events/"
+    weight = 40
+ [[menu.main]]
+    parent = "impact"
+    name = "Monthly Reports"
+    url = "/Monthly Reports/"
+    weight = 40
 
 
 

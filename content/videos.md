@@ -7,6 +7,9 @@ og_title: "TRex — Videos"
 og_description: "Video collections: talks, interviews, tutorials and reports, since 2016"
 ---
 
+
+<!-- aggiungere video di datacative -->
+
 {{<video-resource
   author="Salvatore Romano"
   language="Italian"
