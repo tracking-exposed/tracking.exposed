@@ -23,10 +23,17 @@ canonifyURLs = true
 
 [menu]
 
+
+ [[menu.main]]
+    name = "About"
+    identifier = "about"
+    url = "/about/"
+    weight = 10
+
  [[menu.main]]
     name = "Manifesto"
     url = "/manifesto"
-    weight = 10
+    weight = 15
 
 
  [[menu.main]]
@@ -57,27 +64,23 @@ canonifyURLs = true
     weight = -160
  
  
- [[menu.main]]
-    name = "Connections"
-    identifier = "connections"
-    url = "/connections/"
-    weight = 30
 
- [[menu.main]]
-    parent = "connections"
-    name = "Contacts"
-    url = "/connections/"
-    weight = 10
- [[menu.main]]
-    parent = "connections"
-    name = "Team"
-    url ="/connections/#team"
-    weight = 20
- [[menu.main]]
-    parent = "connections"
-    name = "Partners"
-    url = "/connections/#partners"
-    weight = 30
+
+# [[menu.main]]
+#    parent = "connections"
+#    name = "Contacts"
+#    url = "/connections/"
+#    weight = 10
+# [[menu.main]]
+#    parent = "connections"
+#    name = "Team"
+#    url ="/connections/#team"
+#    weight = 20
+# [[menu.main]]
+#    parent = "connections"
+#    name = "Partners"
+#    url = "/connections/#partners"
+#    weight = 30
 
 
 
