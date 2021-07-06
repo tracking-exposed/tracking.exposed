@@ -97,8 +97,8 @@ layout: page
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
     	<p>
     	<ul>
-	<li> <b> Davide Beraldo,</b> Sociologist. </li>
-	<li> <b> Giovanni Rossetti,</b> Sociologist. </li>
+	<li> <b> Davide Beraldo,</b> Professor at Media Studies departement, University of Amsterdam. </li>
+	<li> <b> Giovanni Rossetti,</b> Researcher in Media Studies. </li>
 	<li> <b> Leonardo Sanna,</b> linguist,Data Analyst </li>
 	<li> </li>
 	</ul>
