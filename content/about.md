@@ -189,7 +189,7 @@ layout: page
 	     <a href="https://blog.osd.tools/lalgoritmo-dell-algoritmo-5c3a052cc626" ><img src="/images/sponsors/osd-logo.svg" width=40% > </a>
 	    </div>
 	    <div class="col-sm">
-	     <a href="https://datatransparencylab.org/cft2018_winners/"><img src="/images/partner/luca.jpg" width=100% ></a>
+	     <a href="https://web.archive.org/web/20181223205718/https://datatransparencylab.org/"><img src="/images/partner/luca.png" width=100% ></a>
 	    </div>
 	    <div class="col-sm">
 	     <a href="https://www.accessnow.org/keepiton/" ><img src="/images/partner/keepiton.jpg" width=100%></a>
