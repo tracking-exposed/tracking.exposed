@@ -26,7 +26,8 @@ og_description: "Accademic publications, since 2016"
 
 ##### Divulgative Reports
 
-* [Pornhub collaborative observation](https://pornhub.tracking.exposed/potest/final-1) [_Web Slides_](https://pornhub.tracking.exposed/slides/potest1/) _by_ Giulia Corona, Salvatore Romano, Claudio Agosti.  (Trackign Exposed, 03/2020)
+* [FiterTUbe: Echo chambers, Filter Bubble and Polarization on Youtube.](https://wiki.digitalmethods.net/Dmi/WinterSchool2021FIterTube) (Digital Methods Winter School, 01/2021)
+* [Pornhub collaborative observation](https://pornhub.tracking.exposed/potest/final-1) [_Web Slides_](https://pornhub.tracking.exposed/slides/potest1/) _by_ Giulia Corona, Salvatore Romano, Claudio Agosti.  (Tracking Exposed, 03/2020)
 * [Exploring Facebook’s role in Ethiopia’s rising ethnic tensions](https://data-activism.net/2020/03/bigdata-sur-exploring-facebooks-role-in-ethiopias-rising-ethnic-tensions/) _by_ Syver Petersen (DatActivism, 03/2020)
 * [Tracking Gender Bias in Amazon Search Results](https://wiki.digitalmethods.net/Dmi/WinterSchool2020trackinggenderbiasamazon) (Digital Methods Winter School, 01/2020)
 * [Is Amazon.com the Same Everywhere?](https://wiki.digitalmethods.net/Dmi/WinterSchool2020amazonregional) (Digital Methods Winter School, 01/2020)
@@ -36,7 +37,7 @@ og_description: "Accademic publications, since 2016"
 * [Analysis of Amazon’s algorithm](https://vimeo.com/378307005)
 (National TV channel "Rai2", TV Program: “Petrolio”, Episod: “Il mondo (segreto) di Amazon”, 12/2019.)
 * [Algorithm exposed: investigating Youtube's personalization ](https://wiki.digitalmethods.net/Dmi/SummerSchool2019AlgorithmsExposed), [_Slides_](https://data-activism.net/2019/07/youtube-algorithm-exposed-dmi-summer-school-project-week-1/) (Digital Methods Summer School, 06/2019)
-* [when corporation pretend to help: Why we need data activism](https://data-activism.net/2019/05/fbtrex-reaction-to-facebook-collaboration/) _by_ Claudio Agosti (DatActivism blog, 05/2020)
+* [When corporation pretend to help: Why we need data activism](https://data-activism.net/2019/05/fbtrex-reaction-to-facebook-collaboration/) _by_ Claudio Agosti (DatActivism blog, 05/2020)
 * [The invisible curation of content | Facebook’s News Feed and our information diets](http://webfoundation.org/docs/2018/04/WF_InvisibleCurationContent_Screen_AW.pdf).  [Spanish version](http://webfoundation.org/docs/2018/04/WF_ICC_Spanish_Screen_AW.pdf), [Abstract](https://webfoundation.org/research/the-invisible-curation-of-content-facebooks-news-feed-and-our-information-diets/), [Data](https://github.com/tracking-exposed/experiments-data/tree/master/wto).  _by_ Renata Ávila, Juan Ortiz Freuler and Craig Fagan. Claudio Agosti.  (WebFoundation, 04/2018)
 * [Could populism be a side effect of the Personalized Algorithm?](https://www.opendemocracy.net/digitaliberties/claudio-agosti/could-populism-be-side-effect-of-personalized-algorithm) _by_ Claudio Agosti (OpenDemocracy, 10/2017)
 * [Facebook algorithm and impact on media: French election experiment #1](https://medium.com/@trackingexposed/facebook-algorithm-and-impact-on-media-french-election-experiment-1-d760ed5a242f) _by_ Claudio Agosti, Raffaele Angus.  (Medium, 05/2017)
