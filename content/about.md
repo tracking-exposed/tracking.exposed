@@ -2,8 +2,9 @@
 title: ""
 draft: false
 layout: page
+type: fullscreen
 ---
-
+<div class="container">
 </br>
 </br>
 </br>
@@ -35,7 +36,7 @@ layout: page
       <img src="/images/team/claudio.jpg" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Claudio</h5>
-        <p class="card-text">Programmer and privacy expert.</p>
+        <p class="card-text">Programmer and privacy expert</p>
       </div>
     </div>
   </div>
@@ -46,7 +47,7 @@ layout: page
         <h5 class="card-title">
            <a href="https://github.com/SalvatoreRomano1/About_Me"> Salvatore </a>   
         </h5>
-        <p class="card-text">Social psychologist and Data Analyst.</p>
+        <p class="card-text">Social psychologist and Data Analyst</p>
       </div>
     </div>
   </div>
@@ -54,8 +55,8 @@ layout: page
     <div class="card h-100">
       <img src="/images/team/spaghetti.jpg" class="card-img-top">
       <div class="card-body">
-        <h5 class="card-title">Spaghetti</h5>
-        <p class="card-text">Communication designer.</p>
+        <h5 class="card-title">Giulia</h5>
+        <p class="card-text">Communication designer</p>
       </div>
     </div>
   </div>
@@ -64,7 +65,7 @@ layout: page
       <img src="/images/team/alessandro.jpg" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Alessandro</h5>
-        <p class="card-text">Legal expert.</p>
+        <p class="card-text">Legal expert</p>
       </div>
     </div>
 </div>
@@ -75,7 +76,7 @@ layout: page
         <h5 class="card-title">
        	<a href="https://www.marcfaddoul.com/"> Marc </a>
         </h5>
-        <p class="card-text">Algorithm Designer.</p>
+        <p class="card-text">Algorithm Designer</p>
       </div>
     </div>
   </div>
@@ -83,7 +84,7 @@ layout: page
 
 <!-- here starts the past collaborators --> 
 
-
+<!--
 </section>
 <div class="accordion" id="accordionExample">
   <div class="card">
@@ -100,24 +101,28 @@ layout: page
 	<li> <b> Davide Beraldo,</b> Professor at Media Studies departement, University of Amsterdam. </li>
 	<li> <b> Giovanni Rossetti,</b> Researcher in Media Studies. </li>
 	<li> <b> Leonardo Sanna,</b> linguist,Data Analyst </li>
-	<li> </li>
 	</ul>
     	</p>
     </div>
   </div>
 </div>
-
-
-
+-->
+<h1 style="color:#53C1B6; text-align:center; padding-top:4rem; padding-bottom:3rem;" > COMMUNITY </h1>
+<div class="col-sm-8">
+      <p>
+    	<ul>
+	<li> <b> Davide Beraldo >_</b> Professor at Media Studies departement, University of Amsterdam. </li>
+	<li> <b> Giovanni Rossetti >_  </b> Researcher in Media Studies. </li>
+	<li> <b> Leonardo Sanna >_ </b> Linguist, Data Analyst </li>
+	</ul>
+    	</p>
+</div>
 
 <section id="partners">
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-<h1 style="color:#53C1B6; text-align:center"> PARTNERS </h1>
+<h1 style="color:#53C1B6; text-align:center; padding-top: 3rem;"> PARTNERS </h1>
 </br>
 </br>
 
@@ -204,3 +209,4 @@ layout: page
 </br>
 
 </section>
+</div>

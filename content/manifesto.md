@@ -4,7 +4,15 @@ drafts: false
 date: 2018-07-16T15:01:21+01:00
 layout: page
 description: towards algorithmic diversity, interoperability and control, and enhance the base of the pyramid.
+type: fullscreen
 ---
+<div class="container">
+<div class="col-sm-8">
+
+</br>
+<h1 style="color:#53C1B6; text-align:center" > Tracking Exposed Manifesto </h1>
+</br>
+
 
 <p style= "text-align: justify">
 Our main objective is to put a spotlight on users' tracking, profiling, on the data market and on the influence of algorithms. As long as these phenomena are shielded from view or understood only by experts, they cannot be tackled with the political determination that problems of such magnitude deserve. That is why we strive to explain the issue, test and promote new solutions, developed to benefit the community.
@@ -128,3 +136,5 @@ We should provide constant, daily updates on how third party trackers are workin
 ---
 _by Claudio, Ciaby, Nienke, Velenux, Dan, Saverio, Barbara, Riccardo, Salvatore._
 <!-- *Version 1.0.0, 16 July 2018 - updates in September 2019 on the final sections.* -->
+</div>
+</div>

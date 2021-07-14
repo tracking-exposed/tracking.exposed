@@ -15,7 +15,7 @@ canonifyURLs = true
     subsite = "default"
     openGraphSiteName = "Tracking Exposed"
     description = "We develop free software to enable research and expert users in figuring out how algorithms shape their online perception."
-    tagline = "We develop tools to uncover how tracking and profiling have an impact on society."
+    tagline = "We develop tools to uncover how tracking and profiling have an impact on society"
      
 
 [permalinks]
@@ -180,8 +180,8 @@ canonifyURLs = true
     pre = "/images/connect with us.svg"
     post = "Who we are and who is supporting us.🎈 If you wish to get involved, feel free to reach us out, any collaboration is more than welcome."
  [[menu.featured]]
-    name = "Work"
-    url = "/work"
+    name = "Impact"
+    url = "/impact"
     weight = -160
     pre = "/images/reports.svg"
     post = "Our last activities, publications and appearances, 🔭 from all the various project under the tracking.exposed umbrella."
