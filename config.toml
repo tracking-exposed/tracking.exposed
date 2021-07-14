@@ -161,10 +161,10 @@ canonifyURLs = true
     url ="/connections"
     weight = 30
  [[menu.footer]]
-    page = "Work"
-    name = "Work"
-    identifier = "work"
-    url = "/work"
+    page = "impact"
+    name = "Impact"
+    identifier = "impact"
+    url = "/impact"
     weight = 40
 
  [[menu.featured]]
