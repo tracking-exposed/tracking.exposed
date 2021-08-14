@@ -33,7 +33,6 @@ type: fullscreen
 <div class="row row-cols-1 row-cols-md-3">
   <div class="col mb-4">
     <div class="card h-100">
-      <img src="/images/team/claudio.jpg" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Claudio</h5>
         <p class="card-text">Programmer and privacy expert</p>
@@ -42,7 +41,6 @@ type: fullscreen
   </div>
   <div class="col mb-4">
     <div class="card h-100">
-      <img src="/images/team/salvo.jpg" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">
            <a href="https://github.com/SalvatoreRomano1/About_Me"> Salvatore </a>   
@@ -53,7 +51,6 @@ type: fullscreen
   </div>
   <div class="col mb-4">
     <div class="card h-100">
-      <img src="/images/team/spaghetti.jpg" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Giulia</h5>
         <p class="card-text">Communication designer</p>
@@ -62,7 +59,6 @@ type: fullscreen
   </div>
   <div class="col mb-4">
     <div class="card h-100">
-      <img src="/images/team/alessandro.jpg" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">Alessandro</h5>
         <p class="card-text">Legal expert</p>
@@ -71,7 +67,6 @@ type: fullscreen
 </div>
   <div class="col mb-4">
     <div class="card h-100">
-      <img src="/images/team/marc.jpeg" class="card-img-top">
       <div class="card-body">
         <h5 class="card-title">
        	<a href="https://www.marcfaddoul.com/"> Marc </a>
