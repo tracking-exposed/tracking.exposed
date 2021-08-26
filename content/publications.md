@@ -26,7 +26,7 @@ og_description: "Accademic publications, since 2016"
 
 ##### Divulgative Reports
 
-* [Analysis of Political Ads in Digital Campaigns (PAADC): monitoring and analysing Facebook sponsored content in relation to the Dutch general elections.](https://github.com/tracking-exposed/experiments-data/tree/master/PAADC) (De Volkskrant, 2021)
+* [Analysis of Political Ads in Digital Campaigns (PAADC): monitoring and analysing Facebook sponsored content during Dutch general elections.](https://github.com/tracking-exposed/experiments-data/tree/master/PAADC) (De Volkskrant, 2021)
 * [FiterTUbe: Echo chambers, Filter Bubble and Polarization on Youtube.](https://wiki.digitalmethods.net/Dmi/WinterSchool2021FIterTube) (Digital Methods Winter School, 01/2021)
 * [Pornhub collaborative observation](https://pornhub.tracking.exposed/potest/final-1) [_Web Slides_](https://pornhub.tracking.exposed/slides/potest1/) _by_ Giulia Corona, Salvatore Romano, Claudio Agosti.  (Tracking Exposed, 03/2020)
 * [Exploring Facebook’s role in Ethiopia’s rising ethnic tensions](https://data-activism.net/2020/03/bigdata-sur-exploring-facebooks-role-in-ethiopias-rising-ethnic-tensions/) _by_ Syver Petersen (DatActivism, 03/2020)
