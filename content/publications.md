@@ -11,8 +11,8 @@ og_description: "Accademic publications, since 2016"
 ##### Accademic Articles
 
 * [YTTREX: Crowdsourced Analysis of YouTube’s Recommender System During COVID-19 Pandemic](https://link.springer.com/chapter/10.1007%2F978-3-030-76228-5_8). [_Pdf_](https://www.researchgate.net/profile/Leonardo-Sanna-2/publication/351285419_YTTREX_crowdsourced_analysis_of_YouTube's_recommender_system_during_COVID-19_pandemic/links/60900733a6fdccaebd057c0b/YTTREX-crowdsourced-analysis-of-YouTubes-recommender-system-during-COVID-19-pandemic.pdf), [_Project updates_](https://youtube.tracking.exposed/wetest/announcement-1/), [_Call to action_](https://youtube.tracking.exposed/wetest/1/).  _by_ Leonardo Sanna, Salvatore Romano, Giulia Corona, Claudio Agosti (Communications in Computer and Information Science, 05/2021).
-* [Warehouse of information: Amazon's data collection practices and their relation to GDPR](https://github.com/tracking-exposed/presentation/blob/master/Dimitri%20Koehorst%20Master%20Thesis%20Final%20Version.pdf) _by_ Dimitri Koehorst (University of Amsterdam master thesis, 09/2020)
 * [Political advertising exposed: tracking Facebook ads in the 2021 Dutch elections](https://policyreview.info/articles/news/political-advertising-exposed-tracking-facebook-ads-2021-dutch-elections/1543) _by_ Davide Beraldo, Stefania Milan, Jeroen de Vos, Claudio Agosti, Bruno Nadalic Sotic, Rens Vliegenthart, Sanne Kruikemeier, Lukas P Otto, Susan A. M. Vermeer, Xiaotong Chu, Fabio Votta.  (Policyreview, 03/2021)
+* [Warehouse of information: Amazon's data collection practices and their relation to GDPR](https://github.com/tracking-exposed/presentation/blob/master/Dimitri%20Koehorst%20Master%20Thesis%20Final%20Version.pdf) _by_ Dimitri Koehorst (University of Amsterdam master thesis, 09/2020)
 * [Implementing Eco’s Model Reader with Word Embeddings. An Experiment on Facebook Ideological Bots](https://iris.unimore.it/retrieve/handle/11380/1220856/300738/Paper_JADT_final-3.pdf) _by_ Leonardo Sanna (Linguistic Forum 2020, 06/2020)
 * [Thinking Outside the Black-Box: The Case for “Algorithmic Sovereignty” in Social Media](https://journals.sagepub.com/doi/full/10.1177/2056305120915613) _by_ Urbano Reviglio, Claudio Agosti (Social Media and Society, 04/2020)
 * [Personalization algorithms and elections: breaking free of the filter bubble](https://policyreview.info/articles/news/personalisation-algorithms-and-elections-breaking-free-filter-bubble/1385) _by_  Stefania Milan, Claudio Agosti (Policyreview, 02/2019)
@@ -26,6 +26,7 @@ og_description: "Accademic publications, since 2016"
 
 ##### Divulgative Reports
 
+* [Analysis of Political Ads in Digital Campaigns (PAADC): monitoring and analysing Facebook sponsored content in relation to the Dutch general elections.](https://github.com/tracking-exposed/experiments-data/tree/master/PAADC) (De Volkskrant, 2021)
 * [FiterTUbe: Echo chambers, Filter Bubble and Polarization on Youtube.](https://wiki.digitalmethods.net/Dmi/WinterSchool2021FIterTube) (Digital Methods Winter School, 01/2021)
 * [Pornhub collaborative observation](https://pornhub.tracking.exposed/potest/final-1) [_Web Slides_](https://pornhub.tracking.exposed/slides/potest1/) _by_ Giulia Corona, Salvatore Romano, Claudio Agosti.  (Tracking Exposed, 03/2020)
 * [Exploring Facebook’s role in Ethiopia’s rising ethnic tensions](https://data-activism.net/2020/03/bigdata-sur-exploring-facebooks-role-in-ethiopias-rising-ethnic-tensions/) _by_ Syver Petersen (DatActivism, 03/2020)
