@@ -11,6 +11,7 @@ canonifyURLs = true
       unsafe = true
 
 [params]
+    ourvision = "display"
     subtitle = ""
     subsite = "default"
     openGraphSiteName = "Tracking Exposed"
