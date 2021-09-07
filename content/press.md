@@ -9,7 +9,7 @@ og_description: "Press talking about us, since 2016"
 
 #### Some articles about us:
 
-
+* [We signed the Open Letter to EU Policy-Makers: "How the Digital Services Act (DSA) can Tackle Disinformation"](https://www.disinfo.eu/advocacy/open-letter-to-eu-policy-makers-how-the-digital-services-act-dsa-can-tackle-disinformation/)
 * [Radio interview about Tracking Exposed Workshop](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-colonia/il-tema/algoritmi-facebook-100.html) [_Workshop Event_](https://www.disruptionlab.org/data-cities#workshops) _to_ Salvatore Romano (Radio Colonia, 08/2020)
 * [Designing data transparency – ideas from the community"](https://www.opendemocracy.net/en/digitaliberties/designing-data-transparency-ideas-from-the-community/) _by_ Matthew Linears (OpenDemocracy, 08/2020 )
 * [Facebook's Algorithm Shapes Our Lives. This Hacker Wants to Find Out How.](https://netzpolitik.org/2019/facebooks-algorithm-shapes-our-lives-this-hacker-wants-to-find-out-how/#spendenleiste) [_German version_](https://netzpolitik.org/2019/facebooks-algorithmus-formt-unser-leben-dieser-hacker-will-herausfinden-wie/) _by_ Alex Fanta _to_ Salvatore Romano (Netzpolitik, 07/2019)
