@@ -3,10 +3,30 @@ title: Events with us, since 2016
 date: 2021-01-01T15:32:40+01:00
 draft: false
 
-og_title: "TRex: the events we collaborate to create"
+og_title:  "TRex: the events we collaborate to create"
 og_description: "Accademic publications, since 2016"
 ---
 
+{{<resource 
+  kind="event"
+  authors="Salvatore Romano"
+  title="End Summer Camp ESC-21"
+  when="2021-September"
+  href="https://www..org/index.php/ESC21-Schedule"
+  description="Talk about the last research conducted on Youtube and Pornhub. This was the occasion to show our last research on Pornhub algorithm and its heteronormativity." 
+  resource1="He slides"
+  resource1href="https://pornhub.tracking.exposed/slides/heteronormativity/">}}
+
+
+{{<resource 
+  kind="event"
+  authors="Salvatore Romano"
+  title="HackMeeting 2021, Italian festival hacking"
+  when="2021-September"
+  href="https://hackmeeting.org/hackit21/"
+  description="Talk about the last research conducted on Youtube and Pornhub: Smash the filter bubble!. Workshop on Youtube: tracking the climate disinformation and the ranking algorithm suggestions. Presentation on the Ten minutes talk of the Youchoose project." 
+  resource1="Workshop slides"
+  resource1href="https://youtube.tracking.exposed/slides/workshop/#slide=1">}}
 
 {{<resource 
   kind="event"
