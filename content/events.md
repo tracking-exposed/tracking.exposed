@@ -9,12 +9,12 @@ og_description: "Accademic publications, since 2016"
 
 {{<resource 
   kind="event"
-  authors="Salvatore Romano"
+  authors="Giulia and Claudio"
   title="End Summer Camp ESC-21"
   when="2021-September"
   href="https://www..org/index.php/ESC21-Schedule"
   description="Talk about the last research conducted on Youtube and Pornhub. This was the occasion to show our last research on Pornhub algorithm and its heteronormativity." 
-  resource1="He slides"
+  resource1="heteronormativity and pornography slides"
   resource1href="https://pornhub.tracking.exposed/slides/heteronormativity/">}}
 
 
