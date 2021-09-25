@@ -17,7 +17,7 @@ canonifyURLs = true
     openGraphSiteName = "Tracking Exposed"
     description = "We develop free software to enable research and expert users in figuring out how algorithms shape their online perception."
     tagline = "We develop tools to uncover how tracking and profiling have an impact on society"
-     
+
 
 [permalinks]
     posts = "/news/:slug/"
@@ -63,8 +63,8 @@ canonifyURLs = true
     name = "PornHub"
     url = "https://pornhub.tracking.exposed"
     weight = -160
- 
- 
+
+
 
 
 # [[menu.main]]
@@ -114,12 +114,12 @@ canonifyURLs = true
  [[menu.main]]
     parent = "impact"
     name = "Monthly Reports"
-    url = "/Monthly Reports/"
+    url = "/monthly/"
     weight = 40
 
 
 
-    
+
 #  [[menu.main]]
 #    page = "A national-declined research (Italian election)"
 #    identifier = "eu19.tracking.exposed"
@@ -175,7 +175,7 @@ canonifyURLs = true
     pre = "/images/trex-logo.svg"
     post = "Since 2016 we fight for a web that is home for many, not property of the few. 💡 Our beliefs are guiding us towards our purpose: empowering people."
  [[menu.featured]]
-    name = "Connections  "    
+    name = "Connections  "
     url = "/connections"
     weight = -170
     pre = "/images/connect with us.svg"
