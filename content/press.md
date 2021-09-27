@@ -9,6 +9,7 @@ og_description: "Press talking about us, since 2016"
 
 #### Some articles about us:
 
+* [Together with Panoptykon and 49 organisations we signed an open letter asking MEPs to #fixalgorithms" (Panoptykon Foundation)](https://en.panoptykon.org/sites/default/files/DSA%20Open%20Letter_fix%20algorithms_22.09.2021.pdf)
 * [How the digital shift has been hastened by the pandemic](https://cyprus-mail.com/2021/07/19/how-the-digital-shift-has-been-hastened-by-the-pandemic/) (Cyprus Mail, 07/2021)
 * [We signed the Open Letter to EU Policy-Makers: "How the Digital Services Act (DSA) can Tackle Disinformation" (EU Disinfo Lab)](https://www.disinfo.eu/advocacy/open-letter-to-eu-policy-makers-how-the-digital-services-act-dsa-can-tackle-disinformation/)
 * [Radio interview about Tracking Exposed Workshop](https://www1.wdr.de/radio/cosmo/programm/sendungen/radio-colonia/il-tema/algoritmi-facebook-100.html) [_Workshop Event_](https://www.disruptionlab.org/data-cities#workshops) _to_ Salvatore Romano (Radio Colonia, 08/2020)
