@@ -31,77 +31,18 @@ type: fullscreen
 </br>
 
 <div class="row row-cols-1 row-cols-md-3">
-  <div class="col mb-4">
-    <div class="card h-100">
-      <div class="card-body">
-        <h5 class="card-title">Claudio</h5>
-        <p class="card-text">Programmer and privacy expert</p>
-      </div>
-    </div>
-  </div>
-  <div class="col mb-4">
-    <div class="card h-100">
-      <div class="card-body">
-        <h5 class="card-title">
-           <a href="https://github.com/SalvatoreRomano1/About_Me"> Salvatore </a>   
-        </h5>
-        <p class="card-text">Social psychologist and Data Analyst</p>
-      </div>
-    </div>
-  </div>
-  <div class="col mb-4">
-    <div class="card h-100">
-      <div class="card-body">
-        <h5 class="card-title">Giulia</h5>
-        <p class="card-text">Communication designer</p>
-      </div>
-    </div>
-  </div>
-  <div class="col mb-4">
-    <div class="card h-100">
-      <div class="card-body">
-        <h5 class="card-title">Alessandro</h5>
-        <p class="card-text">Legal expert</p>
-      </div>
-    </div>
-</div>
-  <div class="col mb-4">
-    <div class="card h-100">
-      <div class="card-body">
-        <h5 class="card-title">
-       	<a href="https://www.marcfaddoul.com/"> Marc </a>
-        </h5>
-        <p class="card-text">Algorithm Designer</p>
-      </div>
-    </div>
-  </div>
+  {{<figure name="Alessandro" link="" role="Legal Analyst" >}}
+  {{<figure name="Andrea" link="" role="Research & Development" >}}
+  {{<figure name="Claudio" link="" role="Technology Architect and Manager" >}}
+  {{<figure name="Costa" link="" role="Research & Development" >}}
+  {{<figure name="Giulia C" link="" role="Communication Designer" >}}
+  {{<figure name="Giulia G" link="" role="Researcher" >}}
+  {{<figure name="Marc" link="https://www.marcfaddoul.com" role="Researcher, Product Manager and Fundraising" >}}
+  {{<figure name="Salvo" link="" role="Social Psychologist and Data Analyst" >}}
 </div>
 
-<!-- here starts the past collaborators --> 
+<!-- here starts the past collaborators -->
 
-<!--
-</section>
-<div class="accordion" id="accordionExample">
-  <div class="card">
-    <div class="card-header" id="headingOne">
-      <h2 class="mb-0">
-        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
- 	Community
-        </button>
-      </h2>
-    </div>
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-    	<p>
-    	<ul>
-	<li> <b> Davide Beraldo,</b> Professor at Media Studies departement, University of Amsterdam. </li>
-	<li> <b> Giovanni Rossetti,</b> Researcher in Media Studies. </li>
-	<li> <b> Leonardo Sanna,</b> linguist,Data Analyst </li>
-	</ul>
-    	</p>
-    </div>
-  </div>
-</div>
--->
 <h1 style="color:#53C1B6; text-align:center; padding-top:4rem; padding-bottom:3rem;" > COMMUNITY </h1>
 <div class="col-sm-8">
       <p>
