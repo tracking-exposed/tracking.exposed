@@ -13,7 +13,7 @@ In this way, we re-framed the browser extension, reduced the interaction offered
 
 This might be a way to let organization offer their extension without incurring in a knowledge fragmentation (which is crucial if you consider that any browser extension that does not rely on shared code has to update themselves any time Facebook upgrade their HTML protection).
 
-This is widely explained in [this Internet Policy Review article]("https://policyreview.info/articles/news/political-advertising-exposed-tracking-facebook-ads-2021-dutch-elections/1543).
+This is widely explained in [this Internet Policy Review article](https://policyreview.info/articles/news/political-advertising-exposed-tracking-facebook-ads-2021-dutch-elections/1543).
 
 ## First CHIARO use cases.
 
