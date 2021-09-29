@@ -1,34 +1,32 @@
 ---
 title: ""
+date: "2021-06-01 18:00"
 draft: false
-layout: page
 type: fullscreen
 ---
 <div class="container">
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
 <h1 style=" text-align:center"> REACH US </h1>
-
-<h2 style="color:#00000; text-align:center"> <a href="mailto:info@tracking.exposed
-">info(@)tracking.exposed</a>  </h1>
-
-
+  <h2 style="color:#00000; text-align:center">
+    <a href="mailto:info(@)tracking.exposed">info(@)tracking.exposed</a>
+  </h2>
+</h1>
 
 <section id="team">
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <h1 style="color:#53C1B6; text-align:center" > TEAM </h1>
-</br>
-</br>
+<br/>
+<br/>
 
 <div class="row row-cols-1 row-cols-md-3">
   {{<figure name="Alessandro" link="" role="Legal Analyst" >}}
@@ -45,22 +43,24 @@ type: fullscreen
 
 <h1 style="color:#53C1B6; text-align:center; padding-top:4rem; padding-bottom:3rem;" > COMMUNITY </h1>
 <div class="col-sm-8">
-      <p>
-    	<ul>
-	<li> <b> Davide Beraldo >_</b> Professor at Media Studies departement, University of Amsterdam. </li>
-	<li> <b> Giovanni Rossetti >_  </b> Researcher in Media Studies. </li>
-	<li> <b> Leonardo Sanna >_ </b> Linguist, Data Analyst </li>
-	</ul>
-    	</p>
+  <p>
+    <ul>
+      <li> <b> Davide Beraldo >_</b> Professor at Media Studies departement, University of Amsterdam. </li>
+      <li> <b> Giovanni Rossetti >_  </b> Researcher in Media Studies. </li>
+      <li> <b> Leonardo Sanna >_ </b> Linguist, Data Analyst </li>
+    </ul>
+   </p>
 </div>
 
+</section>
+
 <section id="partners">
-</br>
-</br>
-</br>
+<br/>
+<br/>
+<br/>
 <h1 style="color:#53C1B6; text-align:center; padding-top: 3rem;"> PARTNERS </h1>
-</br>
-</br>
+<br/>
+<br/>
 
 
 <div class="accordion" id="accordionExample">
@@ -141,8 +141,8 @@ type: fullscreen
   </div>
 </div>
 
-</br>
-</br>
+<br/>
+<br/>
 
 </section>
 </div>
