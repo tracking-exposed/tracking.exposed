@@ -48,4 +48,4 @@ og_description: "how to volunteer, play with data and know more TRex"
 ## 🤩  I can't participate but I would like to support you! 
 
 
-###### Follow us on the mainstream antisocial networks [Nitter](https://nitter.net/search?f=tweets&q=trackingexposed) or contact us at [team [at] tracking [dot] exposed](mailto:info@tracking.exposed)
+###### Follow us on the mainstream antisocial networks [Nitter](https://nitter.net/search?f=tweets&q=trackingexposed) or contact us at *team [at] tracking [dot] exposed*.
