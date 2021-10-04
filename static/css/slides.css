@@ -1,0 +1,80 @@
+.bg-yt {
+  background-color: #D9230F;
+}
+
+.bg-trex {
+  background-color: #46b3a5;
+}
+
+.bg-clima {
+  background-color: #0C8346;
+}
+
+.bg-standard {
+  background-color: #f7f9fb;
+}
+
+/* I wasn't able to take this out from html, 
+   I used <span>, as indicated in the webslides.
+
+.bg-stripes {
+  background-image:url('/images/smoke.jpeg');
+}
+*/
+
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+h1 span {
+    width: 15.8rem;
+}
+
+
+[class*='bg-yt'] {
+  color: #030303;
+}
+
+[class*='bg-standard'] {
+  color: #030303;
+} 
+
+[class*='bg-black'],
+[class*='bg-gradient-'] {
+  color: #fff;
+  text-shadow: 0 1px 0 #D9230F;
+}
+
+
+.primary {
+  color: #030303;
+}
+.secondary {
+  color: #D9230F;
+}
+.third {
+  color: #fff;
+}
+.fourth {
+  color: #0C8346;
+}
+
+.hlight {
+  fill: black;
+  font-size: 1.2em;
+  color: #0C8346;
+}
+
+.other {
+  fill: green;
+}
+ 
+
+/*
+ I can't define the href color for a specific bg-*
+ I can't define a specific span  width for a single bg-*
+ There are too many conflicts between the css working here,
+ neither using !important is enought, but how to do that 
+ without changing the theme css (webslides.css)?
+*/ 
