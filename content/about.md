@@ -43,9 +43,9 @@ type: fullscreen
     <div class="card h-100">
       <div class="card-body">
         <h5 class="card-title">
-           <a href="https://github.com/SalvatoreRomano1/About_Me"> Salvatore </a>   
+         <a href="https://salvatoreromano1.github.io/pdf/CV_Salvatore_Romano.pdf"> Salvatore </a>   
         </h5>
-        <p class="card-text">Social psychologist and Data Analyst</p>
+        <p class="card-text">Research Coordinator</p>
       </div>
     </div>
   </div>
@@ -69,7 +69,7 @@ type: fullscreen
     <div class="card h-100">
       <div class="card-body">
         <h5 class="card-title">
-       	<a href="https://www.marcfaddoul.com/"> Marc </a>
+       	 <a href="https://www.marcfaddoul.com/"> Marc </a> 
         </h5>
         <p class="card-text">Algorithm Designer</p>
       </div>
