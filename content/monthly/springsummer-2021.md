@@ -24,15 +24,13 @@ With a partnership organized by the University of Amsterdam, Datactive, with Vol
 * The poll institute surveyed the 600+ citizens, checked if they somehow changed their voting orientation, and asked about political messages seen on Facebook at the end of the electoral.
 * Journalists are reviewing all the data above to actually draw a line of effectiveness on political advertising via Facebook.
 
-PAADC has been one of the most comprehensive research ever made on the subject. A multidisciplinary approach that is discussed mainly in the Dutch language, we'll leave here two .pdf from the media, containing the articles produced, and in English, there is X and Y.
+**PAADC has been one of the most comprehensive research ever made on the subject**. A multidisciplinary approach that is discussed mainly in the Dutch language, the [first article is from 22 Februady 2021](https://github.com/tracking-exposed/presentation/blob/master/paadc/Online%20proberen%20partijen%20elke%20kiezer%20de%20juiste%20boodschap%20te%20sturen.%20Maar%20goed%20gemikt%20is%20lang%20niet%20altijd%20raak%20_%20De%20Volkskrant.pdf), and the [second from 12 of March 2021](https://github.com/tracking-exposed/presentation/blob/master/paadc/Ieder%20zijn%20eigen%20campagneboodschap%20_%20De%20Volkskrant.pdf); In English, this articles on [PolicyReview.info](https://policyreview.info/articles/news/political-advertising-exposed-tracking-facebook-ads-2021-dutch-elections/1543).
 
-## YouChoose begin
+## [YouChoose.ai](https://youchoose.ai) begun!
 
-https://youchoose.ai
+Check the website, and if you want to contribute with a 4 minutes [user survey](https://youchoose.tracking.exposed/survey_us/#monthly), we're studying the application and doing UX testing.
 
-if you want to contribute with a 4 minutes [user survey](https://youchoose.tracking.exposed/survey_us/#monthly), we're studying the application and doing UX testing.
-
-_if you want to explore the world of shadowban detection, feel free to reach out._
+Extra: _if you want to explore the world of shadowban detection, feel free to reach out._
 
 ## Two open letters co—signed
 
