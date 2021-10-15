@@ -33,13 +33,14 @@ type: fullscreen
   {{<figure name="Andrea" link="" role="Research & Development" >}}
   {{<figure name="Claudio" link="" role="Technology Architect and Manager" >}}
   {{<figure name="Costa" link="" role="Research & Development" >}}
+  {{<figure name="Gaetano" link="" role="App Analyst and Development" >}}
   {{<figure name="Giulia C" link="" role="Communication Designer" >}}
   {{<figure name="Giulia G" link="" role="Researcher" >}}
   {{<figure name="Marc" link="https://www.marcfaddoul.com" role="Researcher, Product Manager and Fundraising" >}}
   {{<figure name="Salvo" link="" role="Social Psychologist and Data Analyst" >}}
 </div>
 
-<!-- here starts the past collaborators -->
+<!-- here starts the past collaborators: but there are many others! -->
 
 <h1 style="color:#53C1B6; text-align:center; padding-top:4rem; padding-bottom:3rem;" > COMMUNITY </h1>
 <div class="col-sm-8">

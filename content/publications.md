@@ -35,8 +35,7 @@ og_description: "Accademic publications, since 2016"
 * [Choose Your Price on Amazon: Windows 10 vs. macOS](https://wiki.digitalmethods.net/Dmi/WinterSchool2020AmazonOS) (Digital Methods Winter School, 01/2020)
 * [Does Amazon know your Wealth?](https://wiki.digitalmethods.net/Dmi/WinterSchool2020DoesAmazonknowyourWealth) (Digital Methods Winter School, 01/2020)
 * [Amazon’s Choice: An inquiry into Amazon](https://wiki.digitalmethods.net/Dmi/WinterSchool2020amazonschoice) (Digital Methods Winter School, 01/2020)
-* [Analysis of Amazon’s algorithm](https://vimeo.com/378307005)
-(National TV channel "Rai2", TV Program: “Petrolio”, Episod: “Il mondo (segreto) di Amazon”, 12/2019.)
+* [Analysis of Amazon’s algorithm](https://vimeo.com/378307005) (National TV channel "Rai2", TV Program: “Petrolio”, Episod: “Il mondo (segreto) di Amazon”, 12/2019.) - <b>italian video</b> - password is "trex".
 * [Algorithm exposed: investigating Youtube's personalization ](https://wiki.digitalmethods.net/Dmi/SummerSchool2019AlgorithmsExposed), [_Slides_](https://data-activism.net/2019/07/youtube-algorithm-exposed-dmi-summer-school-project-week-1/) (Digital Methods Summer School, 06/2019)
 * [When corporation pretend to help: Why we need data activism](https://data-activism.net/2019/05/fbtrex-reaction-to-facebook-collaboration/) _by_ Claudio Agosti (DatActivism blog, 05/2020)
 * [The invisible curation of content | Facebook’s News Feed and our information diets](http://webfoundation.org/docs/2018/04/WF_InvisibleCurationContent_Screen_AW.pdf).  [Spanish version](http://webfoundation.org/docs/2018/04/WF_ICC_Spanish_Screen_AW.pdf), [Abstract](https://webfoundation.org/research/the-invisible-curation-of-content-facebooks-news-feed-and-our-information-diets/), [Data](https://github.com/tracking-exposed/experiments-data/tree/master/wto).  _by_ Renata Ávila, Juan Ortiz Freuler and Craig Fagan. Claudio Agosti.  (WebFoundation, 04/2018)
