@@ -31,7 +31,7 @@ type: fullscreen
 <div class="row row-cols-1 row-cols-md-3">
   {{<figure name="Alessandro" link="" role="Legal Analyst" >}}
   {{<figure name="Andrea" link="" role="Research & Development" >}}
-  {{<figure name="Claudio" link="" role="Technology Architect and Manager" >}}
+  {{<figure name="Claudio" link="https://netzpolitik.org/2019/facebooks-algorithm-shapes-our-lives-this-hacker-wants-to-find-out-how/" role="Technology Architect and Founder" >}}
   {{<figure name="Costa" link="" role="Research & Development" >}}
   {{<figure name="Gaetano" link="" role="App Analyst and Development" >}}
   {{<figure name="Giulia C" link="" role="Communication Designer" >}}
