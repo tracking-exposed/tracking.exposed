@@ -20,11 +20,11 @@ og_description: "Events, since 2016"
 
 {{<resource 
   kind="event"
-  authors="Marc Faddoul and Salvatore Romano"
-  title="Forum for Public and Common Goods @ Pre-COP 2021 (Milan). 'Climate Change and New Technologies: Aligning Public Administration and Social Activation around Decentralized Local and Global Solutions'"
+  authors="Salvatore Romano and Marc Faddoul"
+  title="Forum for Public and Common Goods @ Pre-COP 2021, Milan. "
   when="2021 - October"
   href="https://ceridap.eu/wp-content/uploads/2021/09/2021-10-01-CERIDAP-CODEX-Pre-COP-Roundtables-1.pdf"
-  description="Round table and CO-Project pitch: Greenwashing on Youtube "
+  description="'Climate Change and New Technologies: Aligning Public Administration and Social Activation around Decentralized Local and Global Solutions'. We participated to the round table presenting the CO-Project: 'Greenwashing on Youtube'"
   resource1="Slides of the CO-Project"
   resource1href="https://youtube.tracking.exposed/slides/cop-talk/">}}
 
@@ -41,7 +41,7 @@ og_description: "Events, since 2016"
 {{<resource 
   kind="event"
   authors="Giulia Corona and Claudio Agosti"
-  title="End Summer Camp ESC-21, Venezia. "
+  title="End Summer Camp ESC-21, Venice. "
   when="2021 - September"
   href="https://www.endsummercamp.org/index.php/ESC21-Schedule"
   description="Talk about the last research conducted on Youtube and Pornhub. This was the occasion to show our last research on Pornhub algorithm and its heteronormativity." 
@@ -52,7 +52,7 @@ og_description: "Events, since 2016"
 {{<resource 
   kind="event"
   authors="Salvatore Romano"
-  title="HackMeeting 2021, Italian hacking festival "
+  title="HackMeeting 2021, Italian hacking festival, Bologna. "
   when="2021 - September"
   href="https://hackmeeting.org/hackit21/"
   description="Talk about the last research conducted on Youtube and Pornhub: Smash the filter bubble!. Workshop on Youtube: tracking the climate disinformation and the ranking algorithm suggestions. Presentation on the Ten minutes talk of the Youchoose project." 
@@ -67,6 +67,18 @@ og_description: "Events, since 2016"
   href="https://www.youtube.com/watch?v=jgqVN_HaNVM&t=11340s"
   description="Due esempi di bias algoritmici: la polarizzazione su Youtube e l'eteronomartività su Pornhub. Gli algoritmi sono una soluzione tecnologica al sovraccarico di informazioni: sono tanto potenti quanto necessari per gestire l'overflow di dati che ci raggiunge. Purtroppo, possono anche nascondere l'uso di valutazioni e giudizi basati su bias che hanno un impatto sulla diffusione delle idee e della cultura. Tracking Exposed si occupa da diversi anni di rendere queste black box analizzabili in modo indipendente, sia per le ricercatrici che per utenti comuni. In questo intervento discuteremo due degli studi più recenti che abbiamo condotto sugli algoritmi di raccomandazione di Youtube e Pornhub." >}}
 
+  {{<resource 
+  kind="event"
+  authors="Salvatore Romano"
+  title="High School seminary: 'Digital education, social media and algorithms', Milan."
+  when="2021 - April"
+  href="https://www.youtube.com/watch?v=QJ5dg261KPA&t=10s"
+  description="Social media, algorithm, and psychology: raising awareness on the digital sphere among young adults" 
+  resource1href="http://www.associazionepsyche.it"
+  resource1="Associazione Psychè"
+  resource2href="https://www.youtube.com/watch?v=oN9s96RUo6g"
+  resource2="Long documentary">}}
+
 {{<resource
   kind="event"
   when="2021 - January" 
@@ -77,19 +89,6 @@ og_description: "Events, since 2016"
   resource1="Final presentation slides"
   resource1href="https://github.com/tracking-exposed/presentation/blob/master/FilterTube-DMIWS21.pdf">}}
 
-{{<resource
-  kind="event"
-  when="2020 - January"
-  authors="Salvatore Romano"
-  title=" YouTube Tracking Exposed: Investigating polarization via YouTube ’s Recommender Systems  — DMI UvA Winter School project pitch"
-  description="Collective group work on polarization of the Brexit discussion seen through Youtube's personalization algorithm, we found out that: (1) There is evidence of progressive polarization of the recommendations around Brexit on YouTube, especially for Leave-inclined users.(2) The Leave/Remain content bubbles, constituted respectively by The Sun/The Telegraph and The Guardian/The Mirror YouTube channels rarely converge. (3) Mainstream media is recommended with greater regularity compared to natively digital channels. Project coordinated by Salvatore Romano and Davide Beraldo"
-  href="https://docs.google.com/document/d/1EkeEa6vnIQI1QH8xEIZkAbI23vn3ChsjoJs3U6tkeqo/edit"
-  resource1="Final project report"
-  resource1href="https://wiki.digitalmethods.net/Dmi/WinterSchool2020youtube"
-  resource2="Project Pitch slides (on Prezi)"
-  resource2href="https://prezi.com/view/AvoT0B1lnclMIq3k4LOU"
-  resource3="Final presentation slides"
-  resource3href="https://drive.google.com/open?id=1bOSi6853za6CRDYF1xdc8Os0EUQOWgma">}}
 
 {{<resource
   kind="event"
