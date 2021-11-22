@@ -38,6 +38,7 @@ type: fullscreen
   {{<figure name="Giulia G" link="" role="Researcher" >}}
   {{<figure name="Marc" link="https://www.marcfaddoul.com" role="Researcher, Product Manager and Fundraising" >}}
   {{<figure name="Salvo" link="https://salvatoreromano1.github.io/pdf/CV_Salvatore_Romano.pdf" role="Research Coordinator" >}}
+  {{<figure name="Silvia" link="" role="Community building" >}}
 </div>
 
 <!-- here starts the past collaborators: but there are many others! -->

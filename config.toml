@@ -24,7 +24,6 @@ canonifyURLs = true
 
 [menu]
 
-
  [[menu.main]]
     name = "About"
     identifier = "about"
@@ -65,26 +64,6 @@ canonifyURLs = true
     weight = -160
 
 
-
-
-# [[menu.main]]
-#    parent = "connections"
-#    name = "Contacts"
-#    url = "/connections/"
-#    weight = 10
-# [[menu.main]]
-#    parent = "connections"
-#    name = "Team"
-#    url ="/connections/#team"
-#    weight = 20
-# [[menu.main]]
-#    parent = "connections"
-#    name = "Partners"
-#    url = "/connections/#partners"
-#    weight = 30
-
-
-
  [[menu.main]]
     name = "Impact"
     identifier = "impact"
@@ -118,31 +97,6 @@ canonifyURLs = true
     weight = 40
 
 
-
-
-#  [[menu.main]]
-#    page = "A national-declined research (Italian election)"
-#    identifier = "eu19.tracking.exposed"
-#    name = "EU Election 2019"
-#    parent = "studies"
-#    url = "https://eu19.tracking.exposed"
-#    weight = -100
-#  [[menu.main]]
-#    page = "A national-declined research (Italian election)"
-#    identifier = "elezioni.tracking.exposed"
-#    parent = "studies"
-#    name = "Italien Election"
-#    url = "https://elezioni.tracking.exposed"
-#    weight = -100
-# [[menu.main]]
-#    page = "PornHub"
-#    identifier = "pornhub"
-#    parent = "analyzed"
-#    name = "PornHub"
-#    url = "https://pornhub.tracking.exposed"
-#    weight = -160
-
-
  [[menu.footer]]
     page = "manifesto"
     identifier = "manifesto"
@@ -159,7 +113,7 @@ canonifyURLs = true
     page = "connections"
     identifier = "connections"
     name = "Connections"
-    url ="/connections"
+    url ="/about"
     weight = 30
  [[menu.footer]]
     page = "impact"
@@ -176,7 +130,7 @@ canonifyURLs = true
     post = "Since 2016 we fight for a web that is home for many, not property of the few. 💡 Our beliefs are guiding us towards our purpose: empowering people."
  [[menu.featured]]
     name = "Connections  "
-    url = "/connections"
+    url = "/about"
     weight = -170
     pre = "/images/connect with us.svg"
     post = "Who we are and who is supporting us.🎈 If you wish to get involved, feel free to reach us out, any collaboration is more than welcome."
