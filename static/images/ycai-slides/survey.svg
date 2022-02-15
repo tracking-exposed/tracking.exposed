@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 42 56.00301"
+   x="0px"
+   y="0px"
+   version="1.1"
+   id="svg886"
+   sodipodi:docname="survey.svg"
+   width="42"
+   height="56.00301"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata892">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs890" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1848"
+     inkscape:window-height="1009"
+     id="namedview888"
+     showgrid="false"
+     inkscape:zoom="10.88"
+     inkscape:cx="4.1341912"
+     inkscape:cy="22.347794"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg886" />
+  <title
+     id="title872">017 - User Survey</title>
+  <path
+     d="m 27,3.0030116 h -2.129 a 2.021,2.021 0 0 1 -1.942,-1.533 2,2 0 0 0 -3.857,0 2.022,2.022 0 0 1 -1.943,1.533 H 15 v 2 h 12 z"
+     id="path874"
+     inkscape:connector-curvature="0"
+     style="fill:#e3318f;fill-opacity:1" />
+  <circle
+     cx="21"
+     cy="39.00301"
+     r="4"
+     id="circle876"
+     style="fill:#e3318f;fill-opacity:1" />
+  <path
+     d="m 13,50.503012 v 5.2 a 0.3,0.3 0 0 0 0.286,0.3 h 15.428 a 0.3,0.3 0 0 0 0.286,-0.3 v -5.2 a 5.472,5.472 0 0 0 -5.429,-5.5 h -5.142 a 5.472,5.472 0 0 0 -5.429,5.5 z"
+     id="path878"
+     inkscape:connector-curvature="0"
+     style="fill:#e3318f;fill-opacity:1" />
+  <path
+     d="M 42,51.003012 V 7.0030116 a 2,2 0 0 0 -2,-2 H 29 a 2,2 0 0 1 -2,2 H 15 a 2,2 0 0 1 -2,-2 H 2 a 2,2 0 0 0 -2,2 V 51.003012 a 2,2 0 0 0 2,2 h 9 v -2.5 a 7.493,7.493 0 0 1 5.728,-7.294 6,6 0 1 1 8.544,0 7.493,7.493 0 0 1 5.728,7.294 v 2.5 h 9 a 2,2 0 0 0 2,-2 z m -30,-8 H 5 a 1,1 0 0 1 0,-2 h 7 a 1,1 0 0 1 0,2 z m 0,-4 H 5 a 1,1 0 0 1 0,-2 h 7 a 1,1 0 0 1 0,2 z m 8,-8 H 5 a 1,1 0 0 1 0,-2 h 15 a 1,1 0 0 1 0,2 z m 5,0 h -1 a 1,1 0 0 1 0,-2 h 1 a 1,1 0 0 1 0,2 z m 0,-4 H 5 a 1,1 0 0 1 0,-2 h 20 a 1,1 0 0 1 0,2 z m -21,-9 a 1,1 0 0 1 1,-1 h 15 a 1,1 0 0 1 0,2 H 5 a 1,1 0 0 1 -1,-1 z m 21,1 h -1 a 1,1 0 0 1 0,-2 h 1 a 1,1 0 0 1 0,2 z m 0,-4 H 5 a 1,1 0 0 1 0,-2 h 20 a 1,1 0 0 1 0,2 z m 5.293,2.293 a 1,1 0 0 1 1.414,0 l 1.185,1.185 5.308,-7.078 a 1,1 0 1 1 1.6,1.2 l -6,8 a 1,1 0 0 1 -0.729,0.4 H 33 a 1,1 0 0 1 -0.707,-0.293 l -2,-2 a 1,1 0 0 1 0,-1.414 z m 9.507,19.307 -6,8 a 1,1 0 0 1 -0.729,0.4 H 33 a 1,1 0 0 1 -0.707,-0.293 l -2,-2 a 1,1 0 0 1 1.414,-1.414 l 1.185,1.185 5.308,-7.078 a 1,1 0 1 1 1.6,1.2 z m -0.093,-5.307 a 1,1 0 1 1 -1.414,1.414 l -3.293,-3.293 -3.293,3.293 a 1,1 0 0 1 -1.414,-1.414 l 3.293,-3.293 -3.293,-3.293 a 1,1 0 0 1 1.414,-1.414 l 3.293,3.293 3.293,-3.293 a 1,1 0 0 1 1.414,1.414 l -3.293,3.293 z"
+     id="path880"
+     inkscape:connector-curvature="0"
+     style="fill:#e3318f;fill-opacity:1" />
+  <text
+     x="-9"
+     y="73.003014"
+     font-size="5px"
+     font-weight="bold"
+     id="text882"
+     style="font-weight:bold;font-size:5px;font-family:'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif;fill:#000000">Created by Juicy Fish</text>
+  <text
+     x="-9"
+     y="78.003014"
+     font-size="5px"
+     font-weight="bold"
+     id="text884"
+     style="font-weight:bold;font-size:5px;font-family:'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif;fill:#000000">from the Noun Project</text>
+</svg>
