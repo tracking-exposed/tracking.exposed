@@ -14,10 +14,10 @@ canonifyURLs = true
     ourvision = "display"
     subtitle = ""
     subsite = "default"
+    news = "publish"
     openGraphSiteName = "Tracking Exposed"
     description = "We develop free software to enable research and expert users in figuring out how algorithms shape their online perception."
     tagline = "We develop tools to uncover how tracking and profiling have an impact on society"
-
 
 [permalinks]
     posts = "/news/:slug/"
@@ -25,20 +25,19 @@ canonifyURLs = true
 [menu]
 
  [[menu.main]]
-    name = "About"
+    name = "About us"
     identifier = "about"
     url = "/about/"
     weight = 10
 
- [[menu.main]]
-    name = "Manifesto"
-    url = "/manifesto"
-    weight = 15
+[[menu.main]]
+   name = "Blog"
+   url = "/blog"
+   weight = 15
 
 
  [[menu.main]]
-    page = "Tools"
-    name = "Tools"
+    name = "Tools & Platforms"
     identifier = "tools"
     weight = 20
  [[menu.main]]
@@ -67,7 +66,6 @@ canonifyURLs = true
  [[menu.main]]
     name = "Impact"
     identifier = "impact"
-    url = "/impact/"
     weight = 40
 
  [[menu.main]]
@@ -98,45 +96,49 @@ canonifyURLs = true
 
 
  [[menu.footer]]
-    page = "manifesto"
+    identifier = "about"
+    name= "About Us"
+    url = "/about"
+    weight = 20
+ [[menu.footer]]
     identifier = "manifesto"
     name= "Manifesto"
     url = "/manifesto"
-    weight =10
- [[menu.footer]]
-    page = "tools"
-    identifier = "tools"
-    name = "Tools"
-    url = "/connect"
-    weight = 20
- [[menu.footer]]
-    page = "connections"
-    identifier = "connections"
-    name = "Connections"
-    url ="/about"
-    weight = 30
- [[menu.footer]]
-    page = "impact"
-    name = "Impact"
-    identifier = "impact"
-    url = "/impact"
-    weight = 40
+    weight = 10
+# [[menu.footer]]
+#    page = "tools"
+#    identifier = "tools"
+#    name = "Tools"
+#    url = "/connect"
+#    weight = 20
+# [[menu.footer]]
+#    page = "connections"
+#    identifier = "connections"
+#    name = "Connections"
+#    url ="/about"
+#    weight = 30
+# [[menu.footer]]
+#    page = "impact"
+#    name = "Impact"
+#    identifier = "impact"
+#    url = "/impact"
+#    weight = 40
 
- [[menu.featured]]
-    name= "Manifesto"
-    url = "/manifesto"
-    weight = -180
-    pre = "/images/trex-logo.svg"
-    post = "Since 2016 we fight for a web that is home for many, not property of the few. 💡 Our beliefs are guiding us towards our purpose: empowering people."
- [[menu.featured]]
-    name = "Connections  "
-    url = "/about"
-    weight = -170
-    pre = "/images/connect with us.svg"
-    post = "Who we are and who is supporting us.🎈 If you wish to get involved, feel free to reach us out, any collaboration is more than welcome."
- [[menu.featured]]
-    name = "Impact"
-    url = "/impact"
-    weight = -160
-    pre = "/images/reports.svg"
-    post = "Our last activities, publications and appearances, 🔭 from all the various project under the tracking.exposed umbrella."
+# [[menu.featured]]
+#    name= "Manifesto"
+#    url = "/manifesto"
+#    weight = -180
+#    pre = "/images/trex-logo.svg"
+#    post = "Since 2016 we fight for a web that is home for many, not property of the few. 💡 Our beliefs are guiding us towards our purpose: empowering people."
+# [[menu.featured]]
+#    name = "Connections  "
+#    url = "/about"
+#    weight = -170
+#    pre = "/images/connect with us.svg"
+#    post = "Who we are and who is supporting us.🎈 If you wish to get involved, feel free to reach us out, any collaboration is more than welcome."
+# [[menu.featured]]
+#    name = "Impact"
+#    url = "/impact"
+#    weight = -160
+#    pre = "/images/reports.svg"
+#    post = "Our last activities, publications and appearances, 🔭 from all the various project under the tracking.exposed umbrella."

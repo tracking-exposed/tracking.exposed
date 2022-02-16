@@ -1,0 +1,40 @@
+
+/* .tiktok {
+    background-image: url("/images/glitch-art-bg-2.jpg");
+}
+
+.core {
+    background-color: white;
+    border-radius: 0 0 20px 20px;
+}
+*/
+
+h3 {
+    color: #53c1b6;
+    font-size: 2.8rem;
+}
+
+.centertitle {
+    color: #53c1b6;
+    font-size: 2.6rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+
+.underimgtitle {
+    color: black !important; /* #53c1b6; */
+    font-size: 1.4em;
+}
+
+.text-right {
+    text-align: right;
+}
+
+p {
+    font-size: 1.4em;
+}
+
+.featured-box {
+    width: 100%;
+    text-align: center;
+}

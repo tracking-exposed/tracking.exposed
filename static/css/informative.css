@@ -1,0 +1,49 @@
+/* h1 is reserved for the title */
+
+.palette { 
+    color: #1A1A1A; /* Cod Gray */
+    color: #E0E8E5; /* Nebula */
+    color: #4DBAAC; /* Fountain Blue */
+    color: #235FB0; /* Cerulean Blue */
+}
+
+h2 {
+    font-size: 1.8rem;
+}
+
+h3 {
+    font-family: monospace;
+    color: #235FB0;
+    font-size: 1.7rem;
+}
+
+/* h4 still not allocated */
+
+h5 {
+    text-align: center;
+    color: #E0E8E5; /* Nebula */
+    background-color: #1A1A1A; /* Cod Gray */
+    font-size: 1.5em;
+    font-weight: 100;
+    padding: 1em;
+}
+
+h6 {
+    text-align: justify;
+    background-color: #E0E8E5; /* Nebula */
+    color: #1A1A1A; /* Cod Gray */
+    font-size: 1.3rem;
+    margin: 20px 0px 20px 0px;
+    padding: 10px;
+}
+
+p {
+    margin: 20px 0px 20px 0px;
+    font-size: 1.4rem;
+}
+
+ol {
+    font-size: 1.4rem;
+}
+
+/* I'm not overriding li and ul because they are used in the footer */

@@ -4,12 +4,13 @@ date: "2021-06-01 18:00"
 draft: false
 type: fullscreen
 ---
+
 <div class="container">
 <br>
 <br>
 <br>
 
-<h1 style=" text-align:center"> REACH US </h1>
+<h1 style="text-align:center"> GET IN TOUCH</h1>
   <h2 style="color:#00000; text-align:center">
     <a href="mailto:info(@)tracking.exposed">info(@)tracking.exposed</a>
   </h2>
@@ -28,8 +29,12 @@ type: fullscreen
 <br/>
 <br/>
 
-<div class="row row-cols-1 row-cols-md-3">
-  {{<figure name="Alessandro" link="" role="Legal Analyst" >}}
+<div class="row row-cols-1">
+  {{<figure
+    name="Alessandro"
+    link=""
+    role="Legal Analyst"
+  >}}
   {{<figure name="Andrea" link="" role="Research & Development" >}}
   {{<figure name="Claudio" link="https://netzpolitik.org/2019/facebooks-algorithm-shapes-our-lives-this-hacker-wants-to-find-out-how/" role="Technology Architect and Founder" >}}
   {{<figure name="Costa" link="" role="Research & Development" >}}
@@ -42,6 +47,22 @@ type: fullscreen
 </div>
 
 <!-- here starts the past collaborators: but there are many others! -->
+
+
+
+<div class="row" style="padding-top: 4rem;">
+    <div class="col-lg-4"> 
+        <pre class="primary-color" style="font-size:1.25rem; text-align: justify;"> We are a no-profit, free software project aimed to <b>analyze evidence of algorithm personalization</b> by enabling social media user in scraping their personalized feeds, and <b>allow comparison among said evidence</b> by offering privacy-preserving API, so people might finally figure out how aggressive and manipulative is the modern Internet landscape.</pre> 
+    </div>
+    <div class="col-lg-8"> 
+        <iframe
+            width=100% height=100%
+            src="https://www.youtube-nocookie.com/embed/SmYuYEhT81c"
+            frameborder=0>
+        </iframe > <!--frameborder="0" showinfo="0" rel="0"allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen-->
+    </div>
+</div>
+
 
 <h1 style="color:#53C1B6; text-align:center; padding-top:4rem; padding-bottom:3rem;" > COMMUNITY </h1>
 <div class="col-sm-8">
