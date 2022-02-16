@@ -24,37 +24,37 @@ canonifyURLs = true
 
 [menu]
 
- [[menu.main]]
+  [[menu.main]]
     name = "About us"
     identifier = "about"
     url = "/about/"
     weight = 10
 
-[[menu.main]]
+ [[menu.main]]
    name = "Blog"
    url = "/blog"
    weight = 15
 
 
- [[menu.main]]
+  [[menu.main]]
     name = "Tools & Platforms"
     identifier = "tools"
     weight = 20
- [[menu.main]]
+  [[menu.main]]
     page = "Facebook"
     identifier = "facebook"
     parent = "tools"
     name= "Facebook"
     url = "https://facebook.tracking.exposed"
     weight = -180
- [[menu.main]]
+  [[menu.main]]
     page = "YouTube"
     parent = "tools"
     identifier = "youtube"
     name = "YouTube"
     url = "https://youtube.tracking.exposed"
     weight = -170
- [[menu.main]]
+  [[menu.main]]
     page = "PornHub"
     parent = "tools"
     identifier = "pornhub"
