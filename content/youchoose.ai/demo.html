@@ -1,0 +1,108 @@
+---
+title: "YouChoose.AI Demo"
+subtitle: "Project Demo"
+draft: false
+type: "webslides"
+og_title: "YouChoose.AI project Demo"
+og_description: "The idea"
+og_type: "website"
+og_image: "http://youchoose.tracking.exposed/images/compare.jpg"
+og_url: "https://youchoose.tracking.exposed/analysis/pitch"
+
+# extraCSS: "/css/business-case-slide.css"
+extraCSS: "/css/slides.css"
+
+---
+
+
+<section>
+ <span class=background style="background-image:url('/images/slides/smoke.jpeg')"></span>
+ <div class="wrap aligncenter">
+   <figure class="">
+    <img class="svg" style="width:55%; padding-bottom: 5rem;"  src="/images/slides/header-logo-youchoose.svg" ></img>
+   </figure >
+  <h2 class="aligncenter subtitle">Gain Control Back over YouTube Recommendations</h2>
+ </div>
+
+</section><section>
+
+  <span class=background style="background-image:url('/images/slides/smoke.jpeg')"></span>
+  <div class="wrap">
+    <h1 class="secondary  bold">
+     The algorithm is the gatekeeper of YouTube.
+    </h1>
+    <div class="grid vertical-align">
+      <div class="column">
+        <img style="width:25%; padding-bottom: 1r" class=" aligncenter" src="/images/slides/recommender_icon3.svg">
+      </div>
+    </div>
+      <h4 class="aligncenter">But it is designed to maximize profits, not your best interest.</h4>
+  </div>
+
+</section><section>
+
+ <span class=background style="background-image:url('/images/slides/smoke.jpeg')"></span>
+  <div class="wrap aligncenter">
+    <h1 class="secondary  bold">YouChoose.ai</h1>
+    <br><br>
+      <h4><b>Gain back control over YouTube recommendations</b></h4>
+    <br></br>
+  <div class="grid vertical-align">
+    <div class="column">
+      <img class=" aligncenter" style="width:20%; padding-bottom: 2rem;" src="/images/slides/contentcreators.svg">
+      <h2 class="aligncenter secondary bold">Content Creators</h2>
+      <h3 class="aligncenter">choose recommendations on their own videos</h3>
+    </div>
+    <div class="column">
+      <img class=" aligncenter" style="width:30%; padding-bottom: 2rem;" src="/images/slides/users.svg">
+      <h2 class="aligncenter secondary bold">Users</h2>
+      <h3 class="aligncenter">choose their recommendation model</h3>
+    </div>
+  </div>
+</div>
+
+
+</section><section>
+ <div class="wrap aligncenter">
+     <h2 class="aligncenter secondary bold">The vision:</h2>
+     <br>
+     <h2 class="aligncenter">A platform to end algorithmic monopolies</h2>
+     <br><br>
+     <figure>
+        <img class="svg" style="width:90%; padding-bottom: 5rem;"  src="/images/slides/roadmap-minimal.png"></img>
+     </figure>
+ </div>
+</section>
+
+
+<section>
+    <span class=background style="background-image:url('/images/slides/smoke.jpeg')"></span>
+    <div class="wrap aligncenter">
+        <figure class="">
+            <img class="svg" style="width:55%; padding-bottom: 5rem;"  src="/images/slides/header-logo-youchoose.svg" ></img>
+        </figure >
+        <br><br><br>
+        <h2 class="aligncenter subtitle">To learn more or support us, visit <a href="https://youchoose.ai"
+                                                                               target=_blank><b><u>YouChoose.ai</u></b></a></h2>
+    </div>
+</section>
+
+
+<script>
+  removeHeaderFooter(1500)
+
+  $(document).ready(function() {
+      let visibleFooter = false;
+      /* if the mouse goes out, for four second leave the bar */
+      $(document).mouseleave(function() {
+        $('header').fadeIn(300);
+        window.setTimeout(function() {
+          $('header').fadeOut(300);
+        }, 4000);
+      });
+      $("#final-slide").on('mousemove', function() {
+        visibileFooter = !visibleFooter && restoreHeaderFooter(800);
+      });
+    }
+  );
+</script> 
