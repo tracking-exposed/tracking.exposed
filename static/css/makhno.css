@@ -1,9 +1,4 @@
-.palette { 
-    color: #1A1A1A; /* Cod Gray */
-    color: #E0E8E5; /* Nebula */
-    color: #4DBAAC; /* Fountain Blue */
-    color: #235FB0; /* Cerulean Blue */
-}
+/* makhno page is html and not markdown — most of the style here is similar to informative.css */
 
 /* smaller affects the subtitle! */
 smaller, h3 {

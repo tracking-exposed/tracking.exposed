@@ -29,6 +29,101 @@ type: fullscreen
 <br/>
 <br/>
 
+# Test for the human representation
+
+<div class="container">
+
+  <div class="row">
+    {{<staffentry
+      name="The Human Name"
+      role="title title tile"
+      blog="/blog/humanname/"
+      picture="/images/team/avatar.png"
+    >}}
+    {{<staffentry
+      name="The Human Name"
+      role="title title tile"
+      blog="/blog/humanname/"
+      picture="/images/team/avatar.png"
+    >}}
+    {{<staffentry
+      name="The Human Name"
+      role="title title tile"
+      blog="/blog/humanname/"
+      picture="/images/team/avatar.png"
+    >}}
+    {{<staffentry
+      name="The Human Name"
+      role="title title tile"
+      blog="/blog/humanname/"
+      picture="/images/team/avatar.png"
+    >}}
+  </div>
+
+  <div class="row">
+    {{<staffentry
+      name="The Human Name"
+      role="title title tile"
+      blog="/blog/humanname/"
+      picture="/images/team/avatar.png"
+    >}}
+    {{<staffentry
+      name="The Human Name"
+      role="title title tile"
+      blog="/blog/humanname/"
+      picture="/images/team/avatar.png"
+    >}}
+    {{<staffentry
+      name="The Human Name"
+      role="title title tile"
+      blog="/blog/humanname/"
+      picture="/images/team/avatar.png"
+    >}}
+    {{<staffentry
+      name="The Human Name"
+      role="title title tile"
+      blog="/blog/humanname/"
+      picture="/images/team/avatar.png"
+    >}}
+  </div>
+
+  <div class="row">
+    {{<staffentry
+      name="The Human Name"
+      role="title title tile"
+      blog="/blog/humanname/"
+      picture="/images/team/avatar.png"
+    >}}
+    {{<staffentry
+      name="The Human Name"
+      role="title title tile"
+      blog="/blog/humanname/"
+      picture="/images/team/avatar.png"
+    >}}
+    {{<staffentry
+      name="The Human Name"
+      role="title title tile"
+      blog="/blog/humanname/"
+      picture="/images/team/avatar.png"
+    >}}
+    {{<staffentry
+      name="The Human Name"
+      role="title title tile"
+      blog="/blog/humanname/"
+      picture="/images/team/avatar.png"
+    >}}
+  </div>
+
+</div>
+
+<hr />
+
+# Test completed — name list to be embedded
+
+* Margaux to be here too
+* ❓ Giulia Corona vs Giulia Giorgi and the blog name
+* ❓ Silvia what would she do?
+
 <div class="row row-cols-1">
   {{<figure
     name="Alessandro"
@@ -37,7 +132,6 @@ type: fullscreen
   >}}
   {{<figure name="Andrea" link="" role="Research & Development" >}}
   {{<figure name="Claudio" link="https://netzpolitik.org/2019/facebooks-algorithm-shapes-our-lives-this-hacker-wants-to-find-out-how/" role="Technology Architect and Founder" >}}
-  {{<figure name="Costa" link="" role="Research & Development" >}}
   {{<figure name="Gaetano" link="" role="App Analyst and Development" >}}
   {{<figure name="Giulia C" link="" role="Communication Designer" >}}
   {{<figure name="Giulia G" link="" role="Researcher" >}}
@@ -46,7 +140,7 @@ type: fullscreen
   {{<figure name="Silvia" link="" role="Community building" >}}
 </div>
 
-<!-- here starts the past collaborators: but there are many others! -->
+
 
 
 
@@ -64,16 +158,16 @@ type: fullscreen
 </div>
 
 
+### ❓ Here starts the past collaborators: but there are many others, so we should find a way to add them, perhaps name / link ?
+
+### ❓ for example, does it matter mention their job/skills, if a link can point to their page where they explain better?
+
 <h1 style="color:#53C1B6; text-align:center; padding-top:4rem; padding-bottom:3rem;" > COMMUNITY </h1>
-<div class="col-sm-8">
-  <p>
-    <ul>
-      <li> <b> Davide Beraldo >_</b> Professor at Media Studies departement, University of Amsterdam. </li>
-      <li> <b> Giovanni Rossetti >_  </b> Researcher in Media Studies. </li>
-      <li> <b> Leonardo Sanna >_ </b> Linguist, Data Analyst </li>
-    </ul>
-   </p>
-</div>
+<ul>
+  <li> <b> Davide Beraldo >_</b> Professor at Media Studies departement, University of Amsterdam. </li>
+  <li> <b> Giovanni Rossetti >_  </b> Researcher in Media Studies. </li>
+  <li> <b> Leonardo Sanna >_ </b> Linguist, Data Analyst </li>
+</ul>
 
 </section>
 
@@ -84,6 +178,10 @@ type: fullscreen
 <h1 style="color:#53C1B6; text-align:center; padding-top: 3rem;"> PARTNERS </h1>
 <br/>
 <br/>
+
+# TODO review the "accordion" class
+
+# TODO add 2022 (mozilla, rethink charity, ledger)
 
 
 <div class="accordion" id="accordionExample">
