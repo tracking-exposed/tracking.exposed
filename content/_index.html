@@ -19,24 +19,23 @@ title_og: "Tracking Exposed"
 
 <div class="container">
     <div class="row">                                                                                                                                                                                      
-        <div class="col-lg-5">
+        <div class="col-md-5">
           <div class="featured-box">
-            <a class="image" 
+            <!-- <a class="image" 
                 href="/achievements" 
                 style="background-image: url(/images/logofist-square.jpg)">
-            </a>
-            <a class="underimgtitle" href="/consulting/">
-                when scraping empowers
-            </a>
+            </a> -->
+            <img width="100%"
+                src="/images/logofist-square.jpg" />
+            <span class="underimgtitle" href="/consulting/">
+                scraping powers independent analysis
+            </span>
           </div>
         </div>
-        <div class="col-lg-7">
-            <h3>
+        <div class="col-md-7">
+            <a class="mainlink" href="/achievements">
                 Pioneering adversarial algorithm analysis since 2016 
-                <a href="/achievements">
-                    — Our achievements
-                </a>
-            </h3>
+            </a>
         </div>
     </div>
 </div>
@@ -77,24 +76,24 @@ title_og: "Tracking Exposed"
                 style="background-image: url(/images/mashup/mashup3-negative.jpg)">
             </a>
             <a class="underimgtitle" href="/impact/">
-                Users, for us, are people with an agency
+                We don't simply talk about internet problem, also produce solutions
             </a>
           </div>
         </div>
         <div class="col-lg-7">
-            <p>
-                We don't simply talk about moden internet problem, also work on creative solutions:
-            </p>
             <h3>
-                YouChoose, Zuckless news, and Events Liberation
+                <a onclick="toggle('ycai');">YCAI</a>, Zuckless news, and Events Liberation
             </h3>
+            <span style="background-color:red;display:none" id="ycai" >
+                <p>Youchoose is <a href="https://youchoose.ai">this</a>, and you can read more about it here: XXX</p>
+            </span>
         </div>
     </div>
 
     <div class="row">                                                                                                                                                                                      
         <div class="col-lg-7 text-right">
             <h3>
-                GDPR litigations
+                Evidence driven GDPR litigations
             </h3>
         </div>
         <div class="col-lg-5">
@@ -204,3 +203,12 @@ title_og: "Tracking Exposed"
 -->
 
 <h2 class="centertitle">LAST UPDATES</h1>
+
+
+<script>
+
+  function toggle(whatIdToToggle) {
+      $("#"+ whatIdToToggle).toggle();
+  }
+</script> 
+

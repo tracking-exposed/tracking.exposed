@@ -1,14 +1,8 @@
-/* h1 is reserved for the title */
-
 .palette { 
     color: #1A1A1A; /* Cod Gray */
     color: #E0E8E5; /* Nebula */
     color: #4DBAAC; /* Fountain Blue */
     color: #235FB0; /* Cerulean Blue */
-}
-
-h2 {
-    font-size: 1.8rem;
 }
 
 /* smaller affects the subtitle! */
@@ -18,7 +12,7 @@ smaller, h3 {
     font-size: 1.7rem;
 }
 
-/* h4 still not allocated */
+/* h1 title, h2 free, h4 same */
 
 h5 {
     text-align: center;
