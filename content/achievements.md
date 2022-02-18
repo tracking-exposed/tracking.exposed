@@ -14,7 +14,6 @@ _todo we've to find the right stile for these snippets_
 
 ### 2022 — ShadowBanning Analysis
 
-
 <div class="row">
     <div class="col-2">
         <img width="100%" src="/images/mashup/tiktoklogo.png" />
@@ -35,15 +34,14 @@ _todo we've to find the right stile for these snippets_
 
 ### 2022 — Multiplatform Electoral monitoring
 
-* a dedicated blogpost that explains it
-* perhaps also a french blogpost
+* a dedicated blogpost that explains what we did for French election 2022
+* (perhaps also a link to a french blogpost from Marc's blogplace?)
 
 ### 2022 — Published in Porn Studies when talking about Pornhub algorithm
 
-* video
+* giulia's video
 * paper
 * guardoni
-
 
 ### 2021 — YouChoose 
 
