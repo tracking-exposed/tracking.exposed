@@ -29,11 +29,27 @@ h5 {
     padding: 1em;
 }
 
-h6 {
-    text-align: justify;
+.light-bg {
     background-color: #E0E8E5; /* Nebula */
+    padding: 2em 0em 2em 0em;
+    border-radius: 1em;
+    margin-bottom: 3em;
+}
+
+.link {
+    color: #1A1A1A !important; /* Cod Gray */
+    width: 100%;
+}
+
+.link:hover {
+    font-weight: 900;
+    background-image: linear-gradient(#e1ebea, #53c1b6 6%) !important;
+}
+
+h6 {
+    text-align: right;
     color: #1A1A1A; /* Cod Gray */
-    font-size: 1.5rem;
+    font-size: 2.4rem;
     margin: 20px 0px 20px 0px;
     padding: 10px;
 }
