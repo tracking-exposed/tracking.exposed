@@ -2,7 +2,7 @@
 title: "Makhno"
 subtitle: "Resistance Against Automated Content Takedown"
 draft: false
-type: "page"
+type: "fullscreen"
 
 extraCSS: "/css/makhno.css"
 
@@ -13,43 +13,79 @@ og_image: "http://tracking.exposed/images/makhno/preview.jpg"
 og_url: "https://tracking.exposed/makhno"
 ---
 
+<div class="makhno">
 
-<div class="container">
+  <div class="central-elements">
+    <h1 id="big-label">Makhno</h1>
+    <input placeholder="https://" type="text" class="main-input" />
+    <p id="note">Accepting links from: Facebook, Instagram, TikTok, YouTube.</p>
+  </div>
+
+  <div class="bottom-elements">
+    <button class="btn btn-primary" id="knowmore-button">know more</button>
+    <button class="btn btn-primary" id="survey-button">fill up the survey</button>
+  </div>
+
+</div>
+
+<div class="container section-default" id="knowmore">
 
   <h3>
+    The goal of this project is to <b>
+      expose censorship implemented by corporations and team up with those who suffer the abuses
+    </b>.
+    <br>
+    <br>
+    Makhno is a <a
+      href="https://foundation.mozilla.org/en/blog/introducing-the-first-ever-mozilla-technology-fund-cohort/"
+      target=_blank>
+      Mozilla sponsored prototype 
+    </a>
+      that aims at creating a new efficient tracking of content take down. Proof that collaboration among internet citizens, analysts, and activists might keep digital corporations accountable. In 2023, Makhno will likely be left as a free software library and a growing test list of pages.
+    <br>
+    Makhno is a joint venture between Tracking Exposed and <a
+      href="https://hermescenter.org"
+      target=_blank>Hermes Center</a>.
+  </h3>   
+
+  <hr>
+
+  <h3 id="first" class="egg">
     — Measure censorship and algorithmic penalization on a social media platform
   </h3>
-    <p>(Here the stats about the different platform supported can go)</p>
-  <h3>
+
+  <div class="row">
+    <div class="platform col-3">Facebook
+      <div class="support-0">0/3</div>
+    </div>
+    <div class="platform col-3">Instagram
+      <div class="support-0">0/3</div>
+    </div>
+    <div class="platform col-3">TikTok
+      <div class="support-0">0/3</div>
+    </div>
+    <div class="platform col-3">YouTube
+      <div class="support-0">0/3</div>
+    </div>
+  </div>
+
+  <h3 id="second" class="egg">
     — Talks and engage with communities that suffer unfair effects of platform takedown for political, religious, or sexual reasons.
   </h3>
     <p>(Here list tu success case, update blogpost)</p>
-  <h3>
+
+  <h3 id="third" class="egg">
     — Produce material helpful to researchers, offer them a tool to spread in their community.
   </h3>
     <p>(Here should be linked documentation and contacts on the different form of engagement)</p>
 
-  <p>
-    <br/>
-    This experimental project is sponsered by Mozilla Technology Fund and is the cooperation between these teams:
-    <div class="row">
-      <div class="col-4">
-        Logo TRex
-      </div>
-      <div class="col-4">
-        Logo Hermes
-      </div>
-      <div class="col-4">
-        Logo OONI
-      </div>
-    </div>
-  </p>
+</div>
 
-  <h6>If you want to help or be involved, please fill up this questionnaire:</h6>
-  <hr />
-  <iframe src="https://framaforms.org/makhno-research-1644521864" width="100%" height="800" border="0"></iframe>
+<div id="survey" class="container section-default">
+  <!-- injected via jquery below -->
+</div>
 
-  <br>
+<div id="meaning" class="container section-default">
   <br>
   <h5>... and what Makhno means?</h5>
   <br>
@@ -76,13 +112,26 @@ og_url: "https://tracking.exposed/makhno"
 
 </div>
 
+<script>
+  window.onload = () => {
+    $("footer").fadeOut(600);
+  }
 
+  $("#knowmore-button").on('click', () => {
+    $("#knowmore").css("display", "block");
+    $("#knowmore-button").addClass("disabled");
+    window.scrollTo("#knowmore");
+    $("footer").fadeIn(200);
+  });
 
-<!--
+  $("#survey-button").on('click', () => {
+    $("#survey")
+      .html('<iframe src="https://framaforms.org/makhno-preliminary-survey-1644521864" width="100%" height="800" border="0"></iframe>');
+    $("#survey").css("display", "block");
+    $("#survey-button").addClass("disabled");
+    window.scrollTo("#survey");
+    $("footer").fadeIn(200);
+  });
 
-https://framaforms.org/makhno-research-1644521864
-
-
--->
-
+</script>
 

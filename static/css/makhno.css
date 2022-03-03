@@ -7,6 +7,66 @@ smaller, h3 {
     font-size: 1.7rem;
 }
 
+.makhno {
+    height: 100%;
+    text-align: center;
+}
+
+.central-elements {
+    margin-top: 10%;
+    margin-bottom: 20%;
+
+}
+.central-elements h1 {
+    font-size: 7em;
+    padding-bottom: 20px;
+}
+
+.central-elements p {
+    font-size: 0.9em;
+    font-family: monospace;
+    color: #235FB0; /* Cerulean Blue */
+}
+
+.main-input {
+    width: 50%;
+    border-radius: 10px;
+    border: 2px solid black;
+    font-size: 1.5em;
+    padding-left: 10px;
+}
+
+.platform {
+    text-align: center;
+    font-size: 2em;
+    background-color: #E0E8E5; /* Nebula */
+    padding-bottom: 20px;
+}
+
+.support-0 {
+    background-color: white;
+    font-size: 5em;
+}
+.support-1 {
+    background-color: #235FB0; /* Cerulean Blue */
+    color: yellow;
+    font-size: 5em;
+}
+.support-2 {
+    background-color: white;
+    font-size: 5em;
+}
+.support-3 {
+    background-color: #1A1A1A; /* Cod Gray */
+    color: white;
+    font-size: 5em;
+}
+
+.section-default {
+    padding-top: 4em;
+    display: none;
+}
+
 /* h1 title, h2 free, h4 same */
 
 h5 {
