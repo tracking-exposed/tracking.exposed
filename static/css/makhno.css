@@ -1,10 +1,20 @@
 /* makhno page is html and not markdown — most of the style here is similar to informative.css */
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* smaller affects the subtitle! */
 smaller, h3 {
     font-family: monospace;
     color: #235FB0; /* Cerulean Blue */
     font-size: 1.7rem;
+}
+
+h3 b {
+    font-weight: 700;
+    font-size: 1.6em;
+    text-transform: uppercase;
 }
 
 .makhno {
@@ -28,6 +38,14 @@ smaller, h3 {
     color: #235FB0; /* Cerulean Blue */
 }
 
+.enhanced-button {
+    font-size: 1.5em;
+    border: 4px double black;
+    width: 240px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 .main-input {
     width: 50%;
     border-radius: 10px;
@@ -39,10 +57,10 @@ smaller, h3 {
 .platform {
     text-align: center;
     font-size: 2em;
+    border-radius: 1em;
     background-color: #E0E8E5; /* Nebula */
     padding-bottom: 20px;
 }
-
 .support-0 {
     background-color: white;
     font-size: 5em;
@@ -67,6 +85,9 @@ smaller, h3 {
     display: none;
 }
 
+.egg {
+    cursor: help;
+}
 /* h1 title, h2 free, h4 same */
 
 h5 {
