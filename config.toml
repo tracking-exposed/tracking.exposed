@@ -62,7 +62,13 @@ canonifyURLs = true
     name = "PornHub"
     url = "https://pornhub.tracking.exposed"
     weight = -160
-
+ [[menu.main]]
+    page = "TikTok"
+    parent = "tools"
+    identifier = "tiktok"
+    name = "TikTok"
+    url = "https://tiktok.tracking.exposed"
+    weight = -150
 
  [[menu.main]]
     name = "Impact"
