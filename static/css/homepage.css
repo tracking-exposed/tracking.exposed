@@ -32,8 +32,6 @@ h3 {
 
 .mainlink:hover {
     text-decoration: none;
-    font-weight: bolder;
-    text-transform: uppercase;
     color: #235FB0; 
 }
 

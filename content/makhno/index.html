@@ -141,9 +141,9 @@ og_url: "https://tracking.exposed/makhno"
   });
 
   const easter = {
-    "first": 2,
+    "first": 1,
     "second": 1,
-    "third": 0
+    "third": 1
   }
 
   $("#only-input").change(function() {
@@ -153,7 +153,6 @@ og_url: "https://tracking.exposed/makhno"
   $(".egg").on('click', (e) => {
     const idName = e.target.id;
     easter[idName] -= 1;
-    console.log(idName, easter);
     if(!easter.first && !easter.second && !easter.third) {
       $("#meaning").css("display", "block");
       $('html, body').animate({ scrollTop: $('#meaning').offset().top - 30 }, 500);
