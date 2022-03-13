@@ -138,7 +138,7 @@ canonifyURLs = true
     pre = "/images/trex-logo.svg"
     post = "Since 2016 we fight for a web that is home for many, not property of the few. 💡 Our beliefs are guiding us towards our purpose: empowering people."
  [[menu.featured]]
-    name = "Connections  "
+    name = "Connections"
     url = "/about"
     weight = -170
     pre = "/images/connect with us.svg"
