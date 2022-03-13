@@ -3,9 +3,9 @@ type: pressrelease
 title: "Exclusive: Tracking.Exposed data shows Tiktok is not displaying content made outside Russia"
 subtitle: "Unprecedented move cuts Russians off from free flowing global information - at the platform level, for the first time."
 location: Paris
-date: 2022-03-13T15:04:05Z0700
+date: 2022-03-13
 documentation: "path/to/pdf"
-image: "path"
+# image: "path"
 ---
 
 
@@ -52,5 +52,11 @@ Notes to Editors:
 
 Institute for Strategic Dialogue (ISD) is a laboratory which has studied the propaganda activity on this social network in the Russian-Ukrainian conflict.
 
+
+---
+
+{{<subscribe-newsletter reason="press--list">}}
+
+---
 
 {{<contacts>}}
