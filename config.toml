@@ -20,7 +20,10 @@ canonifyURLs = true
 
 
 [permalinks]
-    posts = "/news/:slug/"
+    posts = "/v0/post/:slug/"
+    pr = "/press/releases/:slug/"
+    blog = "/blog/:slug"
+
 
 [menu]
 
