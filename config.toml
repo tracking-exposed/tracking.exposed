@@ -104,7 +104,11 @@ canonifyURLs = true
     name = "Monthly Reports"
     url = "/monthly/"
     weight = 40
-
+ [[menu.main]]
+    parent = "impact"
+    name = "Press Releases"
+    url = "/pr/"
+    weight = 50
 
  [[menu.footer]]
     page = "manifesto"

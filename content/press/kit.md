@@ -1,13 +1,17 @@
 ---
-title: "test press kit"
-date: "2021-06-01 18:00"
+title: "Press kit"
+date: "2022-03-01"
 draft: false
 type: page
 ---
 
 
-### stuff here
+## Logo
+
+## Contacts
 
 
+{{<contacts>}}
 
-### a footer with cta
+
+## Past publications

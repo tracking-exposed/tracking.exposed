@@ -28,30 +28,40 @@ type: fullscreen
 <br/>
 <br/>
 
-<div class="row row-cols-1 row-cols-md-3">
-  {{<figure name="Alessandro" link="" role="Legal Analyst" >}}
-  {{<figure name="Andrea" link="" role="Research & Development" >}}
-  {{<figure name="Claudio" link="https://netzpolitik.org/2019/facebooks-algorithm-shapes-our-lives-this-hacker-wants-to-find-out-how/" role="Technology Architect and Founder" >}}
-  {{<figure name="Costa" link="" role="Research & Development" >}}
-  {{<figure name="Gaetano" link="" role="App Analyst and Development" >}}
-  {{<figure name="Giulia C" link="" role="Communication Designer" >}}
-  {{<figure name="Giulia G" link="" role="Researcher" >}}
-  {{<figure name="Marc" link="https://www.marcfaddoul.com" role="Researcher, Product Manager and Fundraising" >}}
-  {{<figure name="Salvo" link="https://salvatoreromano1.github.io/pdf/CV_Salvatore_Romano.pdf" role="Research Coordinator" >}}
-  {{<figure name="Silvia" link="" role="Community building" >}}
+<div class="row">
+
+  {{<figure name="Alessandro Polidoro" link="" role="Legal Analyst" >}}
+  {{<figure name="Andrea Ascari" link="" role="Trexponsible of Community and Development" >}}
+  {{<figure name="Claudio Agosti" link="https://netzpolitik.org/2019/facebooks-algorithm-shapes-our-lives-this-hacker-wants-to-find-out-how/" role="Founder and Co-Director" >}}
+  {{<figure name="Margeau Vite" link="" role="UX research and product testing" >}}
+  {{<figure name="Louise Doharty" link="" role="Communication stategist and operartives" >}}
+  {{<figure name="Francois Marie Du Juvencien" link="" role="Software development" >}}
+  {{<figure name="Simone Robutti" link="" role="Software, Architecture and Activism" >}}
+  {{<figure name="Rodia" link="" role="App Analyst and Development" >}}
+  {{<figure name="Giulia Corona" link="" role="Communication Designer" >}}
+  {{<figure name="Giulia Giorgi" link="" role="Researcher" >}}
+  {{<figure name="Marc Faddoul" link="https://www.marcfaddoul.com" role="Co-Director" >}}
+  {{<figure name="Salvatore Romano" link="https://salvatoreromano1.github.io/pdf/CV_Salvatore_Romano.pdf" role="Research Coordinator" >}}
+
 </div>
 
-<!-- here starts the past collaborators: but there are many others! -->
-
 <h1 style="color:#53C1B6; text-align:center; padding-top:4rem; padding-bottom:3rem;" > COMMUNITY </h1>
-<div class="col-sm-8">
-  <p>
-    <ul>
-      <li> <b> Davide Beraldo >_</b> Professor at Media Studies departement, University of Amsterdam. </li>
-      <li> <b> Giovanni Rossetti >_  </b> Researcher in Media Studies. </li>
-      <li> <b> Leonardo Sanna >_ </b> Linguist, Data Analyst </li>
-    </ul>
-   </p>
+
+<p>People that helped in the past in building what we achieved</p>
+<div class="row">
+
+  {{<figure name="Silvia Semenzin" link="" role="Community building" >}}
+  {{<figure name="Davide Beraldo" link="" role="Professor at Media Studies departement, University of Amsterdam" >}}
+  {{<figure name="Giovanni Rossetti" link="" role="Researcher in Media Studies" >}}
+  {{<figure name="Leonardo Sanna" link="" role="Linguist, Data Analyst" >}}
+  {{<figure name="Alberto Granzotto" link="" role="Software developer - the first browser extension!" >}}
+  {{<figure name="Andrea Raimondi" link="" role="Philosopher and project manager" >}}
+  {{<figure name="Luca Corsato" link="" role="Open data manifacturer and project manager" >}}
+  {{<figure name="Federico Sarchi" link="" role="Data analyst and researcher" >}}
+  {{<figure name="Stefania Milan" link="" role="Principal Investigator Data Active" >}}
+  {{<figure name="Jeroen Van del Voss" link="" role="Data Active project manager" >}}
+  {{<figure name="Renata Avila" link="" role="Lawyer and Stetegiest, the coordinator of our first report" >}}
+
 </div>
 
 </section>
