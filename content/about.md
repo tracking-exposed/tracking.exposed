@@ -34,8 +34,8 @@ type: fullscreen
   {{<figure name="Andrea Ascari" link="" role="Trexponsible of Community and Development" >}}
   {{<figure name="Claudio Agosti" link="https://netzpolitik.org/2019/facebooks-algorithm-shapes-our-lives-this-hacker-wants-to-find-out-how/" role="Founder and Co-Director" >}}
   {{<figure name="Margeau Vite" link="" role="UX research and product testing" >}}
-  {{<figure name="Louise Doharty" link="" role="Communication stategist and operartives" >}}
-  {{<figure name="Francois Marie Du Juvencien" link="" role="Software development" >}}
+  {{<figure name="Louise Doharty" link="" role="Communication stategist and operartive" >}}
+  {{<figure name="François-Marie de Jouvencel" link="" role="Software engineering" >}}
   {{<figure name="Simone Robutti" link="" role="Software, Architecture and Activism" >}}
   {{<figure name="Rodia" link="" role="App Analyst and Development" >}}
   {{<figure name="Giulia Corona" link="" role="Communication Designer" >}}
@@ -49,7 +49,7 @@ type: fullscreen
 
 <div class="row">
 
-  {{<figure name="Silvia Semenzin" link="" role="Community building" >}}
+  {{<figure name="Silvia Semenzin" link="" role="PhD & Activism, Community building" >}}
   {{<figure name="Davide Beraldo" link="" role="Professor at Media Studies departement" >}}
   {{<figure name="Giovanni Rossetti" link="" role="Researcher in Media Studies" >}}
   {{<figure name="Leonardo Sanna" link="" role="Linguist, Data Analyst" >}}
