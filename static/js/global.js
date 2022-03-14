@@ -4,8 +4,9 @@ const palette = [ "#c136b3", "#f22a92", "#ff416d", "#ff6a46",
 
 function buildApiUrl(apiName, option, apiv) {
 
-    const SERVER = 'https://tiktok.tracking.exposed';
-    // const SERVER = 'http://localhost:9000'; // this tr.ex hasn't a backend on its own
+    // const SERVER = 'https://tiktok.tracking.exposed';
+    // this tr.ex hasn't a backend on its own, we reuse tiktok and 
+    const SERVER = 'http://localhost:14000'; 
     let rv = null;
     const api_path = apiv ? `/api/v${apiv}/` : "/api/v1/";
 
