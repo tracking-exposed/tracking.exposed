@@ -34,7 +34,8 @@ type: fullscreen
   {{<figure name="Andrea Ascari" link="" role="Trexponsible of Community and Development" >}}
   {{<figure name="Claudio Agosti" link="https://netzpolitik.org/2019/facebooks-algorithm-shapes-our-lives-this-hacker-wants-to-find-out-how/" role="Founder and Co-Director" >}}
   {{<figure name="Margaux Vitre" link="https://twitter.com/vitremargaux" role="UX research and product testing" >}}
-  {{<figure name="Louise Doherty" link="" role="Communication Stategist and Operative" >}}
+  {{<figure name="Ilir Rama" link="" role="Researcher" >}}
+  <!-- {{<figure name="Louise Doherty" link="" role="To be defined" >}} -->
   {{<figure name="François-Marie de Jouvencel" link="" role="Software engineering" >}}
   {{<figure name="Simone Robutti" link="" role="Software, Architecture and Activism" >}}
   {{<figure name="Rodia" link="" role="App Analyst and Development" >}}
@@ -45,7 +46,7 @@ type: fullscreen
 
 </div>
 
-<h1 style="color:#53C1B6; text-align:center; padding-top:4rem; padding-bottom:3rem;" > CRUCIAL SUPPORT FROM THE PAST AND COMMUNITY </h1>
+<h1 style="color:#53C1B6; text-align:center; padding-top:4rem; padding-bottom:3rem;" > FORMER SUPPORTERS AND COMMUNITY </h1>
 
 <div class="row">
 
@@ -59,9 +60,10 @@ type: fullscreen
   {{<figure name="Emanuele Calò" link="" role="Full stack devops" >}}
   {{<figure name="Giovanni Civardi" link="" role="Devops and very first sponsor" >}}
   {{<figure name="Federico Sarchi" link="" role="Data analyst and researcher" >}}
-  {{<figure name="Stefania Milan" link="" role="Principal Investigator Data Active" >}}
-  {{<figure name="Jeroen Van del Voss" link="" role="Data Active project manager" >}}
+  {{<figure name="Stefania Milan" link="" role="Principal Investigator in Data Active" >}}
+  {{<figure name="Jeroen Van der Voss" link="" role="Data Active project manager" >}}
   {{<figure name="Renata Avila" link="" role="Lawyer and Stetegiest, the coordinator of our first report" >}}
+  {{<figure name="Beatrice Gobbo" link="" role="PhD, data visualization" >}}
 
 </div>
 
