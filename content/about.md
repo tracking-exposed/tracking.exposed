@@ -45,9 +45,8 @@ type: fullscreen
 
 </div>
 
-<h1 style="color:#53C1B6; text-align:center; padding-top:4rem; padding-bottom:3rem;" > COMMUNITY </h1>
+<h1 style="color:#53C1B6; text-align:center; padding-top:4rem; padding-bottom:3rem;" > CRUCIAL SUPPORT FROM THE PAST AND COMMUNITY </h1>
 
-<p>People that helped in the past in building what we achieved</p>
 <div class="row">
 
   {{<figure name="Silvia Semenzin" link="" role="Community building" >}}
@@ -57,6 +56,8 @@ type: fullscreen
   {{<figure name="Alberto Granzotto" link="" role="Software developer - the first browser extension!" >}}
   {{<figure name="Andrea Raimondi" link="" role="Philosopher and project manager" >}}
   {{<figure name="Luca Corsato" link="" role="Open data manifacturer and project manager" >}}
+  {{<figure name="Emanuele Calò" link="" role="Full stack devops" >}}
+  {{<figure name="Giovanni Civardi" link="" role="Devops and very first sponsor" >}}
   {{<figure name="Federico Sarchi" link="" role="Data analyst and researcher" >}}
   {{<figure name="Stefania Milan" link="" role="Principal Investigator Data Active" >}}
   {{<figure name="Jeroen Van del Voss" link="" role="Data Active project manager" >}}
