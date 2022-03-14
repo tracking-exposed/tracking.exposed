@@ -33,8 +33,8 @@ type: fullscreen
   {{<figure name="Alessandro Polidoro" link="" role="Lawyer, Lead Attorney" >}}
   {{<figure name="Andrea Ascari" link="" role="Trexponsible of Community and Development" >}}
   {{<figure name="Claudio Agosti" link="https://netzpolitik.org/2019/facebooks-algorithm-shapes-our-lives-this-hacker-wants-to-find-out-how/" role="Founder and Co-Director" >}}
-  {{<figure name="Margeau Vite" link="" role="UX research and product testing" >}}
-  {{<figure name="Louise Doherty" link="" role="Communication stategist and operartive" >}}
+  {{<figure name="Margaux Vitre" link="https://twitter.com/vitremargaux" role="UX research and product testing" >}}
+  {{<figure name="Louise Doherty" link="" role="Communication Stategist and Operative" >}}
   {{<figure name="François-Marie de Jouvencel" link="" role="Software engineering" >}}
   {{<figure name="Simone Robutti" link="" role="Software, Architecture and Activism" >}}
   {{<figure name="Rodia" link="" role="App Analyst and Development" >}}
