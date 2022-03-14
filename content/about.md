@@ -30,7 +30,7 @@ type: fullscreen
 
 <div class="row">
 
-  {{<figure name="Alessandro Polidoro" link="" role="Lawyer, Litigators" >}}
+  {{<figure name="Alessandro Polidoro" link="" role="Lawyer, Lead Attorney" >}}
   {{<figure name="Andrea Ascari" link="" role="Trexponsible of Community and Development" >}}
   {{<figure name="Claudio Agosti" link="https://netzpolitik.org/2019/facebooks-algorithm-shapes-our-lives-this-hacker-wants-to-find-out-how/" role="Founder and Co-Director" >}}
   {{<figure name="Margeau Vite" link="" role="UX research and product testing" >}}
