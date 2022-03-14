@@ -51,7 +51,7 @@ type: fullscreen
 <div class="row">
 
   {{<figure name="Silvia Semenzin" link="" role="Community building" >}}
-  {{<figure name="Davide Beraldo" link="" role="Professor at Media Studies departement, University of Amsterdam" >}}
+  {{<figure name="Davide Beraldo" link="" role="Professor at Media Studies departement" >}}
   {{<figure name="Giovanni Rossetti" link="" role="Researcher in Media Studies" >}}
   {{<figure name="Leonardo Sanna" link="" role="Linguist, Data Analyst" >}}
   {{<figure name="Alberto Granzotto" link="" role="Software developer - the first browser extension!" >}}
