@@ -49,7 +49,7 @@ type: fullscreen
 
 <div class="row">
 
-  {{<figure name="Silvia Semenzin" link="" role="Community building" >}}
+  {{<figure name="Silvia Semenzin" link="" role="PhD & Activism, Community building" >}}
   {{<figure name="Davide Beraldo" link="" role="Professor at Media Studies departement" >}}
   {{<figure name="Giovanni Rossetti" link="" role="Researcher in Media Studies" >}}
   {{<figure name="Leonardo Sanna" link="" role="Linguist, Data Analyst" >}}
