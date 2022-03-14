@@ -76,32 +76,6 @@ The creation of a new solution is often drowned in a technocratic labyrinth in w
 
 Tracking.exposed provides tools for those doing activities consistent with our manifesto. By following the ethical constraint that mainstream social networks have no interest in offering to people. This section is growing, and at the moment we focus on:
 
-<!--
-#### Algorithms analysis
-
-We do this by supporting [researchers]() and providing services that social networks have no interest in offering to people. Good examples are: [facebook TRex](https://facebook.tracking.exposed), [YouTube TRex](https://youtube.tracking.exposed), They share DNA portions: both works by capturing evidence, let peoples analyze their personalized experiences, and researchers can organize tests by controlling some profiles.
-
-<!-- [Pornhub TRex](https://pornhub.tracking.exposed) (*the last one, is also the most work-in-progress!*).  -->
-<!-- [European Tracking Exposed](https://european.tracking.exposed) is an example on how the data collected by one of the initiative can be integrated on a focus campaign. -->
-<!--
-#### Data Reuse
-
-Our first experiment on data reuse: [ZuckLess News](https://facebook.tracking.exposed/zuckless-news/), [YouTube data compare](https://youtube.tracking.exposed/compare), and [YouTube related search](https://youtube.tracking.exposed/realted)
-
-#### Focus campaigns
-
-Sometimes, we run focused campaign such as the [European Election 2019](https://eu19.tracking.exposed), [Italian election analysis](https://elezioni.tracking.exposed), or during the [Argentinian G20](https://webfoundation.org/research/the-invisible-curation-of-content-facebooks-news-feed-and-our-information-diets/). We published papers in [2018](https://tracking.exposed/analysis-and-publications#2018) on the last two.
-
-*Collaborations*: Our team would gladly provide support if anyone display interest and we have space for them. To run such tests is necessary a domain expert. If you are one of them, or belong to a team which can run a focus campaign, get in touch at |support *at* tracking.exposed| because we might offer help.
-
-#### Analysis of web trackers
-
-We should provide constant, daily updates on how third party trackers are working in our websites. This data, hopefully, used in awareness campaign against this form of corporate surveillance. This has been delivered until last year, at the moment we didn't -->
-
-
-
-
-
 <div class="row row-cols-1 row-cols-md-3">
   <div class="col mb-4">
     <div class="card h-100">
@@ -134,7 +108,8 @@ We should provide constant, daily updates on how third party trackers are workin
 </section>
 
 ---
-_by Claudio, Ciaby, Nienke, Velenux, Dan, Saverio, Barbara, Riccardo, Salvatore._
-<!-- *Version 1.0.0, 16 July 2018 - updates in September 2019 on the final sections.* -->
+
+_Version 1.0, July 2018, by Claudio. Feedback from Ciaby, Nienke, Velenux, Dan, Saverio, Barbara, Riccardo, Salvatore._
+
 </div>
 </div>
