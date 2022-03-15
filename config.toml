@@ -86,7 +86,7 @@ canonifyURLs = true
     weight = 10
  [[menu.main]]
     parent = "impact"
-    name = "Press"
+    name = "Press Coverage"
     url ="/press/"
     weight = 20
  [[menu.main]]
@@ -101,7 +101,7 @@ canonifyURLs = true
     weight = 40
  [[menu.main]]
     parent = "impact"
-    name = "Monthly Reports"
+    name = "Progress Reports"
     url = "/monthly/"
     weight = 40
  [[menu.main]]
@@ -139,7 +139,7 @@ canonifyURLs = true
     name= "Manifesto"
     url = "/manifesto"
     weight = -180
-    pre = "/images/trex-logo.svg"
+    pre = "/images/reports.svg"
     post = "Since 2016 we fight for a web that is home for many, not property of the few. 💡 Our beliefs are guiding us towards our purpose: empowering people."
  [[menu.featured]]
     name = "Connections"
@@ -148,8 +148,8 @@ canonifyURLs = true
     pre = "/images/connect with us.svg"
     post = "Who we are and who is supporting us.🎈 If you wish to get involved, feel free to reach us out, any collaboration is more than welcome."
  [[menu.featured]]
-    name = "Impact"
-    url = "/impact"
-    weight = -160
-    pre = "/images/reports.svg"
-    post = "Our last activities, publications and appearances, 🔭 from all the various project under the tracking.exposed umbrella."
+    name = "Investigative Report"
+    url = "/pdf/tiktok-russia-15march2022.pdf"
+    weight = -190
+    pre = "/images/trex-logo.svg"
+    post = "15 March 2022 - TikTok blocks 95% of content for users in Russia"

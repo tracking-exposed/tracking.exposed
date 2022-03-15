@@ -27,15 +27,15 @@ TikTok’s move is notable because it significantly advances the “splinternet�
 
 At the time of release TikTok had not clarified why this is happening.
 
-[Salvatore Romano](https://twitter.com/dataerror202/), Head of Research at [Tracking Exposed](https://twitter.com/trackingexposed) comments:
+* [Salvatore Romano](https://twitter.com/dataerror202/), Head of Research at [Tracking Exposed](https://twitter.com/trackingexposed) comments:
 “The effect of TikTok’s changes since the war began is that Russian people are deprived of a global perspective on Russia’s actions in Ukraine, and can only see content heavily weighted towards Kremlin-approved information. This makes it less likely that public opinion in Russia will become critical of the war. 
 As TikTok is the last non Russian-owned global social media platform in Russia, TikTok should clarify its content policy in Russia and provide data access to researchers to allow for public scrutiny on how its decisions are impacting the Ukraine-Russia war.”
 
-[Marc Faddoul](https://twitter.com/MarcFaddoul), co-director of [Tracking Exposed](https://twitter.com/trackingexposed) comments:
+* [Marc Faddoul](https://twitter.com/MarcFaddoul), co-director of [Tracking Exposed](https://twitter.com/trackingexposed) comments:
 “Before the war, the Russian internet landscape was unique in that Russian services like VKontakte and Yandex were able to flourish, while Facebook or Google remained uncensored and freely accessible.
 The era of the free internet in Russia just came to a sudden end. Within a week, Facebook, Twitter and Instagram were blocked. TikTok, the only global platform still available in Russia, is effectively turning into a propaganda channel for the Kremlin. Russia seems to be moving toward the Chinese model of internet censorship.”
 
-[Claudio Agosti](https://twitter.com/_vecna), founder and co-director of [Tracking Exposed](https://twitter.com/trackingexposed) comments:
+* [Claudio Agosti](https://twitter.com/_vecna), founder and co-director of [Tracking Exposed](https://twitter.com/trackingexposed) comments:
 “A truly free internet has never been more important. This war is the latest example of the devastating real world consequences of the policy decisions of social platforms. Social media users around the world will continue to be impacted by algorithms and content restrictions until we have transparency and accountability. We are stepping up Tracking Exposed investigations and looking for collaborators, analysts, funders and volunteers to help us scale this important work.”
 
 
@@ -54,9 +54,9 @@ Tracking Exposed is a European non-profit organization defending digital rights 
 
 Since 2016 Tracking Exposed has been pioneering new methodologies to scrutinize the most influential recommender systems, such as those of YouTube, Facebook, Amazon, PornHub and TikTok. The [code](https://github.com/tracking-exposed) is released as free software, enabling anyone to use, extend or review it. 
 
-Tracking Exposed's infrastructure and methodologies have been validated in several[ peer-reviewed publications,](https://tracking.exposed/publications/) and the works of the team have received coverage in[ major media outlets](http://www.marcfaddoul.com/#in-the-news). Some of its reports have been cited in a[ United Nations report](https://undocs.org/pdf?symbol=en/A/73/348), a house[ testimony](https://www.ischool.berkeley.edu/news/2020/hany-farid-how-disinformation-dividing-nation) and a[ US Congress official letter](https://malinowski.house.gov/sites/malinowski.house.gov/files/Letter%20to%20YouTube%20--%20Malinowski_Eshoo_final_0.pdf) to YouTube's CEO.
+Tracking Exposed's infrastructure and methodologies have been validated in several [peer-reviewed publications,](https://tracking.exposed/publications/) and the works of the team have received coverage in [major media outlets](http://www.marcfaddoul.com/#in-the-news). Some of its reports have been cited in a [United Nations report](https://undocs.org/pdf?symbol=en/A/73/348), a house [testimony](https://www.ischool.berkeley.edu/news/2020/hany-farid-how-disinformation-dividing-nation) and a [US Congress official letter](https://malinowski.house.gov/sites/malinowski.house.gov/files/Letter%20to%20YouTube%20--%20Malinowski_Eshoo_final_0.pdf) to YouTube's CEO.
 
-Tracking Exposed is also developing[ YouChoose.ai](https://youchoose.ai/), an alternative recommendation system for YouTube which empowers users and content creators.
+Tracking Exposed is also developing [YouChoose.ai](https://youchoose.ai/), an alternative recommendation system for YouTube which empowers users and content creators.
 Tracking Exposed was born in Italy and its legal nonprofit is registered in France. The organization is funded through various grants and foundations, including from the European Commission, the Mozilla Foundation and Reset.tech.
 
 ### Contact

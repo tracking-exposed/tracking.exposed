@@ -1,20 +1,28 @@
 ---
 type: pressrelease
-title: "The splinternet 2022"
+title: "How has the Ukraine-Russia war affected the content that TikTok users see in Russia?"
 subtitle: "Unprecedented move cuts Russians off from free flowing global information - at the platform level, for the first time."
 location: Paris
-date: 2022-03-14
-documentation: "path/to/pdf"
-# image: "path"
+date: 2022-03-15
+extraCSS: "/css/report.css"
 ---
 
+This page isn't meant to be public because of the "hack" into the `img` HTML component in `report.css`
 
+## Download the [report in .pdf](/pdf/tiktok-russia-15march2022.pdf)
+
+---
+
+{{<contacts>}}
 
 
 ---
 
-### Image assets
+{{<subscribe-newsletter reason="press--list">}}
 
+---
+
+#### Additional Image assets
 
 ![image](/images/report-splinternet/captioned-2x2.png)
 ![image](/images/report-splinternet/charlie-cover.png)
@@ -32,12 +40,3 @@ documentation: "path/to/pdf"
 ![image](/images/report-splinternet/unhro-fr.png)
 ![image](/images/report-splinternet/unhro-ru.png)
 
-
----
-
-
-{{<subscribe-newsletter reason="press--list">}}
-
----
-
-{{<contacts>}}
