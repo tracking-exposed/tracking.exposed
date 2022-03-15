@@ -1,56 +1,67 @@
 ---
 type: pressrelease
-title: "Exclusive: Tracking.Exposed data shows Tiktok is not displaying content made outside Russia"
-subtitle: "Unprecedented move cuts Russians off from free flowing global information - at the platform level, for the first time."
+title: "TikTok blocks 95% of content for users in Russia"
+subtitle: "As the last global social media platform operating in Russia, these unprecedented and unannounced content restrictions affecting 55 million users ends the era of free internet in Russia at a pivotal point in the war in Ukraine, finds Tracking Exposed"
 location: Paris
-date: 2022-03-13
-documentation: "path/to/pdf"
+date: 2022-03-15
+pdf: "https://tracking.exposed/pdf/PR-tiktok-russia-15march2022.pdf"
 # image: "path"
 ---
 
+Algorithm investigation experts Tracking Exposed have exclusively uncovered that TikTok has blocked an estimated 95% of content previously available to its 55 million users in Russia. 
 
-For immediate release
+The content is restricted at the application layer rather than the transport layer, which requires the direct involvement of TikTok. It is the first time a global social media platform has restricted access to content at this scale.
+TikTok users in Russia can no longer see content on accounts run by foreign media such as the BBC, or from Tiktok’s biggest stars including Charlie d'Amelio. When a user in Russia tries to access the accounts or posts from their favorite TikTokers based outside Russia they are met with an empty account (see next page for an image).
 
-Algorithmic investigation experts Tracking Exposed have uncovered that - for the first time - a social media giant is restricting the content available to its users in a whole country at the platform level. 
+TikTok had announced that it would not allow new content uploads in response to the Russian law that made spreading “fake news” about the Russian army a crime punishable by 15 years in prison, but TikTok did not announce that it has banned all foreign accounts for users in Russia.
 
-Users in Russia can no longer see content from foreign media like the BBC, or from Tiktok’s biggest stars like Charlie d'Amelio. 
+Tracking Exposed’s data - part of a detailed report into TikTok’s activities in Russia released today - also reveals that a loophole to get around the upload ban is being exploited by a coordinated network of accounts posting pro-war propaganda.
 
-Tracking.Exposed’s research shows that when a user in Russia tries to access the accounts or posts from their favourite Tiktokers they are met with an empty account. This includes old content.
+![image](/images/report-splinternet/charlie-cover.png)
+_The account of TikTok’s most-followed user, Charlie D’Amelio as seen from Russia and the rest of the world using Tracking Exposed’s tools on March 15_
 
-### “The Russian Splinternet”
 
-Tiktok’s move is notable because it advances the “splinternet” - a term that was coined to describe how the Chinese state censors content shown to its population through blocking foreign content at the Internet Service Provider (ISP) level. This time, it is not Russian ISPs who are banning content (though that is happening too) but the Tiktok platform appears to be choosing not to display global content to Russians.
+## “The Russian Splinternet”
 
-This move by TikTok is in addition to the platform’s commitment announced on March 6 to suspend the publication of new videos from Russian soil. This is in response to the recent legislation imposed by the Kremlin, which provides for penalties of up to up to fifteen years in prison for journalists as well as for individuals, Russians or foreigners, who disseminate "false information about the army". However, TikTok did not announce that they would be filtering foreign content as Tracking.Exposed’s research uncovered.
+TikTok’s move is notable because it significantly advances the “splinternet” - a term used to describe the fragmentation of the internet as a result of censorship. This time, it is not Russian ISPs who are banning content (as they did with Facebook and Twitter) but TikTok that is implementing the restriction.
 
-At the time of sending Tiktok has not clarified why this is happening.
-Interestingly, Tracking.Exposed’s research also shows that Russian opposition accounts and content are still available.
+At the time of release TikTok had not clarified why this is happening.
 
-### Tracking.Exposed’s tools to monitor social media at scale
+[Salvatore Romano](https://twitter.com/dataerror202/), Head of Research at [Tracking Exposed](https://twitter.com/trackingexposed) comments:
+“The effect of TikTok’s changes since the war began is that Russian people are deprived of a global perspective on Russia’s actions in Ukraine, and can only see content heavily weighted towards Kremlin-approved information. This makes it less likely that public opinion in Russia will become critical of the war. 
+As TikTok is the last non Russian-owned global social media platform in Russia, TikTok should clarify its content policy in Russia and provide data access to researchers to allow for public scrutiny on how its decisions are impacting the Ukraine-Russia war.”
 
-Tracking.Exposed’s automated infrastructure analyzes the behavior of TikTok's recommendation algorithm in different countries, using VPNs [tools that allow users to make it seem like they are in different location] and a network of residential IP addresses. In this investigation, navigation by VPN or residential IP addresses in Russia returned the same results.
+[Marc Faddoul](https://twitter.com/MarcFaddoul), co-director of [Tracking Exposed](https://twitter.com/trackingexposed) comments:
+“Before the war, the Russian internet landscape was unique in that Russian services like VKontakte and Yandex were able to flourish, while Facebook or Google remained uncensored and freely accessible.
+The era of the free internet in Russia just came to a sudden end. Within a week, Facebook, Twitter and Instagram were blocked. TikTok, the only global platform still available in Russia, is effectively turning into a propaganda channel for the Kremlin. Russia seems to be moving toward the Chinese model of internet censorship.”
 
-- - -
+[Claudio Agosti](https://twitter.com/_vecna), founder and co-director of [Tracking Exposed](https://twitter.com/trackingexposed) comments:
+“A truly free internet has never been more important. This war is the latest example of the devastating real world consequences of the policy decisions of social platforms. Social media users around the world will continue to be impacted by algorithms and content restrictions until we have transparency and accountability. We are stepping up Tracking Exposed investigations and looking for collaborators, analysts, funders and volunteers to help us scale this important work.”
 
-Marc Faddoul, co-director of Tracking.Exposed and leading AI researcher affiliated with UC Berkeley comments:
 
-“We are witnessing an unprecedented fracture of a global social network, which now shows completely different content bases between Russia and the rest of the world. Our data proves that we have a Russian Splinternet at the platform level for the first time, restricting free flowing information to the Russian people. ”
 
-Claudio Agosti, founder and co-director of Tracking.Exposed and privacy activist comments:
+## Notes to Editors
 
-It has never been more important to shine a light on the decisions of the social media platforms, and to hold them accountable for the impact their algorithms have on our world today. We are stepping up our work and looking for collaborators, funders and volunteers to help us scale this important work.”
+#### About the report
 
-Tracking.Exposed collaborators at the Institute for Strategic Dialogue (ISD) comment:
+The full report, Tracking Exposed Special Report: Content Restriction in Russia, contains detailed results and methodology, in addition to images and linked sources. 
 
-“State-controlled media outlets, such as RT [formerly Russia Today], Sputnik and RIA Novosti are active on TikTok and have used the platform to publish and promote Russian disinformation stories linked to Ukraine, before and after the invasion. It is clear that TikTok is a crucial element of the Kremlin's disinformation apparatus."
+The report is available at: https://tracking.exposed/pdf/tiktok-russia-15march2022.pdf
 
-### Algorithmic accountability since 2016
+About [Tracking Exposed](https://tracking.exposed/)
 
-This latest report is part of Tracking.Exposed’s commitment to bring transparency to the impact of social media algorithms, and to build tools to build a truly free internet. Tracking.Exposed currently investigates YouTube, Amazon, Facebook and PornHub, and their reports have been featured in the New York Times, the Guardian, Le Monde, and in United Nation reports and a letter from the US Congress to YouTube. 
+Tracking Exposed is a European non-profit organization defending digital rights through algorithmic investigations.
 
-Notes to Editors:
+Since 2016 Tracking Exposed has been pioneering new methodologies to scrutinize the most influential recommender systems, such as those of YouTube, Facebook, Amazon, PornHub and TikTok. The [code](https://github.com/tracking-exposed) is released as free software, enabling anyone to use, extend or review it. 
 
-Institute for Strategic Dialogue (ISD) is a laboratory which has studied the propaganda activity on this social network in the Russian-Ukrainian conflict.
+Tracking Exposed's infrastructure and methodologies have been validated in several[ peer-reviewed publications,](https://tracking.exposed/publications/) and the works of the team have received coverage in[ major media outlets](http://www.marcfaddoul.com/#in-the-news). Some of its reports have been cited in a[ United Nations report](https://undocs.org/pdf?symbol=en/A/73/348), a house[ testimony](https://www.ischool.berkeley.edu/news/2020/hany-farid-how-disinformation-dividing-nation) and a[ US Congress official letter](https://malinowski.house.gov/sites/malinowski.house.gov/files/Letter%20to%20YouTube%20--%20Malinowski_Eshoo_final_0.pdf) to YouTube's CEO.
+
+Tracking Exposed is also developing[ YouChoose.ai](https://youchoose.ai/), an alternative recommendation system for YouTube which empowers users and content creators.
+Tracking Exposed was born in Italy and its legal nonprofit is registered in France. The organization is funded through various grants and foundations, including from the European Commission, the Mozilla Foundation and Reset.tech.
+
+### Contact
+
+For all interview requests and additional queries please contact press@tracking.exposed, which contacts all authors of this report simultaneously.
 
 
 ---

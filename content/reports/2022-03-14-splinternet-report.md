@@ -9,31 +9,32 @@ documentation: "path/to/pdf"
 ---
 
 
-# H1
-
-## H2
-
-### H3
-
-#### H4
-
-##### H5
-
-
-Normal test
-
-* some
-* bullet
-* points
-
-
-1. but they
-2. were 
-3. unnumbered
-
 
 
 ---
+
+### Image assets
+
+
+![image](/images/report-splinternet/captioned-2x2.png)
+![image](/images/report-splinternet/charlie-cover.png)
+![image](/images/report-splinternet/charlie-fr.png)
+![image](/images/report-splinternet/charlie-ru.png)
+![image](/images/report-splinternet/full-vertical-with-headlines.png)
+![image](/images/report-splinternet/khaby-fr.png)
+![image](/images/report-splinternet/khaby-ru.png)
+![image](/images/report-splinternet/merge-all-in-two-lines.png)
+![image](/images/report-splinternet/merged-all-one-row.png)
+![image](/images/report-splinternet/merged-charlie.png)
+![image](/images/report-splinternet/merged-khaby.png)
+![image](/images/report-splinternet/merged-unhro.png)
+![image](/images/report-splinternet/tiktok-russia-selfblock.png)
+![image](/images/report-splinternet/unhro-fr.png)
+![image](/images/report-splinternet/unhro-ru.png)
+
+
+---
+
 
 {{<subscribe-newsletter reason="press--list">}}
 
