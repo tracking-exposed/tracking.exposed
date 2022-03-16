@@ -5,7 +5,10 @@ subtitle: "As the last global social media platform operating in Russia, these u
 location: Paris
 date: 2022-03-15
 pdf: "https://tracking.exposed/pdf/PR-tiktok-russia-15march2022.pdf"
-# image: "path"
+
+og_title: "TikTok blocks 95% of content for users in Russia"
+og_description: "Read the report"
+og_image: "/images/report-splinternet/captioned-2x2.png"
 ---
 
 Algorithm investigation experts Tracking Exposed have exclusively uncovered that TikTok has blocked an estimated 95% of content previously available to its 55 million users in Russia. 
@@ -42,13 +45,13 @@ The era of the free internet in Russia just came to a sudden end. Within a week,
 
 ## Notes to Editors
 
-#### About the report
+### About the report
 
 The full report, Tracking Exposed Special Report: Content Restriction in Russia, contains detailed results and methodology, in addition to images and linked sources. 
 
-The report is available at: https://tracking.exposed/pdf/tiktok-russia-15march2022.pdf
+The report is available at: [tiktok-russia-15march2022.pdf](/pdf/tiktok-russia-15march2022.pdf).
 
-About [Tracking Exposed](https://tracking.exposed/)
+### About [Tracking Exposed](https://tracking.exposed/)
 
 Tracking Exposed is a European non-profit organization defending digital rights through algorithmic investigations.
 

@@ -5,24 +5,23 @@ subtitle: "Unprecedented move cuts Russians off from free flowing global informa
 location: Paris
 date: 2022-03-15
 extraCSS: "/css/report.css"
+
+og_title: "This is not the page you should share for the report"
+og_description: "whatever, this is just my opinion!" 
 ---
 
-This page isn't meant to be public because of the "hack" into the `img` HTML component in `report.css`
+## Report [press release](/press/releases/tiktok-blocks-95-of-content-for-users-in-russia/),
+
+---
 
 ## Download the [report in .pdf](/pdf/tiktok-russia-15march2022.pdf)
 
 ---
 
-{{<contacts>}}
+This page isn't meant to be public because of the "hack" into the `img` HTML component, in `report.css`, it is only meant to share the image assets.
 
 
----
-
-{{<subscribe-newsletter reason="press--list">}}
-
----
-
-#### Additional Image assets
+# Additional Image assets
 
 ![image](/images/report-splinternet/captioned-2x2.png)
 ![image](/images/report-splinternet/charlie-cover.png)
