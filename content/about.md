@@ -60,8 +60,8 @@ type: fullscreen
   {{<figure name="Emanuele Calò" link="" role="Full stack devops" >}}
   {{<figure name="Giovanni Civardi" link="" role="Devops and very first sponsor" >}}
   {{<figure name="Federico Sarchi" link="" role="Data analyst and researcher" >}}
-  {{<figure name="Stefania Milan" link="" role="Principal Investigator in Data Active" >}}
-  {{<figure name="Jeroen Van der Voss" link="" role="Data Active project manager" >}}
+  {{<figure name="Stefania Milan" link="" role="Professor of Critical Data Studies, UvA" >}}
+  {{<figure name="Jeroen de Vos" link="" role="IN-SIGHT.it project manager" >}}
   {{<figure name="Renata Avila" link="" role="Lawyer and Stetegiest, the coordinator of our first report" >}}
   {{<figure name="Beatrice Gobbo" link="" role="PhD, data visualization" >}}
 
