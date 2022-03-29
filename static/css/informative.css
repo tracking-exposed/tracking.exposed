@@ -1,0 +1,66 @@
+/* h1 is reserved for the title */
+
+.palette { 
+    color: #1A1A1A; /* Cod Gray */
+    color: #E0E8E5; /* Nebula */
+    color: #4DBAAC; /* Fountain Blue */
+    color: #235FB0; /* Cerulean Blue */
+}
+
+h2 {
+    font-size: 1.8rem;
+}
+
+/* smaller affects the subtitle! */
+smaller, h3 {
+    font-family: monospace;
+    color: #235FB0; /* Cerulean Blue */
+    font-size: 1.7rem;
+}
+
+/* h4 still not allocated */
+
+h5 {
+    text-align: center;
+    color: #E0E8E5; /* Nebula */
+    background-color: #1A1A1A; /* Cod Gray */
+    font-size: 1.5em;
+    font-weight: 100;
+    padding: 1em;
+}
+
+.light-bg {
+    background-color: #E0E8E5; /* Nebula */
+    padding: 2em 0em 2em 0em;
+    border-radius: 1em;
+    margin-bottom: 3em;
+}
+
+.link {
+    color: #1A1A1A !important; /* Cod Gray */
+    width: 100%;
+}
+
+.link:hover {
+    font-weight: 900;
+    background-image: linear-gradient(#e1ebea, #53c1b6 6%) !important;
+}
+
+h6 {
+    text-align: right;
+    color: #1A1A1A; /* Cod Gray */
+    font-size: 2.4rem;
+    margin: 20px 0px 20px 0px;
+    padding: 10px;
+}
+
+p {
+    margin: 20px 0px 20px 0px;
+    font-size: 1.4rem;
+}
+
+ol {
+    font-size: 1.4rem;
+}
+
+/* I'm not overriding li and ul because they are used in the footer */
