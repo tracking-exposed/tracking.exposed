@@ -23,7 +23,7 @@ On March 15, 2022, Tracking Exposed released a [special report](https://tracking
 
 We found that on March 7, 2022, TikTok made all the content posted by non-Russian channels unavailable to Russian users. This unannounced restriction removes an estimated 95% of the content previously available to Russian TikTok users. The restriction is happening at the application layer rather than the transport layer, which requires the direct involvement of TikTok. It is the first time a global social media platform has restricted access to content at this scale. Not only this, but a network of coordinated accounts is using a loophole to post new content promoting Russian pro-war propaganda in Russia, despite the current ban on new content uploads.
 
-Since then, TikTok has made no public announcements regarding their content policies in Russia. However, the Tracking Exposed team has been busy. In a soon to be released report, we show how TikTok has continued to tweak what content is available to Russia users, thereby reinforcing the Kremlin’s ability to spread state-run propaganda. To be the first to read about our latest investigation, follow us on Twitter [@trackingexposed. ](https://twitter.com/trackingexposed)
+Since then, TikTok has made no public announcements regarding their content policies in Russia. However, the Tracking Exposed team has been busy. In a soon to be released report, we show how TikTok has continued to tweak what content is available to Russia users, thereby reinforcing the Kremlin’s ability to spread state-run propaganda. To be the first to read about our latest investigation, follow us on Twitter [@trackingexposed](https://twitter.com/trackingexposed).
 
 Our swift and timely research is possible through the tools we develop; using our [custom open access free software](https://github.com/tracking-exposed/yttrex) we can automate access of TikTok’s content in Russia using both Russian Virtual Private Networks (VPNs) and Residential Internet Protocol (IP) addresses. Our TikTok tool infrastructure scrapes the data from automated browsers in order to investigate the platform, since Tiktok does not provide data access through APIs for transparency and public scrutiny. The data collection pipeline emulates real users, allowing an independent and realistic monitoring of how the platform behaves in Russia, and what content is available. Forensic evidence is collected for every experiment, including the responses of our requests to TikTok's servers. All Tracking Exposed tools are publicly available and released under an open access and free-software license, so they can be used and reviewed by anyone.
 
@@ -55,7 +55,7 @@ This is not the first time that TikTok has had to respond to legislation and dem
 
 For instance, the Kremlin used intimidation tactics to force Google and Apple to remove a voting app that supported Putin’s rival [16]. In an unprecedented move just last year, Apple worked with the Kremlin to ensure that Russian social media applications were easily downloadable on new iPhones [16]. Apple has also not given “Russian users access to a new security tool, Private Relay, that could help Russians reach foreign news coverage and other content deemed illegal by the government,” which is automatically available on its US phones [16].
 
-This is not to say that these companies have not also pushed back. For instance, Twitter has been steadfast in denying Kremlin requests to take down content that go against Russian law [8]. After recently being blocked in Russia, Twitter immediately released a version of its site that can safely be accessed with the Tor browser [17]. Even in March 2021, Twitter refused to censor content about the jailing of opposition leader Alexey Navalny, whereas TikTok was far more compliant [18]. TikTok was also found to heavily censor LGBTQ+ content for Russia, with the Australian Strategic Policy Institute going so far as to say, “...in countries such as Vietnam and Russia, TikTok has gone beyond complying with the letter of the law and has instead seemingly offered censorship as a service to those administrations” [24]. 
+This is not to say that these companies have not also pushed back. For instance, Twitter has been steadfast in denying Kremlin requests to take down content that go against Russian law [8]. After recently being blocked in Russia, Twitter immediately released a version of its site that can safely be accessed with the Tor browser [17]. Even in March 2021, Twitter refused to censor content about the jailing of opposition leader Alexey Navalny, whereas TikTok was far more compliant [18]. TikTok was also found to heavily censor LGBTQ+ content for Russia, with the Australian Strategic Policy Institute going so far as to say, “...in countries such as Vietnam and Russia, TikTok has gone beyond complying with the letter of the law and has instead seemingly offered censorship as a service to those administrations” [24].
 
 In the current situation, platforms are in a tricky position. If they do not take enough action, then they are seen as prioritizing business, whereas too many restrictions means isolating Russian citizens by removing channels for activism [18]. TikTok is subject to this as well, and has made the decision to be overly restricted, which falls in line with its past interactions with the Russian government. Through examples like Twitter, we see that this does not have to be the case.
 
@@ -84,50 +84,50 @@ To be the first to hear about our next investigation, follow us on Twitter ([@tr
 
 ### References
 
-[1] https://newsroom.tiktok.com/en-us/bringing-more-context-to-content-on-tiktok?utm_source=COMMSTWITTER&utm_medium=social&utm_campaign=030622. 
- 
-[2] https://oxford.universitypressscholarship.com/view/10.1093/oso/9780190931407.001.0001/oso-9780190931407. 
- 
-[3] https://journals.uic.edu/ojs/index.php/fm/article/view/11685. 
- 
-[4] https://firstmonday.org/ojs/index.php/fm/article/view/11693/10124. 
- 
-[5] https://www.fiia.fi/wp-content/uploads/2017/01/bp98.pdf. 
- 
-[6] https://journals.sagepub.com/doi/10.1007/s12290-014-0296-4. 
- 
-[7] https://www.cogitatiopress.com/mediaandcommunication/article/viewFile/4292/4292. 
- 
-[8] https://www.tandfonline.com/doi/full/10.1080/1060586X.2015.1121712. 
- 
-[9] https://www.hrw.org/news/2020/06/18/russia-growing-internet-isolation-control-censorship#:~:text=Russian%20internet%20users.-,The%20Sovereign%20Internet%20Law,state's%20control%20over%20internet%20infrastructure. 
- 
-[10] https://www.niemanlab.org/2022/03/an-information-dark-age-russias-new-fake-news-law-has-outlawed-most-independent-journalism-there/. 
- 
-[11] https://www.reuters.com/world/europe/russias-novaya-gazeta-newspaper-pauses-activities-after-official-warning-2022-03-28/. 
- 
-[12] https://time.com/6156927/youtube-russia-ukraine-disinformation/. 
+[1] https://newsroom.tiktok.com/en-us/bringing-more-context-to-content-on-tiktok?utm_source=COMMSTWITTER&utm_medium=social&utm_campaign=030622.
 
-[13] https://www.washingtonpost.com/technology/2022/03/04/russia-ukraine-internet-cogent-cutoff/. 
- 
-[14] https://github.com/e-oz/files/blob/main/statement_of_roskomsvoboda_team.pdf. 
- 
-[15] https://www.washingtonpost.com/technology/2022/03/01/social-media-ukraine-russia/. 
- 
-[16] https://www.washingtonpost.com/world/2022/03/12/russia-putin-google-apple-navalny/. 
- 
-[17] https://apnews.com/article/russia-ukraine-technology-business-europe-media-f1da10285a1631542b332597c5d35c29. 
- 
-[18] https://foreignpolicy.com/2022/03/15/russia-ukraine-war-facebook-meta-twitter-youtube-block-censorship/. 
- 
-[19] https://www.ssoar.info/ssoar/bitstream/handle/document/66221/ssoar-2020-epifanova-Deciphering_Russias_Sovereign_Internet_Law.pdf?sequence=1&isAllowed=y&lnkname=ssoar-2020-epifanova-Deciphering_Russias_Sovereign_Internet_Law.pdf. 
+[2] https://oxford.universitypressscholarship.com/view/10.1093/oso/9780190931407.001.0001/oso-9780190931407.
 
-[20] https://www.politico.com/news/2022/03/04/russia-splinternet-facebook-twitter-00014408. 
- 
-[21] https://github.com/e-oz/files/blob/main/statement_of_roskomsvoboda_team.pdf. 
- 
+[3] https://journals.uic.edu/ojs/index.php/fm/article/view/11685.
+
+[4] https://firstmonday.org/ojs/index.php/fm/article/view/11693/10124.
+
+[5] https://www.fiia.fi/wp-content/uploads/2017/01/bp98.pdf.
+
+[6] https://journals.sagepub.com/doi/10.1007/s12290-014-0296-4.
+
+[7] https://www.cogitatiopress.com/mediaandcommunication/article/viewFile/4292/4292.
+
+[8] https://www.tandfonline.com/doi/full/10.1080/1060586X.2015.1121712.
+
+[9] https://www.hrw.org/news/2020/06/18/russia-growing-internet-isolation-control-censorship#:~:text=Russian%20internet%20users.-,The%20Sovereign%20Internet%20Law,state's%20control%20over%20internet%20infrastructure.
+
+[10] https://www.niemanlab.org/2022/03/an-information-dark-age-russias-new-fake-news-law-has-outlawed-most-independent-journalism-there/.
+
+[11] https://www.reuters.com/world/europe/russias-novaya-gazeta-newspaper-pauses-activities-after-official-warning-2022-03-28/.
+
+[12] https://time.com/6156927/youtube-russia-ukraine-disinformation/.
+
+[13] https://www.washingtonpost.com/technology/2022/03/04/russia-ukraine-internet-cogent-cutoff/.
+
+[14] https://github.com/e-oz/files/blob/main/statement_of_roskomsvoboda_team.pdf.
+
+[15] https://www.washingtonpost.com/technology/2022/03/01/social-media-ukraine-russia/.
+
+[16] https://www.washingtonpost.com/world/2022/03/12/russia-putin-google-apple-navalny/.
+
+[17] https://apnews.com/article/russia-ukraine-technology-business-europe-media-f1da10285a1631542b332597c5d35c29.
+
+[18] https://foreignpolicy.com/2022/03/15/russia-ukraine-war-facebook-meta-twitter-youtube-block-censorship/.
+
+[19] https://www.ssoar.info/ssoar/bitstream/handle/document/66221/ssoar-2020-epifanova-Deciphering_Russias_Sovereign_Internet_Law.pdf?sequence=1&isAllowed=y&lnkname=ssoar-2020-epifanova-Deciphering_Russias_Sovereign_Internet_Law.pdf.
+
+[20] https://www.politico.com/news/2022/03/04/russia-splinternet-facebook-twitter-00014408.
+
+[21] https://github.com/e-oz/files/blob/main/statement_of_roskomsvoboda_team.pdf.
+
 [22] https://tass.com/economy/1398177?utm_source=thediplomat.com&utm_medium=referral&utm_campaign=thediplomat.com&utm_referrer=thediplomat.com.  
 
-[23] https://www.theguardian.com/news/2018/jun/29/the-great-firewall-of-china-xi-jinpings-internet-shutdown. 
+[23] https://www.theguardian.com/news/2018/jun/29/the-great-firewall-of-china-xi-jinpings-internet-shutdown.
 
-[24] https://www.aspi.org.au/index.php/report/tiktok-wechat. 
+[24] https://www.aspi.org.au/index.php/report/tiktok-wechat.
