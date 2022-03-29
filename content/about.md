@@ -43,6 +43,7 @@ type: fullscreen
   {{<figure name="Giulia Giorgi" link="" role="Researcher" >}}
   {{<figure name="Marc Faddoul" link="https://www.marcfaddoul.com" role="Co-Director" >}}
   {{<figure name="Salvatore Romano" link="https://salvatoreromano1.github.io/pdf/CV_Salvatore_Romano.pdf" role="Head of Research" >}}
+  {{<figure name="Natalie Kerby" link="" role="Researcher" >}}
 
 </div>
 
