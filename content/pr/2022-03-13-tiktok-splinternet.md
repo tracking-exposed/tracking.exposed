@@ -4,7 +4,7 @@ title: "TikTok blocks 95% of content for users in Russia"
 subtitle: "As the last global social media platform operating in Russia, these unprecedented and unannounced content restrictions affecting 55 million users ends the era of free internet in Russia at a pivotal point in the war in Ukraine, finds Tracking Exposed"
 location: Paris
 date: 2022-03-15
-documentation: "https://tracking.exposed/pdf/PR-tiktok-russia-15march2022.pdf"
+pdf: "https://tracking.exposed/pdf/PR-tiktok-russia-15march2022.pdf"
 
 og_title: "TikTok blocks 95% of content for users in Russia"
 og_description: "read the 24 pages report released on 15/Mar/22"
@@ -53,6 +53,7 @@ The full report, Tracking Exposed Special Report: Content Restriction in Russia,
 
 #### Download the report: [tiktok-russia-15march2022.pdf](/pdf/tiktok-russia-15march2022.pdf)
 
+<br>
 
 ### About [Tracking Exposed](https://tracking.exposed/)
 
