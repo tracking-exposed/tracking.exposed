@@ -4,7 +4,7 @@ title: "TikTok blocks 95% of content for users in Russia"
 subtitle: "As the last global social media platform operating in Russia, these unprecedented and unannounced content restrictions affecting 55 million users ends the era of free internet in Russia at a pivotal point in the war in Ukraine, finds Tracking Exposed"
 location: Paris
 date: 2022-03-15
-pdf: "https://tracking.exposed/pdf/PR-tiktok-russia-15march2022.pdf"
+documentation: "https://tracking.exposed/pdf/PR-tiktok-russia-15march2022.pdf"
 
 og_title: "TikTok blocks 95% of content for users in Russia"
 og_description: "read the 24 pages report released on 15/Mar/22"
@@ -20,15 +20,17 @@ TikTok had announced that it would not allow new content uploads in response to 
 
 Tracking Exposed’s data - part of a detailed report into TikTok’s activities in Russia released today - also reveals that a loophole to get around the upload ban is being exploited by a coordinated network of accounts posting pro-war propaganda.
 
-![image](/images/report-splinternet/charlie-cover.png)
+
+{{<PR-img href="/images/report-splinternet/charlie-cover.png">}}
 _The account of TikTok’s most-followed user, Charlie D’Amelio as seen from Russia and the rest of the world using Tracking Exposed’s tools on March 15_
 
-
-## “The Russian Splinternet”
+### “The Russian Splinternet”
 
 TikTok’s move is notable because it significantly advances the “splinternet” - a term used to describe the fragmentation of the internet as a result of censorship. This time, it is not Russian ISPs who are banning content (as they did with Facebook and Twitter) but TikTok that is implementing the restriction.
 
 At the time of release TikTok had not clarified why this is happening.
+
+---
 
 * [Salvatore Romano](https://twitter.com/dataerror202/), Head of Research at [Tracking Exposed](https://twitter.com/trackingexposed) comments:
 “The effect of TikTok’s changes since the war began is that Russian people are deprived of a global perspective on Russia’s actions in Ukraine, and can only see content heavily weighted towards Kremlin-approved information. This makes it less likely that public opinion in Russia will become critical of the war. 
@@ -51,7 +53,6 @@ The full report, Tracking Exposed Special Report: Content Restriction in Russia,
 
 #### Download the report: [tiktok-russia-15march2022.pdf](/pdf/tiktok-russia-15march2022.pdf)
 
----
 
 ### About [Tracking Exposed](https://tracking.exposed/)
 
@@ -64,15 +65,16 @@ Tracking Exposed's infrastructure and methodologies have been validated in sever
 Tracking Exposed is also developing [YouChoose.ai](https://youchoose.ai/), an alternative recommendation system for YouTube which empowers users and content creators.
 Tracking Exposed was born in Italy and its legal nonprofit is registered in France. The organization is funded through various grants and foundations, including from the European Commission, the Mozilla Foundation and Reset.tech.
 
+--- 
+
 ### Contact
 
 For all interview requests and additional queries please contact press@tracking.exposed, which contacts all authors of this report simultaneously.
 
 
----
 
 {{<subscribe-newsletter reason="press--list">}}
 
----
+
 
 {{<contacts>}}
