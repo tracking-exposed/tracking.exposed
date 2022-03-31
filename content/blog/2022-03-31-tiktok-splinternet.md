@@ -1,15 +1,15 @@
 ---
 type: blog
 category: tiktok
-title: "Splinternet blogpost title to be completed"
-subtitle: "in the case you want a subtitle. you can have it"
+title: "TikTok, Russia & the emerging Splinternet"
+subtitle: "Contextualizing our Special Report on TikTok content restrictions in Russia"
 extraCSS: "/css/informative.css"
 date: 2022-03-31
 pdf: "https://tracking.exposed/pdf/PR-tiktok-russia-15march2022.pdf"
 
-og_title: "TikTok blocks 95% of content for users in Russia"
-og_description: "read the 24 pages report released on 15/Mar/22"
-og_image: "/images/report-splinternet/captioned-2x2.png"
+og_title: "TikTok, Russia & the emerging Splinternet"
+og_description: "Contextualizing our Special Report on TikTok content restrictions in Russia"
+og_image: "/images/report-splinternet/tiktok_ban.jpg"
 ---
 
 
