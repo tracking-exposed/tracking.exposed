@@ -72,12 +72,16 @@ canonifyURLs = true
     name = "TikTok"
     url = "https://tiktok.tracking.exposed"
     weight = -150
-
+ [[menu.main]]
+    name = "Blog"
+    identifier = "blog"
+    url = "/blog/"
+    weight = 40
  [[menu.main]]
     name = "Impact"
     identifier = "impact"
     url = "/impact/"
-    weight = 40
+    weight = 50
 
  [[menu.main]]
     parent = "impact"
@@ -116,12 +120,6 @@ canonifyURLs = true
     name= "Manifesto"
     url = "/manifesto"
     weight =10
- [[menu.footer]]
-    page = "tools"
-    identifier = "tools"
-    name = "Tools"
-    url = "/connect"
-    weight = 20
  [[menu.footer]]
     page = "connections"
     identifier = "connections"
