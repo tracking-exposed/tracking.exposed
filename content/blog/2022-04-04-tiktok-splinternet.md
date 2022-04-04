@@ -3,7 +3,6 @@ type: blog
 category: tiktok
 title: "TikTok, Russia & the emerging Splinternet"
 subtitle: "Contextualizing our Special Report on TikTok content restrictions in Russia"
-extraCSS: "/css/informative.css"
 date: 2022-03-31
 pdf: "https://tracking.exposed/pdf/PR-tiktok-russia-15march2022.pdf"
 
