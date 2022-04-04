@@ -39,10 +39,11 @@ type: fullscreen
   {{<figure name="François-Marie de Jouvencel" link="" role="Software engineering" >}}
   {{<figure name="Simone Robutti" link="" role="Software, Architecture and Activism" >}}
   {{<figure name="Rodia" link="" role="App Analyst and Development" >}}
-  {{<figure name="Giulia Corona" link="" role="Communication Designer" >}}
+  {{<figure name="Giulia C" link="" role="Communication Designer" >}}
   {{<figure name="Giulia Giorgi" link="" role="Researcher" >}}
   {{<figure name="Marc Faddoul" link="https://www.marcfaddoul.com" role="Co-Director" >}}
   {{<figure name="Salvatore Romano" link="https://salvatoreromano1.github.io/pdf/CV_Salvatore_Romano.pdf" role="Head of Research" >}}
+  {{<figure name="Natalie Kerby" link="" role="Researcher" >}}
 
 </div>
 
@@ -77,7 +78,8 @@ type: fullscreen
 <br/>
 <br/>
 
-
+<div class="row justify-content-center">
+<div class="col-sm-7">
 <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">
@@ -155,7 +157,8 @@ type: fullscreen
     </div>
   </div>
 </div>
-
+</div>
+</div>
 <br/>
 <br/>
 
