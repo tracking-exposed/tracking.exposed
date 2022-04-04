@@ -1,0 +1,26 @@
+.previous-button-style {
+    font-size: 1.4em;
+    color: #53C1B6;
+}
+
+.toggable {
+    border-top: 1em;
+    display: block;
+}
+
+#Publications-note {
+    display: none;
+    font-size: 0.8em;
+}
+#Events-note {
+    display: none;
+    font-size: 0.8em;
+}
+#Press-note {
+    display: none;
+    font-size: 0.8em;
+}
+
+li {
+    padding-top: 10px;
+}
