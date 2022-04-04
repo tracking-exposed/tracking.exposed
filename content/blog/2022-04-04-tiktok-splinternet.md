@@ -3,8 +3,8 @@ type: blog
 category: tiktok
 title: "TikTok, Russia & the emerging Splinternet"
 subtitle: "Contextualizing our Special Report on TikTok content restrictions in Russia"
-date: 2022-03-31
-pdf: "https://tracking.exposed/pdf/PR-tiktok-russia-15march2022.pdf"
+date: 2022-04-04
+by: Natalie Kerby
 
 og_title: "TikTok, Russia & the emerging Splinternet"
 og_description: "Contextualizing our Special Report on TikTok content restrictions in Russia"
