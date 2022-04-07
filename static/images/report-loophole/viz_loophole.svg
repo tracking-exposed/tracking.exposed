@@ -29,7 +29,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,13 +46,13 @@
      inkscape:window-height="1016"
      id="namedview567"
      showgrid="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="686.29562"
-     inkscape:cy="323.78407"
+     inkscape:zoom="0.8125"
+     inkscape:cx="730.09871"
+     inkscape:cy="288.43341"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showguides="true"
      inkscape:guide-bbox="true" />
   <defs
@@ -2755,5 +2755,19 @@
          style="stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
          x="785.48077"
          y="240.46744" /></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4253-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.98999999;fill:#c2c2c2;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+       transform="matrix(0.74999999,0,0,0.74999999,-68.472519,393.78818)"><flowRegion
+         id="flowRegion4255-6"
+         style="fill:#c2c2c2;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect4257-7"
+           width="294.23322"
+           height="188.17241"
+           x="-4.5617552"
+           y="204.60628"
+           style="fill:#c2c2c2;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Simplon Norm';-inkscape-font-specification:'Simplon Norm Italic';text-align:end;word-spacing:0.30000001px;text-anchor:end;fill:#c2c2c2;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
+         id="flowPara4261-3">CC-BY https://tracking.exposed</flowPara></flowRoot>  </g>
 </svg>
