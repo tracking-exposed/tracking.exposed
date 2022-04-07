@@ -15,10 +15,10 @@
    viewBox="0 0 1102.0062 578.55328"
    width="1102.0062pt"
    id="svg565"
-   sodipodi:docname="viz.svg"
+   sodipodi:docname="viz_loophole.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    enable-background="new"
-   inkscape:export-filename="/home/urania/Downloads/anti_pro_war_tiktok.png"
+   inkscape:export-filename="/home/urania/git/tracking.exposed/static/images/report-loophole/loophole_bg.png"
    inkscape:export-xdpi="103"
    inkscape:export-ydpi="103">
   <metadata
@@ -29,7 +29,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,13 +46,13 @@
      inkscape:window-height="1016"
      id="namedview567"
      showgrid="false"
-     inkscape:zoom="0.62211339"
-     inkscape:cx="638.25105"
-     inkscape:cy="343.82604"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="686.29562"
+     inkscape:cy="323.78407"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showguides="true"
      inkscape:guide-bbox="true" />
   <defs
@@ -1185,15 +1185,158 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1713"
-       x="-0.81138578"
-       width="2.6227716"
-       y="-1.2907653"
-       height="3.5815305">
+       id="filter5484-7"
+       x="-0.551094"
+       width="2.1021881"
+       y="-0.87668896"
+       height="2.7533779">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="311.17896"
-         id="feGaussianBlur1715" />
+         stdDeviation="211.35304"
+         id="feGaussianBlur5486-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5484-6"
+       x="-0.551094"
+       width="2.1021881"
+       y="-0.87668896"
+       height="2.7533779">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="211.35304"
+         id="feGaussianBlur5486-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1656-7"
+       x="-0.53679222"
+       width="2.0735846"
+       y="-0.85393757"
+       height="2.707875">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="205.8681"
+         id="feGaussianBlur1658-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1656-7-9"
+       x="-0.53679222"
+       width="2.0735846"
+       y="-0.85393757"
+       height="2.707875">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="205.8681"
+         id="feGaussianBlur1658-9-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1656-7-3"
+       x="-0.53679222"
+       width="2.0735846"
+       y="-0.85393757"
+       height="2.707875">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="205.8681"
+         id="feGaussianBlur1658-9-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5707"
+       x="-0.28031424"
+       width="1.5606285"
+       y="-0.4459283"
+       height="1.8918566">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="107.50483"
+         id="feGaussianBlur5709" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5707-7"
+       x="-0.28031424"
+       width="1.5606285"
+       y="-0.44592831"
+       height="1.8918566">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="107.50483"
+         id="feGaussianBlur5709-8" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5707-1"
+       x="-0.28031424"
+       width="1.5606285"
+       y="-0.44592831"
+       height="1.8918566">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="107.50483"
+         id="feGaussianBlur5709-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5707-2"
+       x="-0.28031424"
+       width="1.5606285"
+       y="-0.44592831"
+       height="1.8918566">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="107.50483"
+         id="feGaussianBlur5709-57" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5707-4"
+       x="-0.28031424"
+       width="1.5606285"
+       y="-0.44592831"
+       height="1.8918566">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="107.50483"
+         id="feGaussianBlur5709-59" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1656-7-9-5"
+       x="-0.53679222"
+       width="2.0735846"
+       y="-0.85393757"
+       height="2.707875">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="205.8681"
+         id="feGaussianBlur1658-9-2-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1656-7-9-8"
+       x="-0.53679222"
+       width="2.0735846"
+       y="-0.85393757"
+       height="2.707875">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="205.8681"
+         id="feGaussianBlur1658-9-2-1" />
     </filter>
   </defs>
   <g
@@ -1248,7 +1391,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     style="display:none;opacity:0.98500001;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;opacity:0.98500001;stroke-linecap:butt;stroke-linejoin:round">
     <ellipse
        style="opacity:0.22300002;fill:#7e0b27;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter1656)"
        id="path1284"
@@ -1256,15 +1399,105 @@
        cy="471.14267"
        rx="460.21851"
        ry="289.29718"
-       transform="matrix(0.60550403,0,0,0.84523963,-15.155968,-112.14047)" />
+       transform="matrix(0.2730621,0,0,0.38117485,109.69795,39.960884)" />
     <ellipse
-       style="opacity:0.197;fill:#7e0b27;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter1713)"
+       style="opacity:0.197;fill:#7e0b27;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter5707)"
        id="path1284-6"
        cx="513.18408"
        cy="471.14267"
        rx="460.21851"
        ry="289.29718"
-       transform="matrix(0.60550403,0,0,0.84523964,554.86275,-176.52328)" />
+       transform="matrix(0.25506229,0,0,0.35604843,893.42983,113.04912)" />
+    <ellipse
+       style="display:inline;opacity:0.197;fill:#7e0b27;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter5484-7)"
+       id="path1284-6-8"
+       cx="513.18408"
+       cy="471.14267"
+       rx="460.21851"
+       ry="289.29718"
+       transform="matrix(0.25506229,0,0,0.35604843,61.08557,277.1605)" />
+    <ellipse
+       style="display:inline;opacity:0.197;fill:#7e0b27;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter5484-6)"
+       id="path1284-6-4"
+       cx="513.18408"
+       cy="471.14267"
+       rx="460.21851"
+       ry="289.29718"
+       transform="matrix(0.25506229,0,0,0.35604843,501.25953,300.49501)" />
+    <ellipse
+       style="display:inline;opacity:0.22300002;fill:#00beb8;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter1656-7)"
+       id="path1284-3"
+       cx="513.18408"
+       cy="471.14267"
+       rx="460.21851"
+       ry="289.29718"
+       transform="matrix(0.2730621,0,0,0.38117485,190.79483,206.98606)" />
+    <ellipse
+       style="display:inline;opacity:0.22300002;fill:#00beb8;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter1656-7-9)"
+       id="path1284-3-8"
+       cx="513.18408"
+       cy="471.14267"
+       rx="460.21851"
+       ry="289.29718"
+       transform="matrix(0.2730621,0,0,0.38117485,517.47816,-44.390392)" />
+    <ellipse
+       style="display:inline;opacity:0.22300002;fill:#00beb8;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter1656-7-3)"
+       id="path1284-3-1"
+       cx="513.18408"
+       cy="471.14267"
+       rx="460.21851"
+       ry="289.29718"
+       transform="matrix(0.2730621,0,0,0.38117485,607.63426,283.35359)" />
+    <ellipse
+       style="display:inline;opacity:0.197;fill:#7e0b27;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter5707-7)"
+       id="path1284-6-9"
+       cx="513.18408"
+       cy="471.14267"
+       rx="460.21851"
+       ry="289.29718"
+       transform="matrix(0.25506229,0,0,0.35604843,521.41208,145.63863)" />
+    <ellipse
+       style="display:inline;opacity:0.197;fill:#7e0b27;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter5707-1)"
+       id="path1284-6-49"
+       cx="513.18408"
+       cy="471.14267"
+       rx="460.21851"
+       ry="289.29718"
+       transform="matrix(0.25506229,0,0,0.35604843,178.81885,3.510171)" />
+    <ellipse
+       style="display:inline;opacity:0.197;fill:#7e0b27;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter5707-2)"
+       id="path1284-6-499"
+       cx="513.18408"
+       cy="471.14267"
+       rx="460.21851"
+       ry="289.29718"
+       transform="matrix(0.25506229,0,0,0.35604843,283.8242,25.784038)" />
+    <ellipse
+       style="display:inline;opacity:0.197;fill:#7e0b27;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter5707-4)"
+       id="path1284-6-3"
+       cx="513.18408"
+       cy="471.14267"
+       rx="460.21851"
+       ry="289.29718"
+       transform="matrix(0.25506229,0,0,0.35604843,106.69396,66.089124)" />
+    <ellipse
+       style="display:inline;opacity:0.22300002;fill:#00beb8;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter1656-7-9-5)"
+       id="path1284-3-8-0"
+       cx="513.18408"
+       cy="471.14267"
+       rx="460.21851"
+       ry="289.29718"
+       transform="matrix(0.2730621,0,0,0.38117485,-22.397866,101.98071)"
+       inkscape:export-xdpi="103"
+       inkscape:export-ydpi="103" />
+    <ellipse
+       style="display:inline;opacity:0.22300002;fill:#00beb8;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter1656-7-9-8)"
+       id="path1284-3-8-9"
+       cx="513.18408"
+       cy="471.14267"
+       rx="460.21851"
+       ry="289.29718"
+       transform="matrix(0.2730621,0,0,0.38117485,126.09456,110.46599)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2237,7 +2470,7 @@
     </g>
     <g
        id="patch_91"
-       style="fill:none;fill-opacity:1;stroke:#c4c4c4;stroke-width:0.61179864;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#c4c4c4;stroke-width:0.61179864;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.8"
        transform="matrix(-1.0547155,0,0,1.1541312,289.41169,-115.65656)">
       <path
          d="M 135,504 V 69.12"
@@ -2283,7 +2516,7 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'Simplon Norm';-inkscape-font-specification:'Simplon Norm Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;word-spacing:0.2px;writing-mode:lr-tb;text-anchor:start;fill:#c4c4c4;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara4160">from Russian-based accounts</flowPara></flowRoot>    <g
        id="patch_91-2"
-       style="fill:none;fill-opacity:1;stroke:#c4c4c4;stroke-width:0.51596808;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#c4c4c4;stroke-width:0.51596808;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.8"
        transform="matrix(0,1.0547155,-2.9158822,0,1442.0198,339.79417)">
       <path
          d="M 135,504 V 69.12"
@@ -2324,7 +2557,7 @@
          id="flowPara4261-9">Feb 24</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Simplon Norm';-inkscape-font-specification:'Simplon Norm';word-spacing:0.30000001px;fill:#c2c2c2;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara1429">Russia invades Ukraine</flowPara></flowRoot>    <path
-       style="fill:none;stroke:#c4c4c4;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#c4c4c4;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.8"
        d="m 250.14864,481.90404 v 36.28854"
        id="path4296"
        inkscape:connector-curvature="0" />
@@ -2347,7 +2580,7 @@
          id="flowPara1320">anti-war hashtags </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Simplon Norm';-inkscape-font-specification:'Simplon Norm';word-spacing:0.30000001px;fill:#c2c2c2;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara4464" /></flowRoot>    <path
-       style="opacity:0.98999999;fill:none;stroke:#c4c4c4;stroke-width:0.7617138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.8;fill:none;stroke:#c4c4c4;stroke-width:0.7617138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 470.00071,482.14548 v 37.43095"
        id="path4296-5"
        inkscape:connector-curvature="0" />
@@ -2368,12 +2601,12 @@
          id="flowPara3017">Mar 22</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Simplon Norm';-inkscape-font-specification:'Simplon Norm';word-spacing:0.30000001px;fill:#c2c2c2;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara3021">Upload ban removed (unannounced)</flowPara></flowRoot>    <path
-       style="opacity:0.98999999;fill:none;stroke:#c4c4c4;stroke-width:0.74341255;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.8;fill:none;stroke:#c4c4c4;stroke-width:0.74341255;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 830.7844,482.21142 v 35.6539"
        id="path4296-5-0"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#c4c4c4;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#c4c4c4;stroke-width:0.67499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.8"
        d="m 768.49416,274.03071 v -12.82993 h 57.30705 v 19.67257"
        id="path4390"
        inkscape:connector-curvature="0" />
@@ -2414,7 +2647,7 @@
          id="flowPara4261-9-9-6">Mar 7</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Simplon Norm';-inkscape-font-specification:'Simplon Norm';word-spacing:0.30000001px;fill:#c2c2c2;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara3214">TikTok bans new uploads in Russia. Loophole to circumvent the upload ban is discovered</flowPara></flowRoot>    <path
-       style="opacity:0.98999999;fill:none;stroke:#c4c4c4;stroke-width:0.59999996;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.8;fill:none;stroke:#c4c4c4;stroke-width:0.59999996;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 147.33953,466.07913 H -32.128755"
        id="path4296-2"
        inkscape:connector-curvature="0" />
@@ -2500,8 +2733,8 @@
            style="fill:#c2c2c2;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          style="fill:#c2c2c2;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara4294-21">400</flowPara></flowRoot>    <path
-       style="opacity:0.98999999;fill:none;stroke:#c4c4c4;stroke-width:1.05844975;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 768.49416,274.03071 V 214.29935"
+       style="opacity:0.8;fill:none;stroke:#c4c4c4;stroke-width:0.60322845;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 768.459,260.86454 V 214.30521"
        id="path4296-5-0-5"
        inkscape:connector-curvature="0" />
     <circle
