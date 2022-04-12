@@ -3,7 +3,7 @@ type: pressrelease
 title: "Pro-war content dominates on TikTok in Russia after failure to implement its own policy"
 subtitle: "New report by digital rights group Tracking Exposed exclusively reveals how pro-war content on TikTok exploded - while anti-war content dropped dramatically - at a critical time in the Ukraine-Russia war."
 location: Paris
-date: 2022-04-13
+date: 2022-04-12
 pdf: "https://tracking.exposed/pdf/tiktok-russia-12april2022.pdf"
 
 og_title: "Pro-war content dominates on TikTok in Russia after failure to implement its own policy"
@@ -18,7 +18,7 @@ The explosion of pro-war content on TikTok is especially notable because on Marc
 
 (continues below)
 
-{{<PR-img href="/images/report-loophole/loophole.jpg">}}
+{{<PR-img href="/images/report-loophole/loophole.png">}}
 _Content posted from Russian-based TikTok accounts, on a sample of pro-war and anti-war hashtags, from February 20 to April 5, 2022_
 
 Tracking Exposed analyzed a sample of war-related hashtags and looked at the volume of content posted between February 20 and April 5. Based on this sample, Tracking Exposed estimates that, before the ban was announced, 42% of war-related content was anti-war, while 58% was pro-war. After the ban, an overwhelming 93.5% of war-related content was pro-war while only 6.5% was anti-war.
@@ -34,9 +34,9 @@ Between March 7 and March 24 content could still be uploaded in Russia thanks to
 Tracking Exposed’s research confirms that as of March 25 new uploads in Russia are not possible, and content from outside Russia is banned. Therefore, the only information about the Ukraine-Russia war available on TikTok in Russia is the content that was uploaded before March 25, which is now dominated by pro-war content and propaganda.
 TikTok originally announced the ban on new uploads to protect Russian users from the “fake news” law. The law makes it an offense punishable by a maximum of 15 years in jail to post anything false about the Russian army in Ukraine. 
 
-Marc Faddoul, co-director of Tracking Exposed comments:
-  
-  “Since the war began, TikTok's policies in Russia have been opaque and inconsistent. In particular, the platform's failure to properly implement the upload ban they had announced was exploited to flood the platform with pro-war narratives. Meanwhile, critics of the invasion have disappeared. Now, Russians are left with a frozen TikTok, dominated by pro-war content. There will be no Russian Spring on TikTok."
+[Marc Faddoul](https://twitter.com/MarcFaddoul), co-director of [Tracking Exposed](https://twitter.com/trackingexposed) comments:
+
+_“Since the war began, TikTok's policies in Russia have been opaque and inconsistent. In particular, the platform's failure to properly implement the upload ban they had announced was exploited to flood the platform with pro-war narratives. Meanwhile, critics of the invasion have disappeared. Now, Russians are left with a frozen TikTok, dominated by pro-war content. There will be no Russian Spring on TikTok."_
 
 <br>
 
