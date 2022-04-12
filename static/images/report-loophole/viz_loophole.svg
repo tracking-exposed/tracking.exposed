@@ -18,7 +18,7 @@
    sodipodi:docname="viz_loophole.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    enable-background="new"
-   inkscape:export-filename="/home/urania/git/tracking.exposed/static/images/report-loophole/loophole_trex.png"
+   inkscape:export-filename="/home/urania/git/tracking.exposed/static/images/report-loophole/loophole_nobg.png"
    inkscape:export-xdpi="103"
    inkscape:export-ydpi="103">
   <metadata
@@ -1391,7 +1391,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     style="display:inline;opacity:0.98500001;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:none;opacity:0.98500001;stroke-linecap:butt;stroke-linejoin:round">
     <ellipse
        style="opacity:0.22300002;fill:#7e0b27;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter1656)"
        id="path1284"
