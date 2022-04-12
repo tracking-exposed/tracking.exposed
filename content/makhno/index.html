@@ -1,0 +1,163 @@
+---
+title: "Makhno"
+subtitle: "Resistance Against Automated Content Takedown"
+draft: false
+type: "fullscreen"
+
+extraCSS: "/css/makhno.css"
+
+og_title: "Makhno — mapping social media algorithmic censorship"
+og_description: "A Mozilla Technology Fund sponsored project to enhance resistance against automated content takedown"
+og_type: "website"
+og_image: "http://tracking.exposed/images/makhno/preview.jpg"
+og_url: "https://tracking.exposed/makhno"
+---
+
+<div class="makhno">
+
+  <div class="central-elements">
+    <h1 id="big-label">Makhno</h1>
+    <input placeholder="https://" type="text" id="only-input" class="main-input" />
+    <p id="note">Accepting links from: Facebook, Instagram, TikTok, YouTube.</p>
+  </div>
+
+  <div class="bottom-elements">
+    <button class="btn btn-primary enhanced-button" id="knowmore-button">know more</button>
+    <button class="btn btn-primary enhanced-button" id="survey-button">fill up the survey</button>
+  </div>
+
+</div>
+
+<div class="container section-default" id="knowmore">
+
+  <h3>
+    The goal of this project is to <b>
+      expose censorship implemented by corporations and team up with those who suffer the abuses</b>.
+    <br>
+    <br>
+    Makhno is a <a
+      href="https://foundation.mozilla.org/en/blog/introducing-the-first-ever-mozilla-technology-fund-cohort/"
+      target=_blank>
+      Mozilla sponsored prototype 
+    </a>
+      that aims at creating a new efficient tracking of content take down. Proof that collaboration among internet citizens, analysts, and activists might keep digital corporations accountable. In 2023, Makhno will likely be left as a free software library and a growing test list of pages.
+    <br>
+    Makhno is a joint venture between Tracking Exposed and <a
+      href="https://hermescenter.org"
+      target=_blank>Hermes Center</a>.
+  </h3>   
+
+  <hr>
+
+  <h3 id="first" class="egg">
+    — Measure censorship and algorithmic penalization on a social media platform
+  </h3>
+
+  <div class="row support-stats">
+    <div class="platform col-3">Facebook
+      <div class="support-0">0/3</div>
+    </div>
+    <div class="platform col-3">Instagram
+      <div class="support-0">0/3</div>
+    </div>
+    <div class="platform col-3">TikTok
+      <div class="support-0">0/3</div>
+    </div>
+    <div class="platform col-3">YouTube
+      <div class="support-0">0/3</div>
+    </div>
+  </div>
+
+  <h3 id="second" class="egg">
+    — Talks and engage with communities that suffer unfair effects of platform takedown for political, religious, or sexual reasons.
+  </h3>
+    <p>(Here list tu success case, update blogpost)</p>
+
+  <h3 id="third" class="egg">
+    — Produce material helpful to researchers, offer them a tool to spread in their community.
+  </h3>
+    <p>(Here should be linked documentation and contacts on the different form of engagement)</p>
+
+</div>
+
+<div id="survey" class="container section-default">
+  <!-- injected via jquery below -->
+</div>
+
+<div id="meaning" class="container section-default">
+  <br>
+  <h5>... and what Makhno means?</h5>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <div class="row">                                                                                                                                                                                      
+      <div class="col-lg-4">
+        <div class="featured-box">
+          <img src="/images/makhno/Nestor.jpg" width="100%"/>
+        </div>
+      </div>
+      <div class="col-lg-8">
+        <h3>
+          Nestor <b>Makhno</b> was an Anarchist at the beginning of the Russian Revolution. 
+          <br/>
+          <br/>
+          Read on 
+          <a href="">on wikipedia</a> 
+          — or watch a <a href="">5 minutes video</a> — 
+          or join the full comradery with the <a href="">15 minutes</a> short movie.
+        </h3>
+      </div>
+  </div>
+
+</div>
+
+<script>
+  window.onload = () => {
+    $("footer").fadeOut(600);
+  }
+
+  $("#knowmore-button").on('click', () => {
+    if($("#knowmore-button").hasClass("disabled"))
+      return;
+    $("#knowmore").css("display", "block");
+    $("#knowmore-button").addClass("disabled");
+    $('html, body').animate({ scrollTop: $('#knowmore').offset().top - 30 }, 500);
+    $("footer").fadeIn(200);
+  });
+
+  $("#survey-button").on('click', () => {
+    if($("#survey-button").hasClass("disabled"))
+      return;
+    $("#survey")
+      .html('<iframe src="https://framaforms.org/makhno-preliminary-survey-1644521864" width="100%" height="800" border="0"></iframe>');
+    $("#survey").css("display", "block");
+    $("#survey-button").addClass("disabled");
+    $('html, body').animate({ scrollTop: $('#survey').offset().top  - 30 }, 500);
+    $("footer").fadeIn(200);
+  });
+
+  const easter = {
+    "first": 1,
+    "second": 1,
+    "third": 1
+  }
+
+  $("#only-input").change(function() {
+    $("h1").text("Nope: not yet ready.")
+  });
+
+  $(".egg").on('click', (e) => {
+    const idName = e.target.id;
+    easter[idName] -= 1;
+    if(!easter.first && !easter.second && !easter.third) {
+      $("#meaning").css("display", "block");
+      $('html, body').animate({ scrollTop: $('#meaning').offset().top - 30 }, 500);
+    }
+  })
+
+</script>
+

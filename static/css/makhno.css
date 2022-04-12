@@ -1,0 +1,120 @@
+/* makhno page is html and not markdown — most of the style here is similar to informative.css */
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* smaller affects the subtitle! */
+smaller, h3 {
+    font-family: monospace;
+    color: #235FB0; /* Cerulean Blue */
+    font-size: 1.7rem;
+}
+
+h3 b {
+    font-weight: 700;
+    font-size: 1.6em;
+    text-transform: uppercase;
+}
+
+.makhno {
+    height: 100%;
+    text-align: center;
+}
+
+.central-elements {
+    margin-top: 10%;
+    margin-bottom: 20%;
+
+}
+.central-elements h1 {
+    font-size: 7em;
+    padding-bottom: 20px;
+}
+
+.central-elements p {
+    font-size: 0.9em;
+    font-family: monospace;
+    color: #235FB0; /* Cerulean Blue */
+}
+
+.enhanced-button {
+    font-size: 1.5em;
+    border: 4px double black;
+    width: 240px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.main-input {
+    width: 50%;
+    border-radius: 10px;
+    border: 2px solid black;
+    font-size: 1.5em;
+    padding-left: 10px;
+}
+
+.platform {
+    text-align: center;
+    font-size: 2em;
+    border-radius: 1em;
+    background-color: #E0E8E5; /* Nebula */
+    padding-bottom: 20px;
+}
+.support-0 {
+    background-color: white;
+    font-size: 5em;
+}
+.support-1 {
+    background-color: #235FB0; /* Cerulean Blue */
+    color: yellow;
+    font-size: 5em;
+}
+.support-2 {
+    background-color: white;
+    font-size: 5em;
+}
+.support-3 {
+    background-color: #1A1A1A; /* Cod Gray */
+    color: white;
+    font-size: 5em;
+}
+
+.section-default {
+    padding-top: 4em;
+    display: none;
+}
+
+.egg {
+    cursor: help;
+}
+/* h1 title, h2 free, h4 same */
+
+h5 {
+    text-align: center;
+    color: #E0E8E5; /* Nebula */
+    background-color: #1A1A1A; /* Cod Gray */
+    font-size: 1.5em;
+    font-weight: 100;
+    padding: 1em;
+}
+
+h6 {
+    text-align: justify;
+    background-color: #E0E8E5; /* Nebula */
+    color: #1A1A1A; /* Cod Gray */
+    font-size: 1.5rem;
+    margin: 20px 0px 20px 0px;
+    padding: 10px;
+}
+
+p {
+    margin: 20px 0px 20px 0px;
+    font-size: 1.4rem;
+}
+
+ol {
+    font-size: 1.4rem;
+}
+
+/* I'm not overriding li and ul because they are used in the footer */
