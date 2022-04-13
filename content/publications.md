@@ -3,8 +3,8 @@ title: Our publications, since 2016
 date: 2021-01-01T15:32:40+01:00
 draft: false
 
-og_title: "TRex: our publications"
-og_description: "Accademic publications, since 2016"
+og_title: "Tracking Exposed academic and divulgative publications"
+og_description: "How to keep AI accountable? a detour in reproducible and experiment methods, documented as document and as code."
 ---
 
 
@@ -19,7 +19,7 @@ og_description: "Accademic publications, since 2016"
 * [Personalization algorithms and elections: breaking free of the filter bubble](https://policyreview.info/articles/news/personalisation-algorithms-and-elections-breaking-free-filter-bubble/1385) _by_  Stefania Milan, Claudio Agosti (Policyreview, 02/2019)
 * [Fairness in online social network timelines: Measurements, models and mechanism design](https://arxiv.org/pdf/1809.05530.pdf) _by_ Eduardo Hargreaves, Claudio Agosti, Daniel Menasche, Giovanni Neglia, Alexandre Reiffers-Masson, and Eitan Altman (Performance Evaluation, 11/2018)
 * [Biases in the Facebook News Feed: a Case Study on the Italian Elections](https://doi.org/10.1109/ASONAM.2018.8508659) _by_ Eduardo Hargreaves, Claudio Agosti, Daniel Menasche, Giovanni Neglia, Alexandre Reiffers-Masson, and Eitan Altman (International Conference on Advances in Social Networks Analysis and Mining, 10/2018)
-* [Facebook’s Influence on Italy: Tracking Exposed Experiment](https://privacyinternational.org/examples/2844/facebooks-influence-italy-tracking-exposed-experiment) _by_ Fabio Chiusi and Claudio Agosti (Privacy International for Tactical Tech, 09/2018) 
+* [Facebook’s Influence on Italy: Tracking Exposed Experiment](https://privacyinternational.org/examples/2844/facebooks-influence-italy-tracking-exposed-experiment) _by_ Fabio Chiusi and Claudio Agosti (Privacy International for Tactical Tech, 09/2018)
 * [Visibilidade no Facebook: Modelos, Medições e Implicações](http://portaldeconteudo.sbc.org.br/index.php/brasnam/article/view/3591).  [_Pdf_](https://eduardohargreaves.files.wordpress.com/2018/07/visibilidade-facebook-modelos-7.pdf) _by_ Brasnam, Eduardo Hargreaves, Daniel Sadoc Menasché, Giovanni Neglia, and Claudio Agosti (Anais do VII Brazilian Workshop on Social Network Analysis and Mining, 07/2018)
 
 <!-- manca rivedere quelli di alex e di dataactive, poi fare domanda generale -->
@@ -28,6 +28,9 @@ og_description: "Accademic publications, since 2016"
 
 ##### Divulgative Reports
 
+
+* [Content Restrictions on TikTok in Russia following the Ukrainian War](/pdf/tiktok-russia-12april2022.pdf), 12 April 2022, divulgative technical report.
+* [TikTok blocks 95% of content for users in Russia](/pdf/tiktok-russia-15march2022.pdf) 15 March 2022, divulgative technical report.
 * [Mapping Ban and Shadow-Ban on TikTok: Expose hidden censorship with a cross-national research](https://wiki.digitalmethods.net/Dmi/WinterSchool2022TikTokShadowBan) (Digital Methods Winter School, 01/2022)
 * [Analysis of Political Ads in Digital Campaigns (PAADC): monitoring and analysing Facebook sponsored content during Dutch general elections.](https://github.com/tracking-exposed/experiments-data/tree/master/PAADC) (De Volkskrant, 2021)
 * [FiterTUbe: Echo chambers, Filter Bubble and Polarization on Youtube.](https://wiki.digitalmethods.net/Dmi/WinterSchool2021FIterTube) (Digital Methods Winter School, 01/2021)
@@ -44,4 +47,3 @@ og_description: "Accademic publications, since 2016"
 * [The invisible curation of content | Facebook’s News Feed and our information diets](http://webfoundation.org/docs/2018/04/WF_InvisibleCurationContent_Screen_AW.pdf).  [Spanish version](http://webfoundation.org/docs/2018/04/WF_ICC_Spanish_Screen_AW.pdf), [Abstract](https://webfoundation.org/research/the-invisible-curation-of-content-facebooks-news-feed-and-our-information-diets/), [Data](https://github.com/tracking-exposed/experiments-data/tree/master/wto).  _by_ Renata Ávila, Juan Ortiz Freuler and Craig Fagan. Claudio Agosti.  (WebFoundation, 04/2018)
 * [Could populism be a side effect of the Personalized Algorithm?](https://www.opendemocracy.net/digitaliberties/claudio-agosti/could-populism-be-side-effect-of-personalized-algorithm) _by_ Claudio Agosti (OpenDemocracy, 10/2017)
 * [Facebook algorithm and impact on media: French election experiment #1](https://medium.com/@trackingexposed/facebook-algorithm-and-impact-on-media-french-election-experiment-1-d760ed5a242f) _by_ Claudio Agosti, Raffaele Angus.  (Medium, 05/2017)
-

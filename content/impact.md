@@ -3,7 +3,7 @@ title: Our impact, since 2016.
 date: 2021-01-01T15:32:40+01:00
 draft: false
 
-extraCSS: "/css/work2.css"
+extraCSS: "/css/publications.css"
 og_title: "TRex — Analysis & Publications"
 og_description: "Articles, Videos and Interview on algorithm analysis, since 2016"
 ---

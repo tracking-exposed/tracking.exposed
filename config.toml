@@ -147,7 +147,7 @@ canonifyURLs = true
     post = "Who we are and who is supporting us.🎈 If you wish to get involved, feel free to reach us out, any collaboration is more than welcome."
  [[menu.featured]]
     name = "Investigative Report"
-    url = "/pdf/tiktok-russia-15march2022.pdf"
+    url = "/pdf/tiktok-russia-12april2022.pdf"
     weight = -190
     pre = "/images/trex-logo.svg"
-    post = "15 March 2022 - TikTok blocks 95% of content for users in Russia"
+    post = "13 April 2022 - Content Restrictions on TikTok in Russia following the Ukrainian War."
