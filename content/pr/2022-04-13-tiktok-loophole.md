@@ -3,7 +3,7 @@ type: pressrelease
 title: "Pro-war content dominates on TikTok in Russia after failure to implement its own policy"
 subtitle: "New report by digital rights group Tracking Exposed exclusively reveals how pro-war content on TikTok exploded - while anti-war content dropped dramatically - at a critical time in the Ukraine-Russia war."
 location: Paris
-date: 2022-04-12
+date: 2022-04-13
 pdf: "https://tracking.exposed/pdf/tiktok-russia-12april2022.pdf"
 
 og_title: "Pro-war content dominates on TikTok in Russia after failure to implement its own policy"
@@ -11,10 +11,10 @@ og_description: "Press release by tracking.exposed 13/Apr/22"
 og_image: "/images/report-loophole/cover.jpg"
 ---
 
-TikTok’s failure to implement its own content policy after the Russian invasion of Ukraine led to pro-war content dominating in Russia for the first month of the war, finds digital rights group Tracking Exposed in a new report released today: Tracking Exposed Special Report: 
-Content Restrictions on TikTok in Russia following the Ukrainian War.
+TikTok’s failure to implement its own content policy after the Russian invasion of Ukraine led to pro-war content dominating in Russia for the first month of the war, finds digital rights group Tracking Exposed in a new report released today: _Tracking Exposed Special Report: 
+Content Restrictions on TikTok in Russia following the Ukrainian War_.
 
-The explosion of pro-war content on TikTok is especially notable because on March 6 TikTok announced it had banned new uploads. This led the researchers to question how new content could appear on the platform at all. 
+The explosion of pro-war content on TikTok is especially notable because on March 6 TikTok announced it had banned new uploads. This led the researchers to question how new content could appear on the platform _at all_. 
 
 (continues below)
 
@@ -44,14 +44,14 @@ _“Since the war began, TikTok's policies in Russia have been opaque and incons
 
 ### About the report
 
-The full report, Tracking Exposed Special Report: 
-Content Restrictions on TikTok in Russia following the Ukrainian War, contains detailed results and methodology, in addition to further quotes from the authors, images and linked sources. The dataset, as well as a Jupyter notebook to render the graph is available here:
+The full report, _Tracking Exposed Special Report: 
+Content Restrictions on TikTok in Russia following the Ukrainian War_, contains detailed results and methodology, in addition to further quotes from the authors, images and linked sources. The dataset, as well as a Jupyter notebook to render the graph is available here:
 https://github.com/tracking-exposed/experiments-data/tree/master/tiktok-russia
 
 
 #### Download the report: [tiktok-russia-15march2022.pdf](/pdf/tiktok-russia-12april2022.pdf)
 
-Tracking Exposed released its first report on TikTok’s activities in Russia in March, Tracking Exposed Special Report: TikTok content restriction in Russia: https://tracking.exposed/pdf/tiktok-russia-15march2022.pdf
+Tracking Exposed released its first report on TikTok’s activities in Russia in March, _Tracking Exposed Special Report: TikTok content restriction in Russia_: https://tracking.exposed/pdf/tiktok-russia-15march2022.pdf
 
 <br>
 
