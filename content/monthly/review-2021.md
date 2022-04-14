@@ -10,7 +10,7 @@ layout: monthly
 
 The most fortunate meeting was with Marc Faddoul, a researcher and analyst who shared experiences and passion for algorithm analysis, with a great capacity for fundraising and product design that we lacked.
 
-Thanks to this union we were able to allocate almost 300 thousand dollars in 2021, and start a business of growing, restructuring and maintaining projects.
+Thanks to this union, we won several grants which allowed to onboard several new figures, and allocate ressources to start new projects and maintain previous ones.
 
 And so Salvatore Romano, Giulia Corona, who had been volunteering at TRex for years, were able to start a more stable job, Alessandro Polidoro joined at the beginning of the year, became a lawyer and followed a new part. Rodia, Andrea and Francois Marie, approached during the summer and now form a stable part of the staff. 
 
