@@ -49,7 +49,7 @@ Content Restrictions on TikTok in Russia following the Ukrainian War_, contains 
 https://github.com/tracking-exposed/experiments-data/tree/master/tiktok-russia
 
 
-#### Download the report: [tiktok-russia-15march2022.pdf](/pdf/tiktok-russia-12april2022.pdf)
+#### Download the report: [tiktok-russia-12april2022.pdf](/pdf/tiktok-russia-12april2022.pdf)
 
 Tracking Exposed released its first report on TikTok’s activities in Russia in March, _Tracking Exposed Special Report: TikTok content restriction in Russia_: https://tracking.exposed/pdf/tiktok-russia-15march2022.pdf
 
