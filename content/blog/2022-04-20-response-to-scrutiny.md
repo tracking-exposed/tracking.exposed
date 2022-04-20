@@ -7,7 +7,7 @@ date: 2022-04-20
 by: Tracking Exposed
 
 og_title: "TikTok content restrictions in Russia: response to scrutiny"
-og_description: "Contextualizing our Special Report on TikTok content restrictions in Russia"
+og_description: "Press coverage and TikTok’s response to our recent reports following the war in Ukraine"
 og_image: "https://tracking.exposed/images/blogpost-tt-response/cover.jpg"
 ---
 
