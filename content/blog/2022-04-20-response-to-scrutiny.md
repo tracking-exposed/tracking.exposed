@@ -23,7 +23,7 @@ The report’s main findings were:
 
 * During the 17 day period that TikTok didn’t comprehensively implement the ban, new content uploads related to the war were overwhelmingly pro-war. Before the ban was announced, the balance of pro-war and anti-war content was roughly equal. After, 93.5% of war-related content was pro-war, while only 6.5% was anti-war.
 
-Today, new uploads in Russia are not possible, and content from outside Russia is banned. Therefore, the only information about the Ukraine-Russia war available on TikTok in Russia is the content that was uploaded before March 25, which is dominated by pro-war content and propaganda.
+* Today, new uploads in Russia are not possible, and content from outside Russia is banned. Therefore, the only information about the Ukraine-Russia war available on TikTok in Russia is the content that was uploaded before March 25, which is dominated by pro-war content and propaganda.
 
 {{<PR-img href="/images/report-loophole/loophole.png">}}
 _Temporal distribution of content posted from Russian-based TikTok accounts, on a sample of pro-war and anti-war hashtags, from February 20 to April 5, 2022._
@@ -32,7 +32,7 @@ This was reported by Will Oremus at The Washington Post as: “TikTok created an
 
 > _TikTok acknowledged that it has blocked Russian users since March 6 from seeing any content from elsewhere in the world, even old content — a measure the company says it took to protect its users and employees from Russia’s draconian “fake news” law, passed March 4. Spokesperson Jamie Favazza also said the company has not “made any changes to our service in Russia since March 6,” though when pressed on the apparent March 26 stoppage of content, she added that “with respect to implementation, we continue working to enforce those changes.”_
 
-The Washington Post Editorial Board followed up this article to cite our report in its opinion piece Friday April 15, titled “[TikTok is failing Russian citizens](https://www.washingtonpost.com/opinions/2022/04/15/tiktok-fails-russia-citizens-ukraine-war/)”. From Wed April 19 for 2 days The Washington Post is dropping its paywall, and we recommend you read both pieces in full.
+The Washington Post Editorial Board followed up this article to cite our report in its opinion piece Friday April 15, titled “[TikTok is failing Russian citizens](https://www.washingtonpost.com/opinions/2022/04/15/tiktok-fails-russia-citizens-ukraine-war/)”. From Wed 20 April for 2 days The Washington Post is dropping its paywall, and we recommend you read both pieces in full.
 
 The findings of our [initial report in March](https://tracking.exposed/pdf/tiktok-russia-15march2022.pdf) and this follow up report unequivocally show that TikTok is not being transparent about its actions in Russia. Its opaque policies have been enforced inconsistently, and the result is that pro-war content has flourished in Russia while simultaneously they have blocked Russians from viewing content from the rest of the world. Russians may have a distorted picture of the war in Ukraine because of TikTok’s decisions.
 
@@ -46,7 +46,7 @@ This is the latest example of the tragic real world consequences that opaque soc
 In response to the scrutiny TikTok received from us and others, it made changes in the month following our initial March 15 report:
 
 {{<PR-img href="/images/blogpost-tt-response/tiktok-response.png">}}
-_The [TikTok’s policy update](https://newsroom.tiktok.com/en-us/bringing-more-context-to-content-on-tiktok)._
+_[https://newsroom.tiktok.com/en-us/bringing-more-context-to-content-on-tiktok](https://newsroom.tiktok.com/en-us/bringing-more-context-to-content-on-tiktok)_
 
 Despite the content takedowns TikTok mentions, the content that we accessed for our report remains available as of today, Wed 20 April.
 
