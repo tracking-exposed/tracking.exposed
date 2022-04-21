@@ -11,6 +11,10 @@ smaller, h3 {
     font-size: 1.7rem;
 }
 
+.disabled {
+  cursor: not-allowed;
+}
+
 h3 b {
     font-weight: 700;
     font-size: 1.6em;
@@ -24,7 +28,7 @@ h3 b {
 
 .central-elements {
     margin-top: 10%;
-    margin-bottom: 20%;
+    padding-bottom: 15%;
 
 }
 .central-elements h1 {
@@ -63,7 +67,7 @@ h3 b {
 }
 .support-0 {
     background-color: white;
-    font-size: 5em;
+    font-size: 2em;
 }
 .support-1 {
     background-color: #235FB0; /* Cerulean Blue */

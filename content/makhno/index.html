@@ -18,12 +18,19 @@ og_url: "https://tracking.exposed/makhno"
   <div class="central-elements">
     <h1 id="big-label">Makhno</h1>
     <input placeholder="https://" type="text" id="only-input" class="main-input" />
-    <p id="note">Accepting links from: Facebook, Instagram, TikTok, YouTube.</p>
+    <p id="note">Accepting links from: <b>TikTok</b> and <b>YouTube</b>; still not supported: Facebook and Instagram.</p>
+    <button class="btn btn-primary disabled" id="submit">Submit!</button>
   </div>
 
   <div class="bottom-elements">
     <button class="btn btn-primary enhanced-button" id="knowmore-button">know more</button>
-    <button class="btn btn-primary enhanced-button" id="survey-button">fill up the survey</button>
+
+    <a href="https://cloud.ura.design/apps/forms/eAkKKzDbgw6iqZ6w" target=_blank>
+      <button class="btn btn-primary enhanced-button" id="survey-button">
+        fill up the survey
+      </button>
+    </a>
+
   </div>
 
 </div>
@@ -38,14 +45,14 @@ og_url: "https://tracking.exposed/makhno"
     Makhno is a <a
       href="https://foundation.mozilla.org/en/blog/introducing-the-first-ever-mozilla-technology-fund-cohort/"
       target=_blank>
-      Mozilla sponsored prototype 
+      Mozilla sponsored prototype
     </a>
       that aims at creating a new efficient tracking of content take down. Proof that collaboration among internet citizens, analysts, and activists might keep digital corporations accountable. In 2023, Makhno will likely be left as a free software library and a growing test list of pages.
     <br>
     Makhno is a joint venture between Tracking Exposed and <a
       href="https://hermescenter.org"
       target=_blank>Hermes Center</a>.
-  </h3>   
+  </h3>
 
   <hr>
 
@@ -61,22 +68,31 @@ og_url: "https://tracking.exposed/makhno"
       <div class="support-0">0/3</div>
     </div>
     <div class="platform col-3">TikTok
-      <div class="support-0">0/3</div>
+      <div class="support-0">1/3</div>
     </div>
     <div class="platform col-3">YouTube
-      <div class="support-0">0/3</div>
+      <div class="support-0">1/3</div>
     </div>
   </div>
 
   <h3 id="second" class="egg">
     — Talks and engage with communities that suffer unfair effects of platform takedown for political, religious, or sexual reasons.
   </h3>
-    <p>(Here list tu success case, update blogpost)</p>
+  <ol>
+    <li>Our
+      <a href="https://tracking.exposed/pdf/tiktok-russia-15march2022.pdf" target=_blank>
+        first report, on Russia and its influence on TikTok
+      </a>, demonstrate if, how and when content might be subject to different visibility, based on geographical discrmination.
+    </li>
+  </ol>
 
   <h3 id="third" class="egg">
     — Produce material helpful to researchers, offer them a tool to spread in their community.
   </h3>
-    <p>(Here should be linked documentation and contacts on the different form of engagement)</p>
+  <ol>
+    <li>Github frontend of Makhno</li>
+    <li>Github backend form Makhno service</li>
+  </ol>
 
 </div>
 
@@ -94,7 +110,7 @@ og_url: "https://tracking.exposed/makhno"
   <br>
   <br>
 
-  <div class="row">                                                                                                                                                                                      
+  <div class="row">
       <div class="col-lg-4">
         <div class="featured-box">
           <img src="/images/makhno/Nestor.jpg" width="100%"/>
@@ -102,12 +118,12 @@ og_url: "https://tracking.exposed/makhno"
       </div>
       <div class="col-lg-8">
         <h3>
-          Nestor <b>Makhno</b> was an Anarchist at the beginning of the Russian Revolution. 
+          Nestor <b>Makhno</b> was an Anarchist at the beginning of the Russian Revolution.
           <br/>
           <br/>
-          Read on 
-          <a href="">on wikipedia</a> 
-          — or watch a <a href="">5 minutes video</a> — 
+          Read on
+          <a href="">on wikipedia</a>
+          — or watch a <a href="">5 minutes video</a> —
           or join the full comradery with the <a href="">15 minutes</a> short movie.
         </h3>
       </div>
@@ -129,6 +145,59 @@ og_url: "https://tracking.exposed/makhno"
     $("footer").fadeIn(200);
   });
 
+  $("#only-input").change(function() {
+    const urlinput = $("#only-input").val();
+    // this should be an URL part of out four supported platforms
+    try {
+      const urlo = new URL(urlinput);
+      console.log("Read successfully url", urlinput, urlo);
+
+      if(urlo.hostname === 'tiktok.com' || urlo.hostname === 'youtube.com') {
+        $("#note").html("Successful check: the platform is supported!<br />note: Makhno it is under development, feel free to submit, but don't expect it would fully work yet!");
+      } else {
+        /* this is the default message + Error */
+        $("#note").text("Error: accepting links from: TikTok and YouTube; still not supported: Facebook and Instagram");
+        $("#submit").addClass('disabled');
+      }
+
+      if(urlo.pathname === "/") {
+        $("#note").text("You should submit an URL (a video, or a channel), and not the platform homepage!");
+        $("#submit").addClass('disabled');
+      }
+      else {
+        $("#submit").removeClass('disabled');
+      }
+    } catch(error) {
+      $("#note").text("Invalid URL, expected an URL from domain youtube.com or tiktok.com");
+      $("#submit").addClass('disabled');
+    }
+  });
+
+  async function submitURL(urlinput) {
+    const connection = await fetch("http://localhost:15000/api/v1/submit", {
+      method: 'POST',
+      type: 'application/json',
+      body: JSON.stringify({ url: urlinput })
+    });
+    const content = await connection.json();
+    return content;
+  }
+
+  $("#submit").on('click', async () => {
+    const urlinput = $("#only-input").val();
+    console.log("URL is", urlinput);
+    try {
+      const result = await submitURL(urlinput);
+      if(result.text)
+        $("#note").text(result.text);
+      else
+        $("#note").text("Not received any printable answer (Server error?)")
+    } catch(error) {
+      $("#note").text("Server error: " + error.message);
+    }
+  });
+
+/*
   $("#survey-button").on('click', () => {
     if($("#survey-button").hasClass("disabled"))
       return;
@@ -139,16 +208,13 @@ og_url: "https://tracking.exposed/makhno"
     $('html, body').animate({ scrollTop: $('#survey').offset().top  - 30 }, 500);
     $("footer").fadeIn(200);
   });
+  */
 
   const easter = {
     "first": 1,
     "second": 1,
     "third": 1
   }
-
-  $("#only-input").change(function() {
-    $("h1").text("Nope: not yet ready.")
-  });
 
   $(".egg").on('click', (e) => {
     const idName = e.target.id;
@@ -160,4 +226,3 @@ og_url: "https://tracking.exposed/makhno"
   })
 
 </script>
-
