@@ -1,0 +1,42 @@
+this is a quick unstructured document derived from the first OONI meeting 31st of January.
+
+A problem many of you feel right now: is censorship in social media. As anticipated here: https://foundation.mozilla.org/en/blog/introducing-the-first-ever-mozilla-technology-fund-cohort/ OONI + https://tracking.exposed have a fund to integrate their knowledge and expertise.
+
+The main goal is to deliver, by the end of the year, a tool that might check if the content is reachable on social media platforms. Facebook, Instagram, YouTube, and TikTok are the first few we plan to support. The problem leads to some technical and ethical implications.
+
+Technical: you might need to have a social media account to participate in the collective observation of reachability. Such a personal requirement opens a new range of problems compared to the current reachability/censorship tests.
+
+Ethical: If the content is taken down, maybe there is a good reason. we want to investigate abuse from social media (perhaps because a too friendly opening to a local institution of power, perhaps because of translation issues or company biases), but we know there is an amount of hateful and problematic content takedown in a daily basis. we should not provide an automatic copy of such content (but this is what the researcher need!)
+
+Our roadmap is:
+Jan+Feb: scope in the network some people with this need, so we can include them as early adopters; We did an OONI meeting ti present the idea and check in their community. We found a potential adopter interested more in aspects of content penalization and not in takedown.
+March+May: work on a prototype, focusing on the first platform (we don't know what it would be) and interacting with early adopters
+June onwards+ release of the tools for a closed public, and then to the public
+
+
+so if anyone of you ever got an issue with "content takedown" in one of this platform, please let know to @agrabeli and/or me (I would connect you to Laura)
+
+
+
+@vecna, perhaps you could share a bit of information about the platform you aim to build to enable community contributions of pages worth monitoring (for content takedowns)?
+
+ hanks @agrabeli, good point, I think the experience I heard from you (and also from Leil Zarah Mortada, that was a Mozilla fellow investigating on this issue) is the difficulty in having activist communities reporting what/when/why they got the content takedown.So I think we can follow two different paths:
+having communities of trusted researchers (e.g. the IFF network) where more time might be requested and deeper report/content saving might be offered
+Offer to anyone on the internet a quick method to submit a link, so this network can monitor if it is still up. This would lose all the qualitative information, and we can't allow ourselves to copy (e.g., screenshot or download) that content.
+
+
+small update on the answer for @agrabeli — on the two paths described. They can be compatible and working in parallel. it is like the "freemium tier" (it just make checks and returns a notification if a content goes down) and the tier "for selected communities" that might benefit from a more complete treatment.
+
+
+
+ Yes, we are not planning to develop any additional test to ooni probe, but leverage on the existing HTTP(S) connection.For certain platform, it is not necessary to be logged in nor to have a full operating browser (with javascript) to understand if a content is there or not. you just need to check the result of an URL.To interpret this results (which is normally a minified HTML/javascript blob) you need some parsers to dissect the answers and determine if is an error message, a warning message, or the expected content
+
+
+
+
+Additionally, how much are we focusing on contents removed globally rather than blocked from specific countries? The probes are primarily meant to detect per-country/per-ISP blocking. If we want to detect content blocking globally perhaps we should also consider running tests over Tor
+
+ @federico geo-blocking might be an important point, but:
+let's see a research I can deploy this month (edit: for example: YT does it for copyright; FB/IG we don't know, TikTok does it for content reachability even from searches, but searches are available only to logged profiles)
+i would expect the network of probes cover, overall, most of the world? so why Tor?
+I'm strongly afraid Tor connection would be captchas
