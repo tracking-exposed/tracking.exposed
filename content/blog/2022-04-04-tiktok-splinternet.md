@@ -8,7 +8,7 @@ by: Natalie Kerby
 
 og_title: "TikTok, Russia & the emerging Splinternet"
 og_description: "Contextualizing our Special Report on TikTok content restrictions in Russia"
-og_image: "/images/report-splinternet/tiktok_ban.jpg"
+og_image: "https://tracking.exposed/images/report-splinternet/tiktok_ban.jpg"
 ---
 
 
