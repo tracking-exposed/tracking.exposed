@@ -1,0 +1,115 @@
+---
+title: "Youtube algorithm analysis"
+subtitle: "CPDP 2022 showcase"
+draft: false
+date: "2022-05-13"
+og_title: "Youtube algorithm analysis, TRex experience in 2022"
+og_type: "website"
+og_image: "XXX"
+og_url: "https://tracking.exposed/slides/youtube"
+og_description: "WebSlides to present some of the last Tracking Exposed researches"
+type: "webslides"
+extraCSS: "/css/slides.css"
+---
+
+<script>removeHeaderFooter(1500)</script>
+
+<section class="bg-trex">
+  <div class="aligncenter fadeIn slow">
+    <h1><b>Tracking Exposed</b></h1>
+    <br>
+    <p class="text-symbols">* * * </p>
+    <p class="text-intro third">
+      A collective project that aims to unveil the algorithm opacity
+      <br>
+      (<a style="color: #030303" target="_blank" href="https://tracking.exposed/">tracking.exposed</a>)
+    </p>
+  </div>
+</section>
+
+<section class="bg-trex">
+  {{<slides/claudio>}}
+</section>
+
+<section class="bg-standard">
+  {{<slides/funding>}}
+</section>
+
+<section class="bg-standard">
+  <div class="wrap">
+    <h2>A variety of projects to pursue or <a href="/manifesto">Manifesto</a>.</h2>
+    <hr>
+    <div class="grid">
+      <div class="card-deck">
+        {{<trexproj href="https://youtube.tracking.exposed"
+          desc="Anyone has a unique list of recommended videos. Compare with your friends or join experiment group"
+          suffix="youtube.svg" >}}
+        {{<trexproj href="https://youchoose.ai" desc="Reclaim back control on your YouTube recommendations"
+          suffix="youchoose.svg" bgcolor="#f3e5ea" >}}
+        {{<trexproj href="https://tiktok.tracking.exposed"
+          desc="The tool of the TikTok Observatory: tracking hidden censorship with a cross-national research"
+          suffix="tiktok.png" >}}
+      </div>
+    </div>
+    <hr />
+    <!--end .grid -->
+    <div class="grid">
+      <p>Work in progress — less developed</p>
+      <div class="card-deck">
+        {{<trexproj href="https://facebook.tracking.exposed"
+          desc="Analyze the Facebook algorithm by compare your informative experience; Reuse the data in creative ways"
+          suffix="facebook.svg" bgcolor="#3b5898">}}
+        {{<trexproj href="https://pornhub.tracking.exposed"
+          desc="The biggest Adult Content Portal! Not without profiling and data exploitation"
+          bgcolor="#1b1b1b" suffix="pornhub.svg">}}
+        {{<trexproj href="https://amazon.tracking.exposed"
+          desc="An Italian-only campaign so far, we build an analysis after producing a small focused research for a Documentary."
+          bgcolor="#222e3d" suffix="amazon.svg">}}
+        {{<trexproj href="https://libre.events"
+          desc="A browser extension to liberate events from Facebook and repost them in the fediverse"
+          bgcolor="#000000" suffix="quintrex.svg">}}
+      </div>
+    </div>
+    <!--end .grid -->
+  </div>
+</section>
+
+<section class="">
+  {{<slides/methodologies>}}
+</section>
+
+<section class="slide">
+  {{<slides/pipeline>}}
+</section>
+
+
+<section class="aligncenter">
+  <div class="wrap aligncenter fadeInUp">
+    <h3> <strong>Basic youtube analysis steps</strong></h3>
+    <hr />
+    {{<yt-extension>}}
+  </div>
+</section>
+
+<script>
+  
+  function fadefuncts() {
+    let visibleFooter = false;
+    /* if the mouse goes out, for four second leave the bar */
+    $(document).mouseleave(function () {
+      $('header').fadeIn(40);
+      window.setTimeout(function () {
+        $('header').fadeOut(40);
+      }, 4000);
+    });
+    $("#final-slide").on('mousemove', function () {
+      visibileFooter = !visibleFooter && restoreHeaderFooter(800);
+    });
+  }
+
+  /* remove header and fooder in 1500 ms */
+  removeHeaderFooter(1500)
+  /* if mouse moves up or down, keep the bar for 4000 ms */
+  $(document).ready(fadefuncts);
+
+</script>

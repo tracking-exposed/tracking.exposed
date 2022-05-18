@@ -1,15 +1,31 @@
+/* the default inherit size for .nav-link in main.scss
+   turns to be 1.3 and it looks small */
+.nav-link {
+  font-size: 1.9rem !important;
+}
+
+/* classes used in the presentation (or in their shortcodes */
+
+.pro {
+ background-color: #cbefdc;
+ border-radius: 5px;
+} /* this is to list the "pro" of a choice */
+
+.con {
+  background-color: #fae7e5;
+  border-radius: 5px;
+} /* pro and con, this is for the 'con' */
+
+/* below customization for our color palette */
 .bg-yt {
   background-color: #D9230F;
 }
-
 .bg-trex {
   background-color: #46b3a5;
 }
-
 .bg-clima {
   background-color: #0C8346;
 }
-
 .bg-standard {
   background-color: #f7f9fb;
 }
@@ -21,7 +37,6 @@
   background-image:url('/images/smoke.jpeg');
 }
 */
-
 
 h1 {
     font-weight: bold;
@@ -46,7 +61,6 @@ h1 span {
   text-shadow: 0 1px 0 #D9230F;
 }
 
-
 .primary {
   color: #030303;
 }
@@ -70,11 +84,3 @@ h1 span {
   fill: green;
 }
  
-
-/*
- I can't define the href color for a specific bg-*
- I can't define a specific span  width for a single bg-*
- There are too many conflicts between the css working here,
- neither using !important is enought, but how to do that 
- without changing the theme css (webslides.css)?
-*/ 
