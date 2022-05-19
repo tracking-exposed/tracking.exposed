@@ -74,7 +74,11 @@ extraCSS: "/css/slides.css"
   </div>
 </section>
 
-<section class="">
+<section class="slide">
+  {{<slides/ytanedocts>}}
+</section>
+
+<section class="slide">
   {{<slides/methodologies>}}
 </section>
 
@@ -82,17 +86,60 @@ extraCSS: "/css/slides.css"
   {{<slides/pipeline>}}
 </section>
 
+<section>
+  {{<slides/greenwashing1>}}
+</section>
+
+<section>
+  {{<slides/greenwashing2>}}
+</section>
 
 <section class="aligncenter">
-  <div class="wrap aligncenter fadeInUp">
+  <div class="wrap">
     <h3> <strong>Basic youtube analysis steps</strong></h3>
-    <hr />
-    {{<yt-extension>}}
+    <hr>
+    <div class="grid vertical-align">
+      <div class="column">
+        <h4 class="mb-1 mt-5 text-center">
+          Install the browser extension
+        </h4>
+        <div class="row mb-5">
+          <div class="col-6 text-center">
+            <a target="_blank" href="https://addons.mozilla.org/en-US/firefox/addon/yttrex/">
+              <div class="icon-big firefox-icon"></div><br />
+            </a>
+            for Firefox browser
+          </div>
+          <div class="col-6 text-center">
+            <a target="_blank" href="https://chrome.google.com/webstore/detail/yttrex/kbbgjcgdcibilpahljnlejefcehbljnd">
+              <div class="icon-big chrome-icon"></div><br />
+            </a>
+            for Chrome or Brave
+          </div>
+        </div>
+      </div>
+      <div class="column">
+        <h4>use <b>Guardoni</b></h4>
+        <code>TODO IMG</code>
+      </div>
+    </div>
+    <!--end .grid -->
   </div>
 </section>
 
+<section>
+  {{<slides/ytextpopup>}}
+</section>
+
+<section>
+  {{<slides/ytsupported>}}
+</section>
+
+<section>
+  {{<slides/ytformatexample>}}
+</section>
+
 <script>
-  
   function fadefuncts() {
     let visibleFooter = false;
     /* if the mouse goes out, for four second leave the bar */
@@ -111,5 +158,4 @@ extraCSS: "/css/slides.css"
   removeHeaderFooter(1500)
   /* if mouse moves up or down, keep the bar for 4000 ms */
   $(document).ready(fadefuncts);
-
 </script>
