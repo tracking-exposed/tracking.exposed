@@ -20,14 +20,24 @@ extraCSS: "/css/slides.css"
     <br>
     <p class="text-symbols">* * * </p>
     <p class="text-intro third">
-      A collective project that aims to unveil the algorithm opacity
+      Algorithmic bias on YouTube at the beginning of Covid
       <br>
-      (<a style="color: #030303" target="_blank" href="https://tracking.exposed/">tracking.exposed</a>)
+      (<a style="color: #030303" target="_blank"
+        href="https://www.researchgate.net/profile/Leonardo-Sanna-2/publication/351285419_YTTREX_crowdsourced_analysis_of_YouTube's_recommender_system_during_COVID-19_pandemic/links/60900733a6fdccaebd057c0b/YTTREX-crowdsourced-analysis-of-YouTubes-recommender-system-during-COVID-19-pandemic.pdf">Research
+        publication</a>)
+      (<a style="color: #030303" target="_blank" href="https://youtube.tracking.exposed/wetest/1/">Call to action</a>)
+      (<a style="color: #030303" target="_blank" href="https://youtube.tracking.exposed/wetest/announcement-1/">Analysis notes</a>)
+    </p>
+    <p class="text-symbols">* * * </p>
+    <p class="text-intro third">
+    And the US election distortion recorded on search results
+    <br>
+    (<a style="color: #030303" target="_blank" href="https://youtube.tracking.exposed/filtertube">Search-results analysis</a>)
     </p>
   </div>
 </section>
 
-<section class="bg-trex">
+<section class="bg-standard">
   {{<slides/claudio>}}
 </section>
 
@@ -43,12 +53,12 @@ extraCSS: "/css/slides.css"
       <div class="card-deck">
         {{<trexproj href="https://youtube.tracking.exposed"
           desc="Anyone has a unique list of recommended videos. Compare with your friends or join experiment group"
-          suffix="youtube.svg" >}}
+          suffix="youtube.svg">}}
         {{<trexproj href="https://youchoose.ai" desc="Reclaim back control on your YouTube recommendations"
-          suffix="youchoose.svg" bgcolor="#f3e5ea" >}}
+          suffix="youchoose.svg" bgcolor="#f3e5ea">}}
         {{<trexproj href="https://tiktok.tracking.exposed"
           desc="The tool of the TikTok Observatory: tracking hidden censorship with a cross-national research"
-          suffix="tiktok.png" >}}
+          suffix="tiktok.png">}}
       </div>
     </div>
     <hr />
@@ -60,8 +70,8 @@ extraCSS: "/css/slides.css"
           desc="Analyze the Facebook algorithm by compare your informative experience; Reuse the data in creative ways"
           suffix="facebook.svg" bgcolor="#3b5898">}}
         {{<trexproj href="https://pornhub.tracking.exposed"
-          desc="The biggest Adult Content Portal! Not without profiling and data exploitation"
-          bgcolor="#1b1b1b" suffix="pornhub.svg">}}
+          desc="The biggest Adult Content Portal! Not without profiling and data exploitation" bgcolor="#1b1b1b"
+          suffix="pornhub.svg">}}
         {{<trexproj href="https://amazon.tracking.exposed"
           desc="An Italian-only campaign so far, we build an analysis after producing a small focused research for a Documentary."
           bgcolor="#222e3d" suffix="amazon.svg">}}
@@ -139,15 +149,63 @@ extraCSS: "/css/slides.css"
   {{<slides/ytformatexample>}}
 </section>
 
+<section>
+  <div class="wrap">
+    <img class="alignleft size-50"
+      src="https://youtube.tracking.exposed/images/yt-results/clean-browsers-pattern.svg" />
+    <h2>
+      Methodology: a freshly installed Brave browser, without any cookies or login on YouTube
+    </h2>
+
+    <p>
+      Each violet bubble in the center represents one of the video suggested. They are few, but share many links,
+      because most of the suggestions are the same among all the observers.
+      This is a starting condition: how users gets treated when Google doesn't know anything about a profile. Of course,
+      they always know something (location of the connection, operating system model, default language, browser
+      version). We tried to reduce these differences, to have something similar to a *non-personalized* algorithm stage.
+    </p>
+
+    <p>
+      <strong>Verified expectation</strong>: The large majority of the suggestions are shared among the users, because
+      the data points usable by Google to personalize the suggestions are reduced.
+    </p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <img class="alignright size-50"
+      src="https://youtube.tracking.exposed/images/yt-results/personalized-browsers-pattern.svg" />
+    <h2>
+      Methodology: watch a video with the standard browser, full of cookies, and logged in YouTube
+    </h2>
+
+    <p>
+      This is a starting condition: how users gets treated when Google doesn't know anything about a profile. Of course,
+      they always know something (location of the connection, operating system model, default language, browser
+      version). We tried to reduce these differences, to have something similar to a *non-personalized* algorithm stage.
+    </p>
+
+    <p>
+      <strong>This is how filter bubbles looks like</strong>:
+      It is visually clear how the data points linked to the profiles cause personalized suggestions."
+    </p>
+  </div>
+</section>
+
+
+<!-- this snippet contains 11 or more slides -->
+{{<slides/wetest1-many-slides>}}
+
 <script>
   function fadefuncts() {
     let visibleFooter = false;
     /* if the mouse goes out, for four second leave the bar */
     $(document).mouseleave(function () {
-      $('header').fadeIn(40);
+      $('header').fadeIn(140);
       window.setTimeout(function () {
-        $('header').fadeOut(40);
-      }, 4000);
+        $('header').fadeOut(240);
+      }, 2000);
     });
     $("#final-slide").on('mousemove', function () {
       visibileFooter = !visibleFooter && restoreHeaderFooter(800);
