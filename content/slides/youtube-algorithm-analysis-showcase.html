@@ -14,26 +14,48 @@ extraCSS: "/css/slides.css"
 
 <script>removeHeaderFooter(1500)</script>
 
-<section class="bg-trex">
-  <div class="aligncenter fadeIn slow">
-    <img src="/images/TrackingExposed_Main Logo - Positive payoff.svg" />
-    <br>
-    <p class="text-symbols">* * * </p>
-    <p class="text-intro third">
-      Algorithmic bias on YouTube at the beginning of Covid
-      <br>
-      (<a style="color: #030303" target="_blank"
-        href="https://www.researchgate.net/profile/Leonardo-Sanna-2/publication/351285419_YTTREX_crowdsourced_analysis_of_YouTube's_recommender_system_during_COVID-19_pandemic/links/60900733a6fdccaebd057c0b/YTTREX-crowdsourced-analysis-of-YouTubes-recommender-system-during-COVID-19-pandemic.pdf">Research
-        publication</a>)
-      (<a style="color: #030303" target="_blank" href="https://youtube.tracking.exposed/wetest/1/">Call to action</a>)
-      (<a style="color: #030303" target="_blank" href="https://youtube.tracking.exposed/wetest/announcement-1/">Analysis notes</a>)
-    </p>
-    <p class="text-symbols">* * * </p>
-    <p class="text-intro third">
-    And the US election distortion recorded on search results
-    <br>
-    (<a style="color: #030303" target="_blank" href="https://youtube.tracking.exposed/filtertube">Search-results analysis</a>)
-    </p>
+<!--
+Name of talk, as printed in the booklet
+Time of talk
+Photo of you and your name
+Tracking exposed logo
+ https://www.cpdpconferences.org/events/algorithmic-bias-on-youtube-during-covid-and-the-us-election
+ -->
+
+<section class="bg-default aligncenter">
+  <div class="wrap">
+    <div class="content-center">
+      <h2 class="text-landing">
+        Algorithmic bias on YouTube during Covid and the US election
+      </h2>
+    </div>
+    <hr>
+    <ul class="flexblock">
+      <li>
+        <figure>
+          <img height="20em" src="/images/logo-with-payoff.png" />
+        </figure>
+        <p class="aligncenter">
+          <a href="http://tracking.exposed">https://tracking.exposed</a>
+        </p>
+      </li>
+      <li>
+          <h4 class="aligncenter">
+            CPDP, Bruxelles, 23 May 2022
+          </h4>
+          <h4 class="aligncenter">
+            Claudio Agosti, 
+            <a href="https://twitter.com/@_vecna">@_vecna</a>
+          </h4>
+      </li>
+      <li>
+        <figure>
+          <img src="/images/team/Claudio-2019-headshot.png" />
+        </figure>
+      </li>
+    </ul>
+  </div>
+
   </div>
 </section>
 
@@ -46,10 +68,13 @@ extraCSS: "/css/slides.css"
 </section>
 
 <section class="bg-standard">
+  {{<slides/project>}}
+</section>
+
+<section class="bg-standard">
   <div class="wrap">
-    <h2>A variety of projects to pursue or <a href="/manifesto">Manifesto</a>.</h2>
-    <hr>
     <div class="grid">
+    <h1>Our work</h1>
       <div class="card-deck">
         {{<trexproj href="https://youtube.tracking.exposed"
           desc="Anyone has a unique list of recommended videos. Compare with your friends or join experiment group"
@@ -60,11 +85,8 @@ extraCSS: "/css/slides.css"
           desc="The tool of the TikTok Observatory: tracking hidden censorship with a cross-national research"
           suffix="tiktok.png">}}
       </div>
-    </div>
-    <hr />
-    <!--end .grid -->
-    <div class="grid">
-      <p>Work in progress — less developed</p>
+      <hr>
+      <h1>In development</h1>
       <div class="card-deck">
         {{<trexproj href="https://facebook.tracking.exposed"
           desc="Analyze the Facebook algorithm by compare your informative experience; Reuse the data in creative ways"
