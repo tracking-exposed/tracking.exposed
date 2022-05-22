@@ -4,6 +4,10 @@
   font-size: 1.9rem !important;
 }
 
+.text-mostly {
+  font-size: 2em;
+}
+
 /* classes used in the presentation (or in their shortcodes */
 
 .pro {

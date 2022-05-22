@@ -74,19 +74,19 @@ Tracking exposed logo
 <section class="bg-standard">
   <div class="wrap">
     <div class="grid">
-    <h1>Our work</h1>
+    <h1 class="aligncenter">OUR WORK</h1>
       <div class="card-deck">
         {{<trexproj href="https://youtube.tracking.exposed"
           desc="Anyone has a unique list of recommended videos. Compare with your friends or join experiment group"
           suffix="youtube.svg">}}
-        {{<trexproj href="https://youchoose.ai" desc="Reclaim back control on your YouTube recommendations"
-          suffix="youchoose.svg" bgcolor="#f3e5ea">}}
         {{<trexproj href="https://tiktok.tracking.exposed"
           desc="The tool of the TikTok Observatory: tracking hidden censorship with a cross-national research"
           suffix="tiktok.png">}}
+        {{<trexproj href="https://youchoose.ai" desc="Reclaim back control on your YouTube recommendations"
+          suffix="youchoose.svg" bgcolor="#f3e5ea">}}
       </div>
       <hr>
-      <h1>In development</h1>
+      <h2 class="aligncenter">in development</h2>
       <div class="card-deck">
         {{<trexproj href="https://facebook.tracking.exposed"
           desc="Analyze the Facebook algorithm by compare your informative experience; Reuse the data in creative ways"
@@ -151,13 +151,17 @@ Tracking exposed logo
         </div>
       </div>
       <div class="column">
-        <h4>use <b>Guardoni</b></h4>
-        <code>TODO IMG</code>
+        <h4>Or, use our freshly released automation tool: 
+          <b>Guardoni</b>
+        </h4>
       </div>
     </div>
     <!--end .grid -->
   </div>
 </section>
+
+<!-- it contains three pictures -->
+{{<slides/ytguardoni>}}
 
 <section>
   {{<slides/ytextpopup>}}
@@ -176,21 +180,30 @@ Tracking exposed logo
     <img class="alignleft size-50"
       src="https://youtube.tracking.exposed/images/yt-results/clean-browsers-pattern.svg" />
     <h2>
-      Methodology: a freshly installed Brave browser, without any cookies or login on YouTube
+      How personalization looks like?
     </h2>
 
-    <p>
-      Each violet bubble in the center represents one of the video suggested. They are few, but share many links,
-      because most of the suggestions are the same among all the observers.
-      This is a starting condition: how users gets treated when Google doesn't know anything about a profile. Of course,
-      they always know something (location of the connection, operating system model, default language, browser
-      version). We tried to reduce these differences, to have something similar to a *non-personalized* algorithm stage.
-    </p>
+    <br><br>
+    <span class="text-mostly">
+      <p>
+        The students watch the same video, and record their personalization, so we compare how youtube has recommended
+        videos to them.
+      </p>
 
-    <p>
-      <strong>Verified expectation</strong>: The large majority of the suggestions are shared among the users, because
-      the data points usable by Google to personalize the suggestions are reduced.
-    </p>
+      <p>
+        you're watching a condition of <i>reduced personalization</i>.
+      </p>
+      <p>
+        Each black dot is a student.
+      </p>
+      <p>
+        Each violet bubble in the center represents one of the video suggested.
+      </p>
+      <p>
+        We tried to reduce these differences, to have something similar to a *non-personalized* algorithm stage.
+      </p>
+
+    </span>
   </div>
 </section>
 
@@ -199,29 +212,40 @@ Tracking exposed logo
     <img class="alignright size-50"
       src="https://youtube.tracking.exposed/images/yt-results/personalized-browsers-pattern.svg" />
     <h2>
-      Methodology: watch a video with the standard browser, full of cookies, and logged in YouTube
+      Same room, same studends, same day, same computers, but <b>logged browsers</b>
     </h2>
 
-    <p>
-      This is a starting condition: how users gets treated when Google doesn't know anything about a profile. Of course,
-      they always know something (location of the connection, operating system model, default language, browser
-      version). We tried to reduce these differences, to have something similar to a *non-personalized* algorithm stage.
-    </p>
+    <br><br>
 
-    <p>
-      <strong>This is how filter bubbles looks like</strong>:
-      It is visually clear how the data points linked to the profiles cause personalized suggestions."
-    </p>
+    <span class="text-mostly">
+
+      <p>
+        It is visually clear how the data points linked to the profiles cause personalized suggestions.
+      </p>
+    </span>
   </div>
 </section>
-
 
 <!-- this snippet contains 11 or more slides -->
 {{<slides/wetest1-many-slides>}}
 
 
-<!-- this snippet contains 3 slides -->
+<!-- this snippet contains 4 slides even if the name says 3 -->
 {{<slides/filtertube-three-slides>}}
+
+<section>
+  <div class="wrap">
+    <h1>Thanks for listening!</h1>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h4 class="aligncenter">Please consider to follow: <a href="https://twitter.com/@trackingexposed">https://twitter.com/@trackingexposed</a>.</h4>
+  </div>
+</section>
+
+
 
 <script>
   function fadefuncts() {
