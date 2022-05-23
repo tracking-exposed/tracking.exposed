@@ -1,0 +1,149 @@
+---
+title: "Tiktok algorithm analysis"
+subtitle: "CPDP 2022 showcase"
+draft: false
+date: "2022-05-22"
+og_title: "Tiktok algorithm analysis, TRex experience in 2022"
+og_type: "website"
+og_image: "XXX"
+og_url: "https://tracking.exposed/slides/youtube"
+og_description: "WebSlides to present some of the last Tracking Exposed researches"
+type: "webslides"
+extraCSS: "/css/slides.css"
+---
+
+<script>removeHeaderFooter(1500)</script>
+
+<section class="bg-default aligncenter">
+  <div class="wrap">
+    <div class="content-center">
+      <h4 class="text-landing">
+        Algorithmic transparency: TikTok’s role in the war in Ukraine and French election
+      </h4>
+    </div>
+    <hr>
+    <ul class="flexblock">
+      <li>
+        <figure>
+          <img height="20em" src="/images/logo-with-payoff.png" />
+        </figure>
+        <p class="aligncenter">
+          <a href="http://tracking.exposed">https://tracking.exposed</a>
+        </p>
+      </li>
+      <li>
+          <h4 class="aligncenter">
+            CPDP, Bruxelles, 23 May 2022
+          </h4>
+          <h4 class="aligncenter">
+            Claudio Agosti, 
+            <a href="https://twitter.com/@_vecna">@_vecna</a>
+          </h4>
+      </li>
+      <li>
+        <figure>
+          <img src="/images/team/Claudio-2019-headshot.png" />
+        </figure>
+      </li>
+    </ul>
+  </div>
+
+  </div>
+</section>
+
+<section class="bg-standard">
+  {{<slides/claudio>}}
+</section>
+
+<section class="bg-standard">
+  {{<slides/funding>}}
+</section>
+
+<section class="bg-standard">
+  {{<slides/project>}}
+</section>
+
+<section class="bg-standard">
+  <div class="wrap">
+    <div class="grid">
+    <h1 class="aligncenter">OUR WORK</h1>
+      <div class="card-deck">
+        {{<trexproj href="https://youtube.tracking.exposed"
+          desc="Anyone has a unique list of recommended videos. Compare with your friends or join experiment group"
+          suffix="youtube.svg">}}
+        {{<trexproj href="https://tiktok.tracking.exposed"
+          desc="The tool of the TikTok Observatory: tracking hidden censorship with a cross-national research"
+          suffix="tiktok.png">}}
+        {{<trexproj href="https://youchoose.ai" desc="Reclaim back control on your YouTube recommendations"
+          suffix="youchoose.svg" bgcolor="#f3e5ea">}}
+      </div>
+      <hr>
+      <h2 class="aligncenter">in development</h2>
+      <div class="card-deck">
+        {{<trexproj href="https://facebook.tracking.exposed"
+          desc="Analyze the Facebook algorithm by compare your informative experience; Reuse the data in creative ways"
+          suffix="facebook.svg" bgcolor="#3b5898">}}
+        {{<trexproj href="https://pornhub.tracking.exposed"
+          desc="The biggest Adult Content Portal! Not without profiling and data exploitation" bgcolor="#1b1b1b"
+          suffix="pornhub.svg">}}
+        {{<trexproj href="https://amazon.tracking.exposed"
+          desc="An Italian-only campaign so far, we build an analysis after producing a small focused research for a Documentary."
+          bgcolor="#222e3d" suffix="amazon.svg">}}
+        {{<trexproj href="https://libre.events"
+          desc="A browser extension to liberate events from Facebook and repost them in the fediverse"
+          bgcolor="#000000" suffix="quintrex.svg">}}
+      </div>
+    </div>
+    <!--end .grid -->
+  </div>
+</section>
+
+<section class="slide">
+  {{<slides/tkproblem>}}
+</section>
+
+<section class="slide">
+  {{<slides/tkalgorithm>}}
+</section>
+
+{{<slides/tk-basic-feats>}}
+
+{{<slides/tk-splinternet-ten>}}
+
+{{<slides/tk-french-report>}}
+
+
+<section>
+  <div class="wrap">
+    <h1>Thanks for listening!</h1>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h4 class="aligncenter">Please consider to follow: <a href="https://twitter.com/@trackingexposed">https://twitter.com/@trackingexposed</a>.</h4>
+  </div>
+</section>
+
+
+
+<script>
+  function fadefuncts() {
+    let visibleFooter = false;
+    /* if the mouse goes out, for four second leave the bar */
+    $(document).mouseleave(function () {
+      $('header').fadeIn(140);
+      window.setTimeout(function () {
+        $('header').fadeOut(240);
+      }, 2000);
+    });
+    $("#final-slide").on('mousemove', function () {
+      visibileFooter = !visibleFooter && restoreHeaderFooter(800);
+    });
+  }
+
+  /* remove header and fooder in 1500 ms */
+  removeHeaderFooter(1500)
+  /* if mouse moves up or down, keep the bar for 4000 ms */
+  $(document).ready(fadefuncts);
+</script>
