@@ -83,6 +83,12 @@ canonifyURLs = true
     url = "/impact/"
     weight = 50
 
+
+ [[menu.main]]
+    parent = "impact"
+    name = "Reports"
+    url = "/reports/"
+    weight = 9
  [[menu.main]]
     parent = "impact"
     name = "Publications"
@@ -90,13 +96,13 @@ canonifyURLs = true
     weight = 10
  [[menu.main]]
     parent = "impact"
-    name = "Press Coverage"
+    name = "Press coverage"
     url ="/press/"
     weight = 20
  [[menu.main]]
     parent = "impact"
-    name = "Videos"
-    url = "/videos/"
+    name = "Press releases"
+    url = "/pr/"
     weight = 30
  [[menu.main]]
     parent = "impact"
@@ -105,14 +111,15 @@ canonifyURLs = true
     weight = 40
  [[menu.main]]
     parent = "impact"
-    name = "Progress Reports"
-    url = "/monthly/"
-    weight = 40
+    name = "Videos"
+    url = "/videos/"
+    weight = 50
  [[menu.main]]
     parent = "impact"
-    name = "Press Releases"
-    url = "/pr/"
-    weight = 50
+    name = "Monthly internal reports"
+    url = "/monthly/"
+    weight = 60
+
 
  [[menu.footer]]
     page = "manifesto"
@@ -146,8 +153,8 @@ canonifyURLs = true
     pre = "/images/connect with us.svg"
     post = "Who we are and who is supporting us.🎈 If you wish to get involved, feel free to reach us out, any collaboration is more than welcome."
  [[menu.featured]]
-    name = "Investigative Report"
-    url = "/pdf/tiktok-russia-12april2022.pdf"
+    name = "TRex Reports"
+    url = "/reports/"
     weight = -190
     pre = "/images/trex-logo.svg"
-    post = "13 April 2022 - Content Restrictions on TikTok in Russia following the Ukrainian War."
+    post = "Since 2022 we begin to release .pdf reports on algorithm analysis and platform behaviour."
