@@ -54,13 +54,13 @@ This is a live session - join us for a lively debate with our researchers about 
 Watch it: [https://rightscon.summit.tc/t/2022/events/youchoose.ai-break-free-from-youtubes-algorithm-monopoly-with-adversarial-interoperability-tsVpUu5iiuph2GPUTmYKCY](https://rightscon.summit.tc/t/2022/events/youchoose.ai-break-free-from-youtubes-algorithm-monopoly-with-adversarial-interoperability-tsVpUu5iiuph2GPUTmYKCY)
 -->
 
-*[YouChoose.AI i](http://youchoose.ai)s a browser extension that enables users to choose alternative recommendation feeds directly on YouTube.com. This is a critical step towards digital sovereignty. We should be empowered to choose and customize their recommendation system. By gaining back agency over the content delivery infrastructure, we can gain control back over our informational diets.*  
+[YouChoose.AI i](http://youchoose.ai)s a browser extension that enables users to choose alternative recommendation feeds directly on YouTube.com. This is a critical step towards digital sovereignty. We should be empowered to choose and customize their recommendation system. By gaining back agency over the content delivery infrastructure, we can gain control back over our informational diets.
 
-*The first alternative feed available on YouChoose is provided by the content creators themselves, who can select the recommendations on their own videos. This is a liberating change for content creators, who are currently at the mercy of YouTube's algorithm to distribute their content.*
+The first alternative feed available on YouChoose is provided by the content creators themselves, who can select the recommendations on their own videos. This is a liberating change for content creators, who are currently at the mercy of YouTube's algorithm to distribute their content.
 
-*YouTube benefits from its nearly monopolistic position on the video-sharing market to impose its recommendation algorithm. YouChoose challenges this de-facto algorithmic monopoly by making third-party alternatives interoperable with the platform.*
+YouTube benefits from its nearly monopolistic position on the video-sharing market to impose its recommendation algorithm. YouChoose challenges this de-facto algorithmic monopoly by making third-party alternatives interoperable with the platform.
 
-*Since the regulation does not currently impose interoperability, YouChoose plugs itself on top of YouTube in an [adversarial way](https://www.eff.org/deeplinks/2019/10/adversarial-interoperability).*
+Since the regulation does not currently impose interoperability, YouChoose plugs itself on top of YouTube in an [adversarial way](https://www.eff.org/deeplinks/2019/10/adversarial-interoperability).
 
 ---
 
