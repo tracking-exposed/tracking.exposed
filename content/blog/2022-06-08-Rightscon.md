@@ -6,9 +6,9 @@ subtitle: ""
 date: 2022-06-07
 by: Tracking Exposed
 
-og_title: "TikTok content restrictions in Russia: response to scrutiny"
-og_description: "Press coverage and TikTok’s response to our recent reports following the war in Ukraine"
-og_image: "https://tracking.exposed/images/blogpost-tt-response/cover.jpg"
+og_title: "Tracking Exposed at RightsCon 2022: Investigating the algorithms of TikTok, YouTube, Pornhub"
+og_description: "We joined the RightsCon community in 2017 for our first talk and this year we were excited to go back to give three talks on our work investigating the algorithms of TikTok, YouTube and Pornhub."
+og_image: "https://tracking.exposed/images/rightscon-margaux.png"
 ---
 
 [RightsCon](https://rightscon.summit.tc) is the world's leading summit on human rights in the digital age. [AccessNow](https://www.accessnow.org/) started the conference with the intention to create a civil society-led space where all stakeholders – from tech companies to government representatives to human rights defenders – could come together to build a rights-respecting digital future.
