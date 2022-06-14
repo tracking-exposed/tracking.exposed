@@ -12,7 +12,7 @@ smaller, h3 {
 }
 
 .disabled {
-  cursor: not-allowed;
+    cursor: not-allowed;
 }
 
 h3 b {
@@ -24,12 +24,15 @@ h3 b {
 .makhno {
     height: 100%;
     text-align: center;
+    background-color: white;
+    background-image: url('/images/makhno/logo-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: auto 100%;
 }
 
 .central-elements {
-    margin-top: 10%;
     padding-bottom: 15%;
-
 }
 .central-elements h1 {
     font-size: 7em;
@@ -42,6 +45,12 @@ h3 b {
     color: #235FB0; /* Cerulean Blue */
 }
 
+.central-elements b {
+    color: #1A1A1A; /* Cod Gray */
+    font-weight: 100;
+    font-family: monospace;
+}
+
 .enhanced-button {
     font-size: 1.5em;
     border: 4px double black;
@@ -52,7 +61,7 @@ h3 b {
 
 .main-input {
     width: 50%;
-    border-radius: 10px;
+    border-radius: 12px;
     border: 2px solid black;
     font-size: 1.5em;
     padding-left: 10px;

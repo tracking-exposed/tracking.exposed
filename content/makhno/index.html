@@ -9,14 +9,15 @@ extraCSS: "/css/makhno.css"
 og_title: "Makhno — mapping social media algorithmic censorship"
 og_description: "A Mozilla Technology Fund sponsored project to enhance resistance against automated content takedown"
 og_type: "website"
-og_image: "http://tracking.exposed/images/makhno/preview.jpg"
+og_image: "https://tracking.exposed/images/makhno/logo-preview.jpg"
 og_url: "https://tracking.exposed/makhno"
 ---
 
 <div class="makhno">
 
   <div class="central-elements">
-    <h1 id="big-label">Makhno</h1>
+    <img src="/images/makhno/logo-preview.jpg" />
+    <br>
     <input placeholder="https://" type="text" id="only-input" class="main-input" />
     <p id="note">Accepting links from: <b>TikTok</b> and <b>YouTube</b>; still not supported: Facebook and Instagram.</p>
     <button class="btn btn-primary disabled" id="submit">Submit!</button>
@@ -132,6 +133,25 @@ og_url: "https://tracking.exposed/makhno"
 </div>
 
 <script>
+
+                                                                                              
+  function buildApiUrl(apiName, option, apiv) {                                               
+    // const SERVER = 'https://tracking.exposed';
+    const SERVER = 'http://localhost:15000';
+    let rv = null;
+    const api_path = apiv ? `/api/v${apiv}/` : "/api/v1/";
+
+    if (window.location.origin.match(/localhost/)) {
+        const x = SERVER;
+        rv = option ? `${x}${api_path}${apiName}/${option}` : `${x}${api_path}${apiName}`;
+        console.log(`Builing URL by hardcoded domains (development) URL composed ${rv}`);
+    } else {
+        rv = option ? `${api_path}${apiName}/${option}` : `${api_path}/${apiName}`;
+        console.log(`Building URL by window...href (production) URL composed ${rv}`);
+    }
+    return rv;
+  }
+
   window.onload = () => {
     $("footer").fadeOut(600);
   }
@@ -145,22 +165,33 @@ og_url: "https://tracking.exposed/makhno"
     $("footer").fadeIn(200);
   });
 
-  $("#only-input").change(function() {
+  $("#only-input").change(handleInput);
+
+  $("#only-input").keypress(function(e) {
+    if(e.which === 13) {
+      const valid = handleInput();
+      if(valid)
+        $("#submit").click();
+    }
+  });
+
+  function handleInput() {
     const urlinput = $("#only-input").val();
     // this should be an URL part of out four supported platforms
     try {
-      const urlo = new URL(urlinput);
+      const sanitized = _.startsWith(urlinput, 'http') ? urlinput : 'https://' + urlinput;
+      const urlo = new URL(sanitized);
       console.log("Read successfully url", urlinput, urlo);
 
       if(urlo.hostname === 'tiktok.com' || urlo.hostname === 'youtube.com') {
-        $("#note").html("Successful check: the platform is supported!<br />note: Makhno it is under development, feel free to submit, but don't expect it would fully work yet!");
+        $("#note").html("Platform <b>" + urlo.hostname + "</b> supported");
       } else {
         /* this is the default message + Error */
         $("#note").text("Error: accepting links from: TikTok and YouTube; still not supported: Facebook and Instagram");
         $("#submit").addClass('disabled');
       }
 
-      if(urlo.pathname === "/") {
+      if(urlo.pathname === "/" || urlo.pathname.length === 0) {
         $("#note").text("You should submit an URL (a video, or a channel), and not the platform homepage!");
         $("#submit").addClass('disabled');
       }
@@ -171,14 +202,18 @@ og_url: "https://tracking.exposed/makhno"
       $("#note").text("Invalid URL, expected an URL from domain youtube.com or tiktok.com");
       $("#submit").addClass('disabled');
     }
-  });
+
+    /* we want to know when it is valid */
+    return !$("#submit").hasClass('disabled');
+  };
 
   async function submitURL(urlinput) {
-    const connection = await fetch("http://localhost:15000/api/v1/submit", {
+    const connection = await fetch(buildApiUrl('submit'), {
       method: 'POST',
       type: 'application/json',
       body: JSON.stringify({ url: urlinput })
     });
+    $("#submit").addClass('disabled');
     const content = await connection.json();
     return content;
   }
@@ -186,6 +221,7 @@ og_url: "https://tracking.exposed/makhno"
   $("#submit").on('click', async () => {
     const urlinput = $("#only-input").val();
     console.log("URL is", urlinput);
+    $("#submit").text("Sending...");
     try {
       const result = await submitURL(urlinput);
       if(result.text)
@@ -195,20 +231,8 @@ og_url: "https://tracking.exposed/makhno"
     } catch(error) {
       $("#note").text("Server error: " + error.message);
     }
+    $("#submit").text("Sent — reload page to submit a new URL");
   });
-
-/*
-  $("#survey-button").on('click', () => {
-    if($("#survey-button").hasClass("disabled"))
-      return;
-    $("#survey")
-      .html('<iframe src="https://framaforms.org/makhno-preliminary-survey-1644521864" width="100%" height="800" border="0"></iframe>');
-    $("#survey").css("display", "block");
-    $("#survey-button").addClass("disabled");
-    $('html, body').animate({ scrollTop: $('#survey').offset().top  - 30 }, 500);
-    $("footer").fadeIn(200);
-  });
-  */
 
   const easter = {
     "first": 1,
