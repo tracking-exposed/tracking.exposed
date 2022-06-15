@@ -25,10 +25,16 @@ h3 b {
     height: 100%;
     text-align: center;
     background-color: white;
-    background-image: url('/images/makhno/logo-bg.jpg');
+    background-image: url('/images/makhno/makhno-bg.png');
     background-repeat: no-repeat;
     background-position: right;
     background-size: auto 100%;
+}
+
+#logo {
+    width: 30%;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 .central-elements {
@@ -53,7 +59,6 @@ h3 b {
 
 .enhanced-button {
     font-size: 1.5em;
-    border: 4px double black;
     width: 240px;
     margin-left: 20px;
     margin-right: 20px;
@@ -76,7 +81,7 @@ h3 b {
 }
 .support-0 {
     background-color: white;
-    font-size: 2em;
+    font-size: 5em;
 }
 .support-1 {
     background-color: #235FB0; /* Cerulean Blue */
@@ -126,8 +131,23 @@ p {
     font-size: 1.4rem;
 }
 
-ol {
+ol, ul {
     font-size: 1.4rem;
+}
+
+.glow {
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 3px #ccfbf1;
+  }
+  to {
+    text-shadow: 0 0 10px #0d9488;
+  }
 }
 
 /* I'm not overriding li and ul because they are used in the footer */
