@@ -10,7 +10,7 @@ extraCSS: "/css/makhno.css"
 og_title: "Makhno — mapping social media algorithmic censorship"
 og_description: "A Mozilla Technology Fund sponsored project to enhance resistance against automated content takedown"
 og_type: "website"
-og_image: "https://tracking.exposed/images/makhno/logo-preview.jpg"
+og_image: "https://tracking.exposed/images/makhno/logo_withBG+safe_areas.png"
 og_url: "https://tracking.exposed/makhno"
 ---
 
@@ -22,10 +22,14 @@ og_url: "https://tracking.exposed/makhno"
       <img id="logo" src="/images/makhno/logo-lightmode.png" />
     </a>
 
-    <h3 id="title">Loading result for <span id="urlId"></span></h3>
+    <h3>
+      <span id="loading--message">Loading result from: </span>
+      <span id="urlId"></span>
+    </h3>
     <hr>
-    <div class="results">
-    </div>
+    <!-- mutually exclsive, one or the other is filled -->
+    <div id="error--info"></div>
+    <div id="results"></div>
   </div>
 
 </div>
@@ -62,14 +66,37 @@ og_url: "https://tracking.exposed/makhno"
     $("#urlId").addClass("glow");
 
     const mat = await loadResults(urlId);
-    console.log(mat);
+    $("#urlId").removeClass("glow");
+
+    if(mat.success) {
+      $("#loading--message").text("Loaded results of: ");
+      displayResults(mat.results);
+    }
+    else {
+      $("#loading--message").text("Error in loading: ");
+      $("#error--info").html('<code>' + mat.error + '</code>');
+    }
   }
 
   async function loadResults(urlId) {
-    const connection = await fetch(buildApiUrl('results', urlId));
-    const content = await connection.json();
-    console.log(content);
-    return content;
+    try {
+      const connection = await fetch(buildApiUrl('results', urlId));
+      const content = await connection.json();
+      console.log(content);
+      return content;
+    } catch(error) {
+      return {
+        success: false,
+        error
+      }
+    }
+  }
+
+  function displayResults(results) {
+    const all = _.map(results || [], function(rentr) {
+      return '<pre>' + JSON.stringify(rentr) + '</pre>';
+    });
+    $("#results").html(all.join('\n'));
   }
 
 </script>

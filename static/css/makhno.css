@@ -7,7 +7,7 @@ html {
 /* smaller affects the subtitle! */
 smaller, h3 {
     font-family: monospace;
-    color: #235FB0; /* Cerulean Blue */
+    color: #1f2937;
     font-size: 1.7rem;
 }
 
@@ -24,7 +24,7 @@ h3 b {
 .makhno {
     height: 100%;
     text-align: center;
-    background-color: white;
+    background-color: #f0f0fa;
     background-image: url('/images/makhno/makhno-bg.png');
     background-repeat: no-repeat;
     background-position: right;
@@ -48,11 +48,11 @@ h3 b {
 .central-elements p {
     font-size: 0.9em;
     font-family: monospace;
-    color: #235FB0; /* Cerulean Blue */
+    color: #374151;
 }
 
 .central-elements b {
-    color: #1A1A1A; /* Cod Gray */
+    color: #111827;
     font-weight: 100;
     font-family: monospace;
 }
@@ -67,7 +67,7 @@ h3 b {
 .main-input {
     width: 50%;
     border-radius: 12px;
-    border: 2px solid black;
+    border: 2px solid #374151;
     font-size: 1.5em;
     padding-left: 10px;
 }
@@ -76,25 +76,28 @@ h3 b {
     text-align: center;
     font-size: 2em;
     border-radius: 1em;
-    background-color: #E0E8E5; /* Nebula */
+    background-color: #ccfbf1;
     padding-bottom: 20px;
 }
 .support-0 {
     background-color: white;
+    color: #134e4a;
     font-size: 5em;
 }
 .support-1 {
-    background-color: #235FB0; /* Cerulean Blue */
-    color: yellow;
+    background-color: #99f6e4;
+    color: #134e4a;
     font-size: 5em;
 }
 .support-2 {
-    background-color: white;
+    /* background-color: #d1d5db; */
+    background-color: #134e4a;
+    color: #99f6e4;
     font-size: 5em;
 }
 .support-3 {
-    background-color: #1A1A1A; /* Cod Gray */
-    color: white;
+    background-color: #111827;
+    color: #ccfbf1;
     font-size: 5em;
 }
 
@@ -110,8 +113,8 @@ h3 b {
 
 h5 {
     text-align: center;
-    color: #E0E8E5; /* Nebula */
-    background-color: #1A1A1A; /* Cod Gray */
+    color: #f0f0fa;
+    background-color: #111827;
     font-size: 1.5em;
     font-weight: 100;
     padding: 1em;
@@ -119,8 +122,8 @@ h5 {
 
 h6 {
     text-align: justify;
-    background-color: #E0E8E5; /* Nebula */
-    color: #1A1A1A; /* Cod Gray */
+    background-color: #f0f0f1;
+    color: #111827;
     font-size: 1.5rem;
     margin: 20px 0px 20px 0px;
     padding: 10px;
@@ -132,6 +135,7 @@ p {
 }
 
 ol, ul {
+    padding: 10px;
     font-size: 1.4rem;
 }
 
