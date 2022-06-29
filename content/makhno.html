@@ -183,7 +183,7 @@ og_url: "https://tracking.exposed/makhno"
       const urlo = new URL(sanitized);
       console.log("Read successfully url", urlinput, urlo);
 
-      if(urlo.hostname === 'tiktok.com' || urlo.hostname === 'youtube.com') {
+      if( _.endsWith(urlo.hostname, 'tiktok.com') || _.endsWith(urlo.hostname, 'youtube.com') ) {
         $("#note").html("Platform <b>" + urlo.hostname + "</b> supported");
       } else {
         /* this is the default message + Error */
