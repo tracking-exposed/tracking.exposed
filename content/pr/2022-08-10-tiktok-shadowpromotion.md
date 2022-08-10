@@ -1,7 +1,6 @@
 ---
 type: pressrelease
-title: "Shadow-promotion: TikTok’s algorithmic recommendation
-of banned content in Russia"
+title: "Shadow-promotion: TikTok’s algorithmic recommendation of banned content in Russia"
 subtitle: "Why is content that is supposed to have been banned since the start of the Ukraine-Russia war instead being promoted?"
 location: Tarragona, Spain
 date: 2022-08-10
