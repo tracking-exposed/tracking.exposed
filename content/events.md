@@ -7,13 +7,12 @@ og_title:  "TRex: the events we collaborate to create"
 og_description: "Events, since 2016"
 ---
 
-
 {{<resource 
   kind="event"
   authors="Marc Faddoul"
   title="Harvard University: Faculty working group on Social Media Recommendation Algorithms"
   when="2021 - October"
-  href=""
+  href="https://docs.google.com/presentation/d/1rn8BjHyz_20qOh2nf7JieZ5zoqztIdf0d_xzGry5bWU/edit?usp=sharing"
   description="Round table discussion on social media and recommendation algorithms"
   resource1="Slides"
   resource1href="https://docs.google.com/presentation/d/1rn8BjHyz_20qOh2nf7JieZ5zoqztIdf0d_xzGry5bWU/edit?usp=sharing">}}
@@ -238,7 +237,7 @@ og_description: "Events, since 2016"
   href="http://www.journalismfestival.com/programme/2017/exposing-what-facebook-wants-you-to-see"
   description="International Journalism Festival, Perugia"
   when="2017 - April"
-  title="Panel discussion \"exposing what Facebook wants you to see\""
+  title='Panel discussion \"exposing what Facebook wants you to see\"'
   authors="Renata Avila, Federico Sarchi, Claudio Agosti"
   resource1="Video"
   resource1href="https://www.youtube.com/watch?v=wpnmDz9Os50" >}}
@@ -285,4 +284,6 @@ og_description: "Events, since 2016"
   href="https://www.youtube.com/watch?v=ayZeNKjX4i4"
   authors="Claudio Agosti"
   description="This is the project inception to the public! The original title was complete by saying 'not encryption anymore', but might sounds misleading. Encryption is a fundamental element for protection, simply, the impact of social media in our perception of reality is unmeasured, subtle, and potentially scaring. But is not for fear this call, is because, with centralization, we lose as individual the ability to control our own algorithm. P.S. Despite this is first appearance of the project in public, the very first birthday was here: https://moca.olografix.org/en/moca-en/ !" >}}
+
+---
 
