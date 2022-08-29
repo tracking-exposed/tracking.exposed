@@ -257,7 +257,7 @@ og_description: "Articles, Videos and Interview on algorithm analysis, since 201
   href="http://www.journalismfestival.com/programme/2017/exposing-what-facebook-wants-you-to-see"
   description="International Journalism Festival, Perugia"
   when="2017-April"
-  title="Panel discussion \"exposing what Facebook wants you to see\""
+  title="Panel discussion “exposing what Facebook wants you to see”"
   authors="Renata Avila, Federico Sarchi, Claudio Agosti"
   resource1="Video"
   resource1href="https://www.youtube.com/watch?v=wpnmDz9Os50" >}}
