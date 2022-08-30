@@ -6,3 +6,5 @@ themes/
 
 # Internal deployment method
 .infrastructure/*
+
+.hugo_build.lock
