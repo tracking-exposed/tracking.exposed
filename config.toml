@@ -28,10 +28,10 @@ canonifyURLs = true
 [menu]
 
  [[menu.main]]
-    name = "About"
-    identifier = "about"
-    url = "/about/"
-    weight = 10
+#    name = "About"
+#    identifier = "about"
+#    url = "/about/"
+#    weight = 10
 
  [[menu.main]]
     name = "Manifesto"
