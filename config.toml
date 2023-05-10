@@ -16,7 +16,7 @@ canonifyURLs = true
     subsite = "default"
     openGraphSiteName = "Tracking Exposed"
     description = "We develop free software to enable research and expert users in figuring out how algorithms shape their online perception."
-    tagline = "Goodbye Tracking Exposed, hello AI Forensics: an evolution in algorithm accountability"
+    tagline = "Goodbye Tracking Exposed, Hello AI Forensics: an Evolution in Algorithm Accountability"
 
 
 [permalinks]
