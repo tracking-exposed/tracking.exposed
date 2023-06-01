@@ -25,4 +25,4 @@ layout: monthly
 ---
 ## Test the [Guardoni executable for Linux](https://github.com/tracking-exposed/yttrex/releases), Windows and Mac
 
-since version 2.5.x we can consider this as a stable project, and soon would it be better documented and embedded in our work. Guardoni, in short, it is a tool that assist repetition of actions toward few supported platforms (Tiktok and Youtube, so far)
+since version 2.5.x we can consider this as a stable project, and soon would it be better documented and embedded in our work. Guardoni, in short, is a tool that assist repetition of actions toward few supported platforms (Tiktok and Youtube, so far)
