@@ -3,6 +3,7 @@ pipeline:
     image: klakegg/hugo:ext-alpine-ci
     commands:
       - hugo
+      - rm -rf /site/*
       - mv -f public/* /site
     volumes:
       - /var/www/sites/tracking.exposed:/site
