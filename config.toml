@@ -17,7 +17,7 @@ canonifyURLs = true
     openGraphSiteName = "Tracking Exposed"
     description = "We develop free software to enable research and expert users in figuring out how algorithms shape their online perception."
     # tagline = "Goodbye Tracking Exposed, Hello AI Forensics: an Evolution in Algorithm Accountability"
-    tagline = "Tracking Exposed Evolution: Introducing AI Forensics and the Reverse Engineering Task Force"
+    tagline = "Goodbye Tracking Exposed, Hello AI Forensics and Reversing.works: an Evolution in Algorithm accountability"
 
 
 [permalinks]
